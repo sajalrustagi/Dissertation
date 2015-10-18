@@ -1,0 +1,631 @@
+Promed_Update
+Wed Aug 19 00:00:01 2015
+
+Selenium Driver
+Wed Aug 19 00:00:02 2015
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("18/08/2015", '%d/%m/%Y'),"Tularemia" ," Tularemia - USA (12): (AK) hare, human");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("18/08/2015", '%d/%m/%Y'),"Pythiosis" ," Pythiosis - USA (02): (FL) canine");
+
+Promed_Update
+Thu Aug 20 00:00:01 2015
+
+Selenium Driver
+Thu Aug 20 00:00:01 2015
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("19/08/2015", '%d/%m/%Y'),"Malaria" ," Malaria - India (04): (OR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("19/08/2015", '%d/%m/%Y'),"Plague, animal" ," Plague, animal - USA (13): (CA) squirrel");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("19/08/2015", '%d/%m/%Y'),"Bovine tuberculosis" ," Bovine tuberculosis - Belgium (02): (LI) update");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("19/08/2015", '%d/%m/%Y'),"Bacterial black spot, mango" ," Bacterial black spot, mango - Ghana");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("18/08/2015", '%d/%m/%Y'),"MERS-CoV " ," MERS-CoV (109): Saudi Arabia, WHO");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("18/08/2015", '%d/%m/%Y'),"Chronic wasting disease, cervid" ," Chronic wasting disease, cervid - USA (05): (TX)");
+
+Promed_Update
+Fri Aug 21 00:00:01 2015
+
+Selenium Driver
+Fri Aug 21 00:00:02 2015
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("20/08/2015", '%d/%m/%Y'),"Equine influenza vaccine" ," Equine influenza vaccine - USA: new USEF rules");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("20/08/2015", '%d/%m/%Y'),"Antibiotic-resistant Enterobacteriaceae" ," Antibiotic-resistant Enterobacteriaceae - USA (06): ERCP endoscopes, FDA, update");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("20/08/2015", '%d/%m/%Y'),"MERS-CoV " ," MERS-CoV (110): Saudi Arabia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("20/08/2015", '%d/%m/%Y'),"Brucellosis" ," Brucellosis - Bulgaria (03): (KY, PV) livestock, OIE");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("20/08/2015", '%d/%m/%Y'),"Ebola" ," Ebola: update (99): Liberia crisis, S.Leone, WHO, susp. control, vaccine, funding");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("19/08/2015", '%d/%m/%Y'),"Japanese encephalitis & other" ," Japanese encephalitis & other - India (11): (ML)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("19/08/2015", '%d/%m/%Y'),"Gastroenteritis" ," Gastroenteritis - Macedonia: Dutch-holidaymakers, norovirus susp.");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("19/08/2015", '%d/%m/%Y'),"Tickborne relapsing fever" ," Tickborne relapsing fever - USA (03): (CA)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("19/08/2015", '%d/%m/%Y'),"Tularemia" ," Tularemia - USA (13): (NM, WY, AZ) human, animal");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("19/08/2015", '%d/%m/%Y'),"Salmonellosis" ," Salmonellosis - USA (13): (WA) pork, st. i 4,[5],12:i:-");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("19/08/2015", '%d/%m/%Y'),"Plague" ," Plague - USA (08): (CA)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("19/08/2015", '%d/%m/%Y'),"Anthrax" ," Anthrax - India (16): (TN) elephant");
+
+Promed_Update
+Sat Aug 22 00:00:01 2015
+
+Selenium Driver
+Sat Aug 22 00:00:03 2015
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("21/08/2015", '%d/%m/%Y'),"Anthrax" ," Anthrax - Nigeria: bovine");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("21/08/2015", '%d/%m/%Y'),"Haemophilus influenzae, type b" ," Haemophilus influenzae, type b - Canada: (ON): purpura fulminans, child, RFI ");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("21/08/2015", '%d/%m/%Y'),"Typhoid" ," Typhoid - Syria: (DI) refugee camp");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("21/08/2015", '%d/%m/%Y'),"Undiagnosed febrile illness" ," Undiagnosed febrile illness - India: (KA) children, scrub typhus susp, RFI ");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("20/08/2015", '%d/%m/%Y'),"MERS-CoV " ," MERS-CoV (111): Saudi Arabia, South Korea, RFI");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("20/08/2015", '%d/%m/%Y'),"Equine viral arteritis" ," Equine viral arteritis - Spain");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("20/08/2015", '%d/%m/%Y'),"Feline immunodeficiency virus" ," Feline immunodeficiency virus - Norway: stray cats");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("20/08/2015", '%d/%m/%Y'),"Rabbit hemorrhagic disease" ," Rabbit hemorrhagic disease - UK: (England) susp.");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("20/08/2015", '%d/%m/%Y'),"Cholera, diarrhea & dysentery" ," Cholera, diarrhea & dysentery: update (26): Americas, Africa, Asia ");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("20/08/2015", '%d/%m/%Y'),"Meningitis, meningococcal" ," Meningitis, meningococcal - Europe: (Sweden, Scotland), Japan,  Boy Scouts, RFI");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("20/08/2015", '%d/%m/%Y'),"Eastern equine encephalitis" ," Eastern equine encephalitis - USA (09): (NC)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("20/08/2015", '%d/%m/%Y'),"Lethal necrosis, millet" ," Lethal necrosis, millet - Kenya: new host");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("20/08/2015", '%d/%m/%Y'),"Invasive mosquito" ," Invasive mosquito - Australia, Belgium");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("20/08/2015", '%d/%m/%Y'),"Crayfish plague" ," Crayfish plague - Ireland: white-clawed crayfish mortality");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("20/08/2015", '%d/%m/%Y'),"Ebola" ," Ebola: update (99): Liberia crisis, S.Leone, WHO, susp, control: corr");
+
+Promed_Update
+Sun Aug 23 00:00:01 2015
+
+Selenium Driver
+Sun Aug 23 00:00:02 2015
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("22/08/2015", '%d/%m/%Y'),"African swine fever" ," African swine fever - Europe (18): Ukraine, Russia, Baltic, Poland, spread");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("21/08/2015", '%d/%m/%Y'),"MERS-CoV " ," MERS-CoV (112): Saudi Arabia, WHO");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("21/08/2015", '%d/%m/%Y'),"Equine infectious anemia" ," Equine infectious anemia - Canada: (SK)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("21/08/2015", '%d/%m/%Y'),"Avian influenza " ," Avian influenza (182): Viet Nam (LO), poultry, HPAI H5N6, spread, OIE");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("21/08/2015", '%d/%m/%Y'),"Vesicular stomatitis" ," Vesicular stomatitis - USA (13): update");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("21/08/2015", '%d/%m/%Y'),"Lumpy skin disease, bovine" ," Lumpy skin disease, bovine - Greece: (MH) 1st report, OIE");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("21/08/2015", '%d/%m/%Y'),"Lumpy skin disease, bovine" ," Lumpy skin disease, bovine - Bulgaria: alert, preventive measures");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("21/08/2015", '%d/%m/%Y'),"Mumps" ," Mumps - USA (05): (IA) returning university students");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("21/08/2015", '%d/%m/%Y'),"Legionellosis" ," Legionellosis - USA (10): (New York City) outbreak over, source found, RFI ");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("21/08/2015", '%d/%m/%Y'),"Rabbit haemorrhagic disease" ," Rabbit haemorrhagic disease - UK (02): (England)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("21/08/2015", '%d/%m/%Y'),"St. Louis encephalitis and West Nile viruses" ," St. Louis encephalitis and West Nile viruses - USA (AZ)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("21/08/2015", '%d/%m/%Y'),"Plague" ," Plague - USA (09): (GA) ex CA");
+
+Promed_Update
+Mon Aug 24 00:00:01 2015
+
+Selenium Driver
+Mon Aug 24 00:00:01 2015
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("23/08/2015", '%d/%m/%Y'),"Malaria" ," Malaria - South Sudan: (WR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("23/08/2015", '%d/%m/%Y'),"Leishmaniasis" ," Leishmaniasis - Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("23/08/2015", '%d/%m/%Y'),"Invasive mosquito" ," Invasive mosquito - Europe: France (VP)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("23/08/2015", '%d/%m/%Y'),"Eastern equine encephalitis" ," Eastern equine encephalitis - Panama: (DA)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("23/08/2015", '%d/%m/%Y'),"Gastroenteritis" ," Gastroenteritis - Brazil: USA rowers, RFI");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("22/08/2015", '%d/%m/%Y'),"Plague" ," Plague - USA (11): (GA) ex CA, comments");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("22/08/2015", '%d/%m/%Y'),"Anthrax" ," Anthrax - Moldova (02): (TE) human, ovine exposure");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("22/08/2015", '%d/%m/%Y'),"Rabies" ," Rabies - USA (28): (MS) bat strain in a cat");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("22/08/2015", '%d/%m/%Y'),"Toxic algae" ," Toxic algae - USA (04): (KS) water, alert");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("22/08/2015", '%d/%m/%Y'),"Plague" ," Plague - USA (10): (NM)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("22/08/2015", '%d/%m/%Y'),"MERS-CoV " ," MERS-CoV (113): Saudi Arabia, experimental vaccine, inc. cases");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("22/08/2015", '%d/%m/%Y'),"Equine infectious anemia" ," Equine infectious anemia - Canada (02): (SK) comment");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("22/08/2015", '%d/%m/%Y'),"Cyanide, water" ," Cyanide, water - China: (TJ)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("22/08/2015", '%d/%m/%Y'),"Measles" ," Measles: update (33)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("22/08/2015", '%d/%m/%Y'),"Theileria, bovine" ," Theileria, bovine - Australia (02): (WA)");
+
+Promed_Update
+Tue Aug 25 00:00:01 2015
+
+Selenium Driver
+Tue Aug 25 00:00:01 2015
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("24/08/2015", '%d/%m/%Y'),"MERS-CoV " ," MERS-CoV (115): Saudi Arabia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("23/08/2015", '%d/%m/%Y'),"Ebola" ," Ebola: update (100): WHO, CIDRAP, susp. NGO, technology, funding");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("23/08/2015", '%d/%m/%Y'),"MERS-CoV " ," MERS-CoV (114): Saudi Arabia, animal reservoir, camels, Hajj");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("23/08/2015", '%d/%m/%Y'),"Anthrax" ," Anthrax - Canada (09): (AB) bison");
+
+Promed_Update
+Wed Aug 26 00:00:01 2015
+
+Selenium Driver
+Wed Aug 26 00:00:02 2015
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("25/08/2015", '%d/%m/%Y'),"Blastomycosis" ," Blastomycosis - USA (03): (WI) more cases, RFI");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("25/08/2015", '%d/%m/%Y'),"Chikungunya " ," Chikungunya (25): Americas, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("25/08/2015", '%d/%m/%Y'),"Toxic algae" ," Toxic algae - UK (02): (England) canine, fatal, alert");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("25/08/2015", '%d/%m/%Y'),"Rabies" ," Rabies - Malaysia: (PL) canine, OIE");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("25/08/2015", '%d/%m/%Y'),"Tularemia" ," Tularemia - USA (14): (WY) fatality");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("25/08/2015", '%d/%m/%Y'),"MERS-CoV " ," MERS-CoV (116): Saudi Arabia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("24/08/2015", '%d/%m/%Y'),"Crimean-Congo hem. fever" ," Crimean-Congo hem. fever - India (06): (GJ)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("24/08/2015", '%d/%m/%Y'),"Anthrax" ," Anthrax - Canada (10): (AB) bison, further confirmations");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("24/08/2015", '%d/%m/%Y'),"Hantavirus" ," Hantavirus: update - Asia (03): India (MH)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("24/08/2015", '%d/%m/%Y'),"Pseudorabies, feral swine" ," Pseudorabies, feral swine - USA: (CA)");
+
+Promed_Update
+Thu Aug 27 00:00:01 2015
+
+Selenium Driver
+Thu Aug 27 00:00:02 2015
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("26/08/2015", '%d/%m/%Y'),"Koi herpesvirus disease" ," Koi herpesvirus disease - UK: (England)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("26/08/2015", '%d/%m/%Y'),"Avian influenza " ," Avian influenza (183): Nigeria (DE) poultry, HPAI H5N1, spread");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("26/08/2015", '%d/%m/%Y'),"Chemical weapons" ," Chemical weapons - Syria: (02) mustard gas susp");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("26/08/2015", '%d/%m/%Y'),"Plague" ," Plague - USA (12)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("26/08/2015", '%d/%m/%Y'),"E. coli EHEC" ," E. coli EHEC - Canada (03): O157");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("26/08/2015", '%d/%m/%Y'),"Dengue/DHF" ," Dengue/DHF: update (27): Americas, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("26/08/2015", '%d/%m/%Y'),"MERS-CoV " ," MERS-CoV (117): Saudi Arabia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("25/08/2015", '%d/%m/%Y'),"Antibiotic-resistant Enterobacteriaceae" ," Antibiotic-resistant Enterobacteriaceae - USA (07): ERCP endoscopes, FDA, update");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("25/08/2015", '%d/%m/%Y'),"Hand, foot & mouth disease" ," Hand, foot & mouth disease - Japan (02): alert");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("25/08/2015", '%d/%m/%Y')," Anthrax" ,"  Anthrax - Kyrgyzstan (06): (BA, NA) bovine, human");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("25/08/2015", '%d/%m/%Y'),"American foulbrood, apis" ," American foulbrood, apis - South Africa (03)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("25/08/2015", '%d/%m/%Y'),"Lumpy skin disease, bovine" ," Lumpy skin disease, bovine - Greece (02): (MH) situation assessment");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("25/08/2015", '%d/%m/%Y'),"Undiagnosed die-off, whale" ," Undiagnosed die-off, whale - USA: (AK) RFI");
+
+Promed_Update
+Fri Aug 28 00:00:02 2015
+
+Selenium Driver
+Fri Aug 28 00:00:02 2015
+error I : Message: Unable to locate element: {"method":"xpath","selector":"//*[@id=\"latest_list\"]/ul/li[1]"}
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///tmp/tmp8kuHl_/extensions/fxdriver@googlecode.com/components/driver-component.js:10667)
+    at FirefoxDriver.prototype.findElement (file:///tmp/tmp8kuHl_/extensions/fxdriver@googlecode.com/components/driver-component.js:10676)
+    at DelayedCommand.prototype.executeInternal_/h (file:///tmp/tmp8kuHl_/extensions/fxdriver@googlecode.com/components/command-processor.js:12643)
+    at DelayedCommand.prototype.executeInternal_ (file:///tmp/tmp8kuHl_/extensions/fxdriver@googlecode.com/components/command-processor.js:12648)
+    at DelayedCommand.prototype.execute/< (file:///tmp/tmp8kuHl_/extensions/fxdriver@googlecode.com/components/command-processor.js:12590)
+button clicked 
+
+Promed_Update
+Sat Aug 29 00:00:01 2015
+
+Selenium Driver
+Sat Aug 29 00:00:01 2015
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("28/08/2015", '%d/%m/%Y'),"Plague" ," Plague - USA (13): (UT) fatal");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("28/08/2015", '%d/%m/%Y'),"Sarcoptic mange, wombat" ," Sarcoptic mange, wombat - Australia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("28/08/2015", '%d/%m/%Y'),"Anthrax" ," Anthrax - Kenya (03): (NK) wildlife, OIE");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("28/08/2015", '%d/%m/%Y'),"Mumps" ," Mumps - USA (06): (IL) returning university students, further development");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("28/08/2015", '%d/%m/%Y'),"Brucellosis" ," Brucellosis - Russia (03): (ST) human, livestock");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("28/08/2015", '%d/%m/%Y'),"Hemorrhagic fever w/renal synd." ," Hemorrhagic fever w/renal synd. - Russia (03): (MR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("28/08/2015", '%d/%m/%Y'),"Anthrax" ," Anthrax - Slovenia: (NO) bovine, OIE");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("27/08/2015", '%d/%m/%Y'),"MERS-CoV " ," MERS-CoV (118): Saudi Arabia, Jordan ex Saudi Arabia ex Abroad, WHO, RFI");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("27/08/2015", '%d/%m/%Y'),"Vibrio vulnificus" ," Vibrio vulnificus - China: (HK) necrotizing fasciitis");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("27/08/2015", '%d/%m/%Y'),"Plague" ," Plague - Madagascar (03): (AO) pneumonic, fatal");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("27/08/2015", '%d/%m/%Y'),"Hepatitis A-like virus" ," Hepatitis A-like virus - USA: seals");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("27/08/2015", '%d/%m/%Y'),"Salmonellosis" ," Salmonellosis - Australia (05): (VI) hotel, raw egg mayonnaise");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("27/08/2015", '%d/%m/%Y'),"Pertussis" ," Pertussis - Australia (Canberra) New Zealand (South Island)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("27/08/2015", '%d/%m/%Y'),"Leishmaniasis" ," Leishmaniasis - Argentina (02): Bolivia lends drug");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("27/08/2015", '%d/%m/%Y'),"Influenza " ," Influenza (43): Australia (QL), seasonal, influenza B, alert");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("27/08/2015", '%d/%m/%Y'),"Influenza " ," Influenza (42): WHO global update, seasonal");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("27/08/2015", '%d/%m/%Y'),"Cyclosporiasis" ," Cyclosporiasis - USA (05): ex Mexico");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("27/08/2015", '%d/%m/%Y'),"European foulbrood, apis" ," European foulbrood, apis - Europe: Sweden (OR), Malta (NO), OIE");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("27/08/2015", '%d/%m/%Y'),"Anthrax" ," Anthrax - Kyrgyzstan (07): (NA) livestock slaughterhouse");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("27/08/2015", '%d/%m/%Y'),"Avian influenza " ," Avian influenza (184): Taiwan (CG) poultry, HPAI H5N2, OIE, spread");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("26/08/2015", '%d/%m/%Y'),"Meningitis, meningococcal" ," Meningitis, meningococcal - Europe (02): (Sweden, UK) ex Japan, Boy Scouts alert");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("26/08/2015", '%d/%m/%Y'),"Ebola" ," Ebola: update (101): WHO update, susp. NGO, vaccines, funding");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("26/08/2015", '%d/%m/%Y'),"Small hive beetle infestation, apis" ," Small hive beetle infestation, apis - Costa Rica: (GU) 1st report, OIE");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("26/08/2015", '%d/%m/%Y'),"European foulbrood, apis" ," European foulbrood, apis - Czech Republic: (KR) OIE");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("26/08/2015", '%d/%m/%Y'),"Hand, foot & mouth disease" ," Hand, foot & mouth disease - Philippines (02): alert");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("26/08/2015", '%d/%m/%Y'),"Vesicular stomatitis" ," Vesicular stomatitis - USA (14) (WY): livestock");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("26/08/2015", '%d/%m/%Y'),"Leptospirosis, wildlife" ," Leptospirosis, wildlife - Tasmania: Tasmanian devil");
+
+Promed_Update
+Sun Aug 30 00:00:01 2015
+
+Selenium Driver
+Sun Aug 30 00:00:01 2015
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("28/08/2015", '%d/%m/%Y'),"MERS-CoV " ," MERS-CoV (119): Jordan, Saudi Arabia, nosocomial");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("28/08/2015", '%d/%m/%Y'),"Brucellosis" ," Brucellosis - Taiwan: suspected imported");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("28/08/2015", '%d/%m/%Y'),"Toxic algae" ," Toxic algae - Canada (AB)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("28/08/2015", '%d/%m/%Y'),"Tularemia" ," Tularemia - USA (15): (CO) rabbits");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("28/08/2015", '%d/%m/%Y'),"Equine influenza, equine" ," Equine influenza, equine - Malaysia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("28/08/2015", '%d/%m/%Y'),"Leprosy" ," Leprosy - USA (05): (MI) ex FL  ");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("28/08/2015", '%d/%m/%Y'),"Human enterovirus 71" ," Human enterovirus 71 - Europe: transmission patterns 2003-2013");
+
+Promed_Update
+Mon Aug 31 00:00:01 2015
+
+Selenium Driver
+Mon Aug 31 00:00:01 2015
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("30/08/2015", '%d/%m/%Y'),"Measles" ," Measles: update (34)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("30/08/2015", '%d/%m/%Y'),"Anthrax" ," Anthrax - Morocco: (MA.MT) cutaneous, RFI ");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("30/08/2015", '%d/%m/%Y'),"Chikungunya " ," Chikungunya (26): Americas, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("30/08/2015", '%d/%m/%Y'),"Zika virus" ," Zika virus - Brazil (10): (PR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("30/08/2015", '%d/%m/%Y'),"Eastern equine encephalitis" ," Eastern equine encephalitis - Panama (02) (DA) equine, confirmed, corr.");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("29/08/2015", '%d/%m/%Y'),"Bovine tuberculosis, alpaca" ," Bovine tuberculosis, alpaca - Norway: ex Canada, RFI");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("29/08/2015", '%d/%m/%Y'),"Jamestown Canyon virus" ," Jamestown Canyon virus - USA: (IA)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("29/08/2015", '%d/%m/%Y'),"Hand, foot & mouth disease" ," Hand, foot & mouth disease - China (02): (HK) police recruits");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("29/08/2015", '%d/%m/%Y'),"Eastern equine encephalitis" ," Eastern equine encephalitis - Panama (02) (DA) equine, confirmed");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("29/08/2015", '%d/%m/%Y'),"Salmonellosis" ," Salmonellosis - USA (14): (WA, AK, OR) pork, st. i 4,[5],12:i:-, expanded recall");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("29/08/2015", '%d/%m/%Y'),"Rabies" ," Rabies - Malaysia (02): (PL) canine, human exposure");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("29/08/2015", '%d/%m/%Y'),"Legionellosis" ," Legionellosis -  USA  (11): (NY, CA, IL) RFI");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("29/08/2015", '%d/%m/%Y'),"Rabies" ," Rabies - Algeria: (TL) human, wolf susp, RFI ");
+
+Promed_Update
+Tue Sep  1 00:00:01 2015
+
+Selenium Driver
+Tue Sep  1 00:00:01 2015
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("31/08/2015", '%d/%m/%Y'),"Sheath blight, rice" ," Sheath blight, rice - India: (PB)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("30/08/2015", '%d/%m/%Y'),"MERS-CoV " ," MERS-CoV (120): Saudi Arabia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("30/08/2015", '%d/%m/%Y'),"Tularemia" ," Tularemia - USA (16): (AZ) rabbits");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("30/08/2015", '%d/%m/%Y'),"Ricin" ," Ricin - USA (03): (NY) death pills");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("30/08/2015", '%d/%m/%Y'),"Scombroid fish poisoning" ," Scombroid fish poisoning - Italy: (UM)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("30/08/2015", '%d/%m/%Y'),"Influenza, swine " ," Influenza, swine (04): USA (IA) novel strains H1N1v, H3N2v, human infection");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("30/08/2015", '%d/%m/%Y'),"Ebola" ," Ebola: update (102): Sierra Leone suspected death, WHO, CDC PPE, vaccine, dog");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("30/08/2015", '%d/%m/%Y'),"Influenza " ," Influenza (44): USA (TX), Australia (QD) early onset seasonal influenza, alert");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("30/08/2015", '%d/%m/%Y'),"Foot & mouth disease" ," Foot & mouth disease - Uganda: (NK) bovine, RFI");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("30/08/2015", '%d/%m/%Y'),"Tularemia" ," Tularemia - Sweden: (NB, VB) hare");
+
+Promed_Update
+Wed Sep  2 00:00:01 2015
+
+Selenium Driver
+Wed Sep  2 00:00:01 2015
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("01/09/2015", '%d/%m/%Y'),"Poliomyelitis" ," Poliomyelitis: update (04): Ukraine, 2 cases, RFI");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("01/09/2015", '%d/%m/%Y'),"Undiagnosed mortality, caprine" ," Undiagnosed mortality, caprine - India: (TG) RFI");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("01/09/2015", '%d/%m/%Y'),"Kerala wilt, coconut palm" ," Kerala wilt, coconut palm - India: (KL) susp");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("31/08/2015", '%d/%m/%Y'),"African swine fever" ," African swine fever - Kenya: (KB) OIE");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("31/08/2015", '%d/%m/%Y'),"MERS-CoV " ," MERS-CoV (121): Jordan, Saudi Arabia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("31/08/2015", '%d/%m/%Y'),"Bovine tuberculosis, alpaca" ," Bovine tuberculosis, alpaca - Norway (02): ex Canada, comment");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("31/08/2015", '%d/%m/%Y'),"Eastern equine encephalitis" ," Eastern equine encephalitis - Panama (03): (DA) equine");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("31/08/2015", '%d/%m/%Y'),"Anthrax" ," Anthrax - Slovenia (02): (NO) bovine, comment");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("31/08/2015", '%d/%m/%Y'),"Yellow Fever" ," Yellow Fever - Africa (05): Sudan, fake cards");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("31/08/2015", '%d/%m/%Y'),"Poliomyelitis" ," Poliomyelitis: update (03): Nigeria, Pakistan, global update, chronic shedder");
+
+Promed_Update
+Thu Sep  3 00:00:01 2015
+
+Selenium Driver
+Thu Sep  3 00:00:01 2015
+Box or Button not found in promedmail
+
+Promed_Update
+Fri Sep  4 00:00:01 2015
+
+Selenium Driver
+Fri Sep  4 00:00:01 2015
+Box or Button not found in promedmail
+
+Promed_Update
+Sat Sep  5 00:00:01 2015
+
+Selenium Driver
+Sat Sep  5 00:00:02 2015
+Box or Button not found in promedmail
+
+Promed_Update
+Sun Sep  6 00:00:01 2015
+
+Selenium Driver
+Sun Sep  6 00:00:01 2015
+Box or Button not found in promedmail
+
+Promed_Update
+Mon Sep  7 00:00:01 2015
+
+Selenium Driver
+Mon Sep  7 00:00:02 2015
+Box or Button not found in promedmail
+
+Promed_Update
+Tue Sep  8 00:00:01 2015
+
+Selenium Driver
+Tue Sep  8 00:00:01 2015
+Box or Button not found in promedmail
+
+Promed_Update
+Wed Sep  9 00:00:01 2015
+
+Selenium Driver
+Wed Sep  9 00:00:01 2015
+Box or Button not found in promedmail
+
+Promed_Update
+Thu Sep 10 00:00:01 2015
+
+Selenium Driver
+Thu Sep 10 00:00:01 2015
+Box or Button not found in promedmail
+
+Promed_Update
+Fri Sep 11 00:00:01 2015
+
+Selenium Driver
+Fri Sep 11 00:00:01 2015
+Traceback (most recent call last):
+  File "/home/sajal/Desktop/Promed_scrap/selenium_script.py", line 108, in <module>
+    driver = init_driver()
+  File "/home/sajal/Desktop/Promed_scrap/selenium_script.py", line 24, in init_driver
+    driver = webdriver.Firefox()
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/webdriver.py", line 77, in __init__
+    self.binary, timeout),
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/extension_connection.py", line 49, in __init__
+    self.binary.launch_browser(self.profile)
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/firefox_binary.py", line 68, in launch_browser
+    self._wait_until_connectable()
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/firefox_binary.py", line 103, in _wait_until_connectable
+    raise WebDriverException("Can't load the profile. Profile "
+selenium.common.exceptions.WebDriverException: Message: Can't load the profile. Profile Dir: %s If you specified a log_file in the FirefoxBinary constructor, check it for details.
+
+Promed_Update
+Sat Sep 12 00:00:01 2015
+
+Selenium Driver
+Sat Sep 12 00:00:01 2015
+Traceback (most recent call last):
+  File "/home/sajal/Desktop/Promed_scrap/selenium_script.py", line 108, in <module>
+    driver = init_driver()
+  File "/home/sajal/Desktop/Promed_scrap/selenium_script.py", line 24, in init_driver
+    driver = webdriver.Firefox()
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/webdriver.py", line 77, in __init__
+    self.binary, timeout),
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/extension_connection.py", line 49, in __init__
+    self.binary.launch_browser(self.profile)
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/firefox_binary.py", line 68, in launch_browser
+    self._wait_until_connectable()
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/firefox_binary.py", line 98, in _wait_until_connectable
+    raise WebDriverException("The browser appears to have exited "
+selenium.common.exceptions.WebDriverException: Message: The browser appears to have exited before we could connect. If you specified a log_file in the FirefoxBinary constructor, check it for details.
+
+Promed_Update
+Sun Sep 13 00:00:01 2015
+
+Selenium Driver
+Sun Sep 13 00:00:01 2015
+Traceback (most recent call last):
+  File "/home/sajal/Desktop/Promed_scrap/selenium_script.py", line 108, in <module>
+    driver = init_driver()
+  File "/home/sajal/Desktop/Promed_scrap/selenium_script.py", line 24, in init_driver
+    driver = webdriver.Firefox()
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/webdriver.py", line 77, in __init__
+    self.binary, timeout),
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/extension_connection.py", line 49, in __init__
+    self.binary.launch_browser(self.profile)
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/firefox_binary.py", line 68, in launch_browser
+    self._wait_until_connectable()
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/firefox_binary.py", line 103, in _wait_until_connectable
+    raise WebDriverException("Can't load the profile. Profile "
+selenium.common.exceptions.WebDriverException: Message: Can't load the profile. Profile Dir: %s If you specified a log_file in the FirefoxBinary constructor, check it for details.
+
+Promed_Update
+Mon Sep 14 00:00:01 2015
+
+Selenium Driver
+Mon Sep 14 00:00:01 2015
+Traceback (most recent call last):
+  File "/home/sajal/Desktop/Promed_scrap/selenium_script.py", line 108, in <module>
+    driver = init_driver()
+  File "/home/sajal/Desktop/Promed_scrap/selenium_script.py", line 24, in init_driver
+    driver = webdriver.Firefox()
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/webdriver.py", line 77, in __init__
+    self.binary, timeout),
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/extension_connection.py", line 49, in __init__
+    self.binary.launch_browser(self.profile)
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/firefox_binary.py", line 68, in launch_browser
+    self._wait_until_connectable()
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/firefox_binary.py", line 98, in _wait_until_connectable
+    raise WebDriverException("The browser appears to have exited "
+selenium.common.exceptions.WebDriverException: Message: The browser appears to have exited before we could connect. If you specified a log_file in the FirefoxBinary constructor, check it for details.
+
+Promed_Update
+Tue Sep 15 00:00:02 2015
+
+Selenium Driver
+Tue Sep 15 00:00:02 2015
+Traceback (most recent call last):
+  File "/home/sajal/Desktop/Promed_scrap/selenium_script.py", line 108, in <module>
+    driver = init_driver()
+  File "/home/sajal/Desktop/Promed_scrap/selenium_script.py", line 24, in init_driver
+    driver = webdriver.Firefox()
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/webdriver.py", line 77, in __init__
+    self.binary, timeout),
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/extension_connection.py", line 49, in __init__
+    self.binary.launch_browser(self.profile)
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/firefox_binary.py", line 68, in launch_browser
+    self._wait_until_connectable()
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/firefox_binary.py", line 103, in _wait_until_connectable
+    raise WebDriverException("Can't load the profile. Profile "
+selenium.common.exceptions.WebDriverException: Message: Can't load the profile. Profile Dir: %s If you specified a log_file in the FirefoxBinary constructor, check it for details.
+
+Promed_Update
+Wed Sep 16 00:00:01 2015
+
+Selenium Driver
+Wed Sep 16 00:00:01 2015
+Traceback (most recent call last):
+  File "/home/sajal/Desktop/Promed_scrap/selenium_script.py", line 108, in <module>
+    driver = init_driver()
+  File "/home/sajal/Desktop/Promed_scrap/selenium_script.py", line 24, in init_driver
+    driver = webdriver.Firefox()
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/webdriver.py", line 77, in __init__
+    self.binary, timeout),
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/extension_connection.py", line 49, in __init__
+    self.binary.launch_browser(self.profile)
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/firefox_binary.py", line 68, in launch_browser
+    self._wait_until_connectable()
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/firefox_binary.py", line 98, in _wait_until_connectable
+    raise WebDriverException("The browser appears to have exited "
+selenium.common.exceptions.WebDriverException: Message: The browser appears to have exited before we could connect. If you specified a log_file in the FirefoxBinary constructor, check it for details.
+
+Promed_Update
+Thu Sep 17 00:00:01 2015
+
+Selenium Driver
+Thu Sep 17 00:00:01 2015
+Traceback (most recent call last):
+  File "/home/sajal/Desktop/Promed_scrap/selenium_script.py", line 108, in <module>
+    driver = init_driver()
+  File "/home/sajal/Desktop/Promed_scrap/selenium_script.py", line 24, in init_driver
+    driver = webdriver.Firefox()
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/webdriver.py", line 77, in __init__
+    self.binary, timeout),
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/extension_connection.py", line 49, in __init__
+    self.binary.launch_browser(self.profile)
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/firefox_binary.py", line 68, in launch_browser
+    self._wait_until_connectable()
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/firefox_binary.py", line 103, in _wait_until_connectable
+    raise WebDriverException("Can't load the profile. Profile "
+selenium.common.exceptions.WebDriverException: Message: Can't load the profile. Profile Dir: %s If you specified a log_file in the FirefoxBinary constructor, check it for details.
+
+Promed_Update
+Fri Sep 18 00:00:01 2015
+
+Selenium Driver
+Fri Sep 18 00:00:02 2015
+Traceback (most recent call last):
+  File "/home/sajal/Desktop/Promed_scrap/selenium_script.py", line 108, in <module>
+    driver = init_driver()
+  File "/home/sajal/Desktop/Promed_scrap/selenium_script.py", line 24, in init_driver
+    driver = webdriver.Firefox()
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/webdriver.py", line 77, in __init__
+    self.binary, timeout),
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/extension_connection.py", line 49, in __init__
+    self.binary.launch_browser(self.profile)
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/firefox_binary.py", line 68, in launch_browser
+    self._wait_until_connectable()
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/firefox_binary.py", line 98, in _wait_until_connectable
+    raise WebDriverException("The browser appears to have exited "
+selenium.common.exceptions.WebDriverException: Message: The browser appears to have exited before we could connect. If you specified a log_file in the FirefoxBinary constructor, check it for details.
+
+Promed_Update
+Sat Sep 19 00:00:01 2015
+
+Selenium Driver
+Sat Sep 19 00:00:01 2015
+Traceback (most recent call last):
+  File "/home/sajal/Desktop/Promed_scrap/selenium_script.py", line 108, in <module>
+    driver = init_driver()
+  File "/home/sajal/Desktop/Promed_scrap/selenium_script.py", line 24, in init_driver
+    driver = webdriver.Firefox()
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/webdriver.py", line 77, in __init__
+    self.binary, timeout),
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/extension_connection.py", line 49, in __init__
+    self.binary.launch_browser(self.profile)
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/firefox_binary.py", line 68, in launch_browser
+    self._wait_until_connectable()
+  File "/home/sajal/anaconda/lib/python2.7/site-packages/selenium/webdriver/firefox/firefox_binary.py", line 103, in _wait_until_connectable
+    raise WebDriverException("Can't load the profile. Profile "
+selenium.common.exceptions.WebDriverException: Message: Can't load the profile. Profile Dir: %s If you specified a log_file in the FirefoxBinary constructor, check it for details.
+
+Promed_Update
+Sun Sep 27 00:00:01 2015
+DELETE FROM DISEASE_INFO_FULL_MODIFY WHERE DISEASE_FULL = " Bovine leukemia virus link to breast cancer" and RELEASE_DATE ="2015-09-17"
+
+Selenium Driver
+Sun Sep 27 00:00:01 2015
+
+Promed_Update
+Mon Sep 28 00:00:01 2015
+
+Selenium Driver
+Mon Sep 28 00:00:01 2015
+
+Promed_Update
+Tue Sep 29 00:00:01 2015
+
+Selenium Driver
+Tue Sep 29 00:00:01 2015
+Box or Button not found in promedmail
+
+Promed_Update
+Wed Sep 30 00:00:01 2015
+
+Selenium Driver
+Wed Sep 30 00:00:01 2015
+Box or Button not found in promedmail
+
+Promed_Update
+Thu Oct  1 00:00:01 2015
+
+Selenium Driver
+Thu Oct  1 00:00:01 2015
+
+Promed_Update
+Fri Oct  2 00:00:01 2015
+
+Selenium Driver
+Fri Oct  2 00:00:01 2015
+
+Promed_Update
+Sat Oct  3 00:00:01 2015
+
+Selenium Driver
+Sat Oct  3 00:00:01 2015
+
+Promed_Update
+Sun Oct  4 00:00:01 2015
+
+Selenium Driver
+Sun Oct  4 00:00:01 2015
+Box or Button not found in promedmail
+
+Promed_Update
+Mon Oct  5 00:00:01 2015
+
+Selenium Driver
+Mon Oct  5 00:00:01 2015
+
+Promed_Update
+Tue Oct  6 00:00:01 2015
+
+Selenium Driver
+Tue Oct  6 00:00:03 2015
+
+Promed_Update
+Wed Oct  7 00:00:01 2015
+
+Selenium Driver
+Wed Oct  7 00:00:01 2015
+
+Promed_Update
+Thu Oct  8 00:00:01 2015
+
+Selenium Driver
+Thu Oct  8 00:00:01 2015
+
+Promed_Update
+Fri Oct  9 00:00:01 2015
+
+Selenium Driver
+Fri Oct  9 00:00:02 2015
+Box or Button not found in promedmail
+
+Promed_Update
+Sat Oct 10 00:00:01 2015
+
+Selenium Driver
+Sat Oct 10 00:00:01 2015
+
+Promed_Update
+Sun Oct 11 00:00:01 2015
+
+Selenium Driver
+Sun Oct 11 00:00:01 2015
+Box or Button not found in promedmail
+
+Promed_Update
+Mon Oct 12 00:00:01 2015
+
+Selenium Driver
+Mon Oct 12 00:00:01 2015
+
+Promed_Update
+Tue Oct 13 00:00:01 2015
+
+Selenium Driver
+Tue Oct 13 00:00:01 2015
+Box or Button not found in promedmail
+
+Promed_Update
+Wed Oct 14 00:00:01 2015
+
+Selenium Driver
+Wed Oct 14 00:00:01 2015
+
+Promed_Update
+Thu Oct 15 00:00:01 2015
+
+Selenium Driver
+Thu Oct 15 00:00:02 2015
+
+Promed_Update
+Fri Oct 16 00:00:02 2015
+
+Selenium Driver
+Fri Oct 16 00:00:02 2015
+
+Promed_Update
+Sat Oct 17 00:00:01 2015
+
+Selenium Driver
+Sat Oct 17 00:00:01 2015
+Box or Button not found in promedmail
+
+Promed_Update
+Sun Oct 18 00:00:01 2015
+
+Selenium Driver
+Sun Oct 18 00:00:02 2015
+Box or Button not found in promedmail
+

@@ -1,0 +1,219 @@
+Wed Aug 12 00:00:01 2015
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("11/08/2015", '%d/%m/%Y'),"Equine piroplasmosis" ," Equine piroplasmosis - Ecuador: (GY) OIE");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("11/08/2015", '%d/%m/%Y'),"Leaf rust, barley" ," Leaf rust, barley - Australia: (WA)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("11/08/2015", '%d/%m/%Y'),"Infectious pancreatic necrosis, fish" ," Infectious pancreatic necrosis, fish - USA (AR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("11/08/2015", '%d/%m/%Y'),"Strangles, equine" ," Strangles, equine - Canada (NS)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("11/08/2015", '%d/%m/%Y'),"Konzo disease" ," Konzo disease - Zambia: cassava poisoning");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("11/08/2015", '%d/%m/%Y'),"Toxic algae" ," Toxic algae - China (AH)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("10/08/2015", '%d/%m/%Y'),"Dengue/DHF update " ," Dengue/DHF update (25): Americas, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("10/08/2015", '%d/%m/%Y'),"Cyclosporiasis" ," Cyclosporiasis - Canada");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("10/08/2015", '%d/%m/%Y'),"Anthrax" ," Anthrax - China (04): (SA) human, animal, control");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("10/08/2015", '%d/%m/%Y'),"MERS-CoV " ," MERS-CoV (105): Saudi Arabia, RFI");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("10/08/2015", '%d/%m/%Y'),"Rabies" ," Rabies - Syria: (DY) human, canine, RFI");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("10/08/2015", '%d/%m/%Y'),"Ulcerative dermal necrosis, salmon" ," Ulcerative dermal necrosis, salmon - UK: (England)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("10/08/2015", '%d/%m/%Y'),"MERS-CoV " ," MERS-CoV (104): Saudi Arabia, animal reservoir, camel debate");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("10/08/2015", '%d/%m/%Y'),"Chikungunya " ," Chikungunya (23): Americas, Asia, Europe");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("10/08/2015", '%d/%m/%Y'),"Influenza " ," Influenza (41): WHO global update, seasonal");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("10/08/2015", '%d/%m/%Y'),"Brucellosis" ," Brucellosis - Algeria: (BU) human, livestock");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("09/08/2015", '%d/%m/%Y'),"Ebola update " ," Ebola update (96): WHO update, post-Ebola syndrome, vaccine, research");
+
+Thu Aug 13 00:00:01 2015
+button clicked 
+button clicked 
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("12/06/2015", '%d/%m/%Y'),"Avian influenza " ," Prion disease: update (03): Ireland (LH) bovine, BSE susp");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("12/06/2015", '%d/%m/%Y'),"MERS-CoV " ," Prion disease: update (03): Ireland (LH) bovine, BSE susp");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("12/06/2015", '%d/%m/%Y'),"Obituary" ," Prion disease: update (03): Ireland (LH) bovine, BSE susp");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("12/06/2015", '%d/%m/%Y'),"Anthrax" ," Prion disease: update (03): Ireland (LH) bovine, BSE susp");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("12/06/2015", '%d/%m/%Y'),"Stripe rust, wheat" ," Prion disease: update (03): Ireland (LH) bovine, BSE susp");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("12/06/2015", '%d/%m/%Y'),"Turnip yellows virus, oilseed rape" ," Prion disease: update (03): Ireland (LH) bovine, BSE susp");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("12/06/2015", '%d/%m/%Y'),"Trichinellosis" ," Prion disease: update (03): Ireland (LH) bovine, BSE susp");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("12/06/2015", '%d/%m/%Y'),"Zika virus" ," Prion disease: update (03): Ireland (LH) bovine, BSE susp");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("11/06/2015", '%d/%m/%Y'),"MERS-CoV " ," Prion disease: update (03): Ireland (LH) bovine, BSE susp");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("11/06/2015", '%d/%m/%Y'),"Undiagnosed deaths, ovine" ," Prion disease: update (03): Ireland (LH) bovine, BSE susp");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("11/06/2015", '%d/%m/%Y'),"Anthrax" ," Prion disease: update (03): Ireland (LH) bovine, BSE susp");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("11/06/2015", '%d/%m/%Y'),"Foot & mouth disease" ," Prion disease: update (03): Ireland (LH) bovine, BSE susp");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("11/06/2015", '%d/%m/%Y'),"Avian influenza " ," Prion disease: update (03): Ireland (LH) bovine, BSE susp");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("11/06/2015", '%d/%m/%Y'),"Tuberculosis, XDR" ," Prion disease: update (03): Ireland (LH) bovine, BSE susp");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("10/06/2015", '%d/%m/%Y'),"MERS-CoV " ," Prion disease: update (03): Ireland (LH) bovine, BSE susp");
+
+Fri Aug 14 00:00:01 2015
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("13/07/2014", '%d/%m/%Y'),"Ebola virus disease" ," Measles: update (28)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("13/07/2014", '%d/%m/%Y'),"Pertussis" ," Measles: update (28)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("13/07/2014", '%d/%m/%Y'),"Chlorine gas exposure" ," Measles: update (28)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("13/07/2014", '%d/%m/%Y'),"Eastern equine encephalitis, equine" ," Measles: update (28)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("13/07/2014", '%d/%m/%Y'),"Anthrax" ," Measles: update (28)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("12/07/2014", '%d/%m/%Y'),"Ebola virus disease" ," Measles: update (28)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("12/07/2014", '%d/%m/%Y'),"African swine fever" ," Measles: update (28)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("12/07/2014", '%d/%m/%Y'),"Malaria" ," Measles: update (28)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("12/07/2014", '%d/%m/%Y'),"Crimean-Congo hem. fever" ," Measles: update (28)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("12/07/2014", '%d/%m/%Y'),"Yellow fever" ," Measles: update (28)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("12/07/2014", '%d/%m/%Y'),"Vesicular stomatitis, bovine" ," Measles: update (28)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("12/07/2014", '%d/%m/%Y'),"Japanese encephalitis" ," Measles: update (28)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("11/07/2014", '%d/%m/%Y'),"Smallpox" ," Measles: update (28)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("11/07/2014", '%d/%m/%Y'),"Ebola virus disease" ," Measles: update (28)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("11/07/2014", '%d/%m/%Y'),"Tularemia" ," Measles: update (28)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("11/07/2014", '%d/%m/%Y'),"Rabies" ," Measles: update (28)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("11/07/2014", '%d/%m/%Y'),"Sheep pox & goat pox" ," Measles: update (28)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("11/07/2014", '%d/%m/%Y'),"Syphilis" ," Measles: update (28)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("11/07/2014", '%d/%m/%Y'),"Japanese encephalitis" ," Measles: update (28)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("11/07/2014", '%d/%m/%Y'),"Undiagnosed illness" ," Measles: update (28)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("10/07/2014", '%d/%m/%Y'),"Ebola virus disease" ," Hantavirus: update - Americas (25): USA (TX)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("10/07/2014", '%d/%m/%Y'),"West Nile virus" ," Hantavirus: update - Americas (25): USA (TX)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("10/07/2014", '%d/%m/%Y'),"Anthrax" ," Hantavirus: update - Americas (25): USA (TX)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("10/07/2014", '%d/%m/%Y'),"Rabies" ," Hantavirus: update - Americas (25): USA (TX)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("10/07/2014", '%d/%m/%Y'),"Chikungunya " ," Hantavirus: update - Americas (25): USA (TX)");
+
+Sat Aug 15 00:00:01 2015
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("14/01/2014", '%d/%m/%Y'),"Lassa fever" ," Measles: update (02)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("14/01/2014", '%d/%m/%Y'),"Salmonellosis, st Heidelberg" ," Measles: update (02)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("14/01/2014", '%d/%m/%Y'),"Chikungunya " ," Measles: update (02)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("14/01/2014", '%d/%m/%Y'),"Canine distemper" ," Measles: update (02)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("14/01/2014", '%d/%m/%Y'),"White nose syndrome, bats" ," Measles: update (02)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("14/01/2014", '%d/%m/%Y'),"Prosthetic valve endocarditis, fungal" ," Measles: update (02)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("14/01/2014", '%d/%m/%Y'),"Hepatitis C" ," Measles: update (02)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("14/01/2014", '%d/%m/%Y'),"Hop stunt viroid" ," Measles: update (02)");
+
+Sun Aug 16 00:00:01 2015
+button clicked 
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("15/07/2015", '%d/%m/%Y'),"Porcine epidemic diarrhea" ," Ebola: update (88): WHO, UNHRD, UNMEER, susp. vaccine, research, funding");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("15/07/2015", '%d/%m/%Y'),"Japanese encephalitis & other" ," Ebola: update (88): WHO, UNHRD, UNMEER, susp. vaccine, research, funding");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("15/07/2015", '%d/%m/%Y'),"Avian influenza " ," Ebola: update (88): WHO, UNHRD, UNMEER, susp. vaccine, research, funding");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("15/07/2015", '%d/%m/%Y'),"Tick-borne encephalitis virus" ," Ebola: update (88): WHO, UNHRD, UNMEER, susp. vaccine, research, funding");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("15/07/2015", '%d/%m/%Y'),"Anthrax" ," Ebola: update (88): WHO, UNHRD, UNMEER, susp. vaccine, research, funding");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("15/07/2015", '%d/%m/%Y'),"Strep. Group B" ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("15/07/2015", '%d/%m/%Y'),"Plague, animal" ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("15/07/2015", '%d/%m/%Y'),"Eastern equine encephalitis" ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("15/07/2015", '%d/%m/%Y'),"Avian influenza " ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("15/07/2015", '%d/%m/%Y'),"Syphilis" ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("15/07/2015", '%d/%m/%Y'),"Fireblight, pome fruit" ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("15/07/2015", '%d/%m/%Y'),"Tularemia" ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("14/07/2015", '%d/%m/%Y'),"Leptospirosis, canine" ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("14/07/2015", '%d/%m/%Y'),"Salmonellosis" ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("14/07/2015", '%d/%m/%Y'),"Leishmaniasis, visceral" ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("14/07/2015", '%d/%m/%Y'),"Syphilis" ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("14/07/2015", '%d/%m/%Y'),"Foodborne illness" ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("14/07/2015", '%d/%m/%Y'),"Japanese encephalitis & other" ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("14/07/2015", '%d/%m/%Y'),"Black spot, citrus" ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("14/07/2015", '%d/%m/%Y'),"Avian influenza " ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("13/07/2015", '%d/%m/%Y'),"Equine herpesvirus, equine" ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("13/07/2015", '%d/%m/%Y'),"MERS-CoV " ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("13/07/2015", '%d/%m/%Y'),"Leptospirosis" ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("13/07/2015", '%d/%m/%Y'),"Influenza " ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("13/07/2015", '%d/%m/%Y'),"Avian influenza " ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("13/07/2015", '%d/%m/%Y'),"Rabies" ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("13/07/2015", '%d/%m/%Y'),"American foulbrood, apis" ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("13/07/2015", '%d/%m/%Y'),"Eastern equine encephalitis" ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("13/07/2015", '%d/%m/%Y'),"Syphilis" ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("13/07/2015", '%d/%m/%Y'),"Announcements " ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("13/07/2015", '%d/%m/%Y'),"Fusarium head blight & stripe rust, wheat" ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("12/07/2015", '%d/%m/%Y'),"Japanese encephalitis" ," Hantavirus: update - Americas (32): Bolivia (TR)");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("12/07/2015", '%d/%m/%Y'),"Anthrax" ," Hantavirus: update - Americas (32): Bolivia (TR)");
+
+Mon Aug 17 00:00:01 2015
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("16/04/2015", '%d/%m/%Y'),"MERS-CoV " ," Dengue/DHF: update (12): Americas, Asia, Indian Ocean");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("16/04/2015", '%d/%m/%Y'),"Rabies" ," Dengue/DHF: update (12): Americas, Asia, Indian Ocean");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("16/04/2015", '%d/%m/%Y'),"Tar spot, maize" ," Dengue/DHF: update (12): Americas, Asia, Indian Ocean");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("16/04/2015", '%d/%m/%Y'),"Avian influenza " ," Dengue/DHF: update (12): Americas, Asia, Indian Ocean");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("16/04/2015", '%d/%m/%Y'),"E. coli EHEC" ," Dengue/DHF: update (12): Americas, Asia, Indian Ocean");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("16/04/2015", '%d/%m/%Y'),"Avian influenza, human " ," Hantavirus: update - Americas (16): Panama (VR), susp, RFI");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("16/04/2015", '%d/%m/%Y'),"Avian influenza " ," Hantavirus: update - Americas (16): Panama (VR), susp, RFI");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("16/04/2015", '%d/%m/%Y'),"Kyasanur Forest disease" ," Hantavirus: update - Americas (16): Panama (VR), susp, RFI");
+
+Tue Aug 18 00:00:02 2015
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+button clicked 
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("17/07/2013", '%d/%m/%Y'),"West Nile virus" ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("17/07/2013", '%d/%m/%Y'),"Legionellosis" ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("17/07/2013", '%d/%m/%Y'),"Hepatitis C" ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("17/07/2013", '%d/%m/%Y'),"Cyclosporiasis" ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("17/07/2013", '%d/%m/%Y'),"Anthrax" ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("17/07/2013", '%d/%m/%Y'),"Mumps" ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("17/07/2013", '%d/%m/%Y'),"Cryptosporidiosis" ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("17/07/2013", '%d/%m/%Y'),"Leishmaniasis" ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("17/07/2013", '%d/%m/%Y'),"Rabies" ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("17/07/2013", '%d/%m/%Y'),"Campylobacteriosis" ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("17/07/2013", '%d/%m/%Y'),"MERS-CoV" ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("17/07/2013", '%d/%m/%Y'),"Infant botulism" ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("17/07/2013", '%d/%m/%Y'),"Rinderpest" ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("17/07/2013", '%d/%m/%Y'),"Tick-borne encephalitis" ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("16/07/2013", '%d/%m/%Y'),"Anthrax" ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("16/07/2013", '%d/%m/%Y'),"Avian influenza, human " ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("16/07/2013", '%d/%m/%Y'),"Announcements " ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("16/07/2013", '%d/%m/%Y'),"Diarrheal shellfish poisoning, 2011" ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("16/07/2013", '%d/%m/%Y'),"Salmonellosis" ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("16/07/2013", '%d/%m/%Y'),"Vibrio parahaemolyticus" ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("16/07/2013", '%d/%m/%Y'),"Vibrio vulnificus" ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("16/07/2013", '%d/%m/%Y'),"Angiostrongylus vasorum, canine" ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("16/07/2013", '%d/%m/%Y'),"Potomac horse fever, equine" ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("16/07/2013", '%d/%m/%Y'),"Canine distemper, zoo cats" ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+INSERT INTO DISEASE_INFO_FULL_MODIFY (RELEASE_DATE, DISEASE_NAME,DISEASE_FULL) VALUES( STR_TO_DATE ("16/07/2013", '%d/%m/%Y'),"Leprosy" ," Cholera, diarrhea & dysentery: update (27): Africa, Asia");
+

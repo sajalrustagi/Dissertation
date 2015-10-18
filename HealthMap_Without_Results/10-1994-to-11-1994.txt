@@ -1,0 +1,1026 @@
+1
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '31 Oct 1994', '<a href=\\"..\\/ai.php?2186245&trto=en&trfr=en&pid106\\" class=\\"fbox\\">PROMED: Gulf War Syndrome contagious?<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'39.966930\',\'-97.556099\',4,106);\\">United States<\\/a>', 'null', 'null', 'null']
+1
+2186245
+
+ProMED Mail
+31 Oct 1994
+Not Yet Classified
+United States
+'39.966930','-97.556099',4,106
+PROMED: Gulf War Syndrome contagious?
+
+ai.php?2186245&trto=en&trfr=en&pid106
+null
+null
+null
+1
+2186245
+
+2
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '27 Oct 1994', '<a href=\\"..\\/ai.php?2186242&trto=en&trfr=en&pid221\\" class=\\"fbox\\">PROMED: Scylla & Charybdis<\\/a>', 'Malaria', '<a href=\\"javascript:sc(\'31.015200\',\'-92.021500\',5,221);\\">Louisiana, United States<\\/a>', 'null', 'null', 'null']
+3
+2186242
+
+ProMED Mail
+27 Oct 1994
+Malaria
+Louisiana, United States
+'31.015200','-92.021500',5,221
+PROMED: Scylla & Charybdis
+
+ai.php?2186242&trto=en&trfr=en&pid221
+null
+null
+null
+3
+2186242
+
+3
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '27 Oct 1994', '<a href=\\"..\\/ai.php?2186242&trto=en&trfr=en&pid221\\" class=\\"fbox\\">PROMED: Scylla & Charybdis<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'31.015200\',\'-92.021500\',5,221);\\">Louisiana, United States<\\/a>', 'null', 'null', 'null']
+3
+2186242
+
+ProMED Mail
+27 Oct 1994
+Cholera
+Louisiana, United States
+'31.015200','-92.021500',5,221
+PROMED: Scylla & Charybdis
+
+ai.php?2186242&trto=en&trfr=en&pid221
+null
+null
+null
+3
+2186242
+
+4
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '27 Oct 1994', '<a href=\\"..\\/ai.php?2186242&trto=en&trfr=en&pid221\\" class=\\"fbox\\">PROMED: Scylla & Charybdis<\\/a>', 'Yellow Fever', '<a href=\\"javascript:sc(\'31.015200\',\'-92.021500\',5,221);\\">Louisiana, United States<\\/a>', 'null', 'null', 'null']
+3
+2186242
+
+ProMED Mail
+27 Oct 1994
+Yellow Fever
+Louisiana, United States
+'31.015200','-92.021500',5,221
+PROMED: Scylla & Charybdis
+
+ai.php?2186242&trto=en&trfr=en&pid221
+null
+null
+null
+3
+2186242
+
+5
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '27 Oct 1994', '<a href=\\"..\\/ai.php?2186241&trto=en&trfr=en&pid234\\" class=\\"fbox\\">PROMED: Letter to NY Times<\\/a>', 'HIV\\/AIDS', '<a href=\\"javascript:sc(\'43.004601\',\'-75.498100\',5,234);\\">New York State, United States<\\/a>', 'null', 'null', 'null']
+1
+2186241
+
+ProMED Mail
+27 Oct 1994
+HIV\/AIDS
+New York State, United States
+'43.004601','-75.498100',5,234
+PROMED: Letter to NY Times
+
+ai.php?2186241&trto=en&trfr=en&pid234
+null
+null
+null
+1
+2186241
+
+6
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '27 Oct 1994', '<a href=\\"..\\/ai.php?2186241&trto=en&trfr=en&pid234\\" class=\\"fbox\\">PROMED: Letter to NY Times<\\/a>', 'Tuberculosis', '<a href=\\"javascript:sc(\'43.004601\',\'-75.498100\',5,234);\\">New York State, United States<\\/a>', 'null', 'null', 'null']
+1
+2186241
+
+ProMED Mail
+27 Oct 1994
+Tuberculosis
+New York State, United States
+'43.004601','-75.498100',5,234
+PROMED: Letter to NY Times
+
+ai.php?2186241&trto=en&trfr=en&pid234
+null
+null
+null
+1
+2186241
+
+7
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '27 Oct 1994', '<a href=\\"..\\/ai.php?2186241&trto=en&trfr=en&pid234\\" class=\\"fbox\\">PROMED: Letter to NY Times<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'43.004601\',\'-75.498100\',5,234);\\">New York State, United States<\\/a>', 'null', 'null', 'null']
+3
+2186241
+
+ProMED Mail
+27 Oct 1994
+Cholera
+New York State, United States
+'43.004601','-75.498100',5,234
+PROMED: Letter to NY Times
+
+ai.php?2186241&trto=en&trfr=en&pid234
+null
+null
+null
+3
+2186241
+
+8
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '25 Oct 1994', '<a href=\\"..\\/ai.php?2186239&trto=en&trfr=en&pid142\\" class=\\"fbox\\">PROMED: Plague - India (MMWR)(2)<\\/a>', 'Plague', '<a href=\\"javascript:sc(\'22.883480\',\'79.616203\',5,142);\\">India<\\/a>', 'null', 'null', 'null']
+3
+2186239
+
+ProMED Mail
+25 Oct 1994
+Plague
+India
+'22.883480','79.616203',5,142
+PROMED: Plague - India (MMWR)(2)
+
+ai.php?2186239&trto=en&trfr=en&pid142
+null
+null
+null
+3
+2186239
+
+9
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '25 Oct 1994', '<a href=\\"..\\/ai.php?2186238&trto=en&trfr=en&pid142\\" class=\\"fbox\\">PROMED: Plague - India (MMWR)<\\/a>', 'Plague', '<a href=\\"javascript:sc(\'22.883480\',\'79.616203\',5,142);\\">India<\\/a>', 'null', 'null', 'null']
+3
+2186238
+
+ProMED Mail
+25 Oct 1994
+Plague
+India
+'22.883480','79.616203',5,142
+PROMED: Plague - India (MMWR)
+
+ai.php?2186238&trto=en&trfr=en&pid142
+null
+null
+null
+3
+2186238
+
+10
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '25 Oct 1994', '<a href=\\"..\\/ai.php?2186237&trto=en&trfr=en&pid142\\" class=\\"fbox\\">PROMED: Plague - India<\\/a>', 'Plague', '<a href=\\"javascript:sc(\'22.883480\',\'79.616203\',5,142);\\">India<\\/a>', 'null', 'null', 'null']
+3
+2186237
+
+ProMED Mail
+25 Oct 1994
+Plague
+India
+'22.883480','79.616203',5,142
+PROMED: Plague - India
+
+ai.php?2186237&trto=en&trfr=en&pid142
+null
+null
+null
+3
+2186237
+
+11
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '25 Oct 1994', '<a href=\\"..\\/ai.php?2186235&trto=en&trfr=en&pid20\\" class=\\"fbox\\">PROMED: Re: Epidemic neuropathy (2) - Cuba<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'21.621170\',\'-79.036346\',5,20);\\">Cuba<\\/a>', 'null', 'null', 'null']
+1
+2186235
+
+ProMED Mail
+25 Oct 1994
+Not Yet Classified
+Cuba
+'21.621170','-79.036346',5,20
+PROMED: Re: Epidemic neuropathy (2) - Cuba
+
+ai.php?2186235&trto=en&trfr=en&pid20
+null
+null
+null
+1
+2186235
+
+12
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Oct 1994', '<a href=\\"..\\/ai.php?2186234&trto=en&trfr=en&pid156\\" class=\\"fbox\\">PROMED: Tuberculosis\\/HIV co-epidemic<\\/a>', 'Tuberculosis', '<a href=\\"javascript:sc(\'36.098541\',\'138.478607\',5,156);\\">Japan<\\/a>', 'null', 'null', 'null']
+1
+2186234
+
+ProMED Mail
+24 Oct 1994
+Tuberculosis
+Japan
+'36.098541','138.478607',5,156
+PROMED: Tuberculosis\/HIV co-epidemic
+
+ai.php?2186234&trto=en&trfr=en&pid156
+null
+null
+null
+1
+2186234
+
+13
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Oct 1994', '<a href=\\"..\\/ai.php?2186234&trto=en&trfr=en&pid151\\" class=\\"fbox\\">PROMED: Tuberculosis\\/HIV co-epidemic<\\/a>', 'HIV\\/AIDS', '<a href=\\"javascript:sc(\'15.127040\',\'101.017357\',5,151);\\">Thailand<\\/a>', 'null', 'null', 'null']
+1
+2186234
+
+ProMED Mail
+24 Oct 1994
+HIV\/AIDS
+Thailand
+'15.127040','101.017357',5,151
+PROMED: Tuberculosis\/HIV co-epidemic
+
+ai.php?2186234&trto=en&trfr=en&pid151
+null
+null
+null
+1
+2186234
+
+14
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Oct 1994', '<a href=\\"..\\/ai.php?2186234&trto=en&trfr=en&pid142\\" class=\\"fbox\\">PROMED: Tuberculosis\\/HIV co-epidemic<\\/a>', 'HIV\\/AIDS', '<a href=\\"javascript:sc(\'22.883480\',\'79.616203\',5,142);\\">India<\\/a>', 'null', 'null', 'null']
+1
+2186234
+
+ProMED Mail
+24 Oct 1994
+HIV\/AIDS
+India
+'22.883480','79.616203',5,142
+PROMED: Tuberculosis\/HIV co-epidemic
+
+ai.php?2186234&trto=en&trfr=en&pid142
+null
+null
+null
+1
+2186234
+
+15
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Oct 1994', '<a href=\\"..\\/ai.php?2186234&trto=en&trfr=en&pid139\\" class=\\"fbox\\">PROMED: Tuberculosis\\/HIV co-epidemic<\\/a>', 'HIV\\/AIDS', '<a href=\\"javascript:sc(\'28.253010\',\'83.938553\',5,139);\\">Nepal<\\/a>', 'null', 'null', 'null']
+1
+2186234
+
+ProMED Mail
+24 Oct 1994
+HIV\/AIDS
+Nepal
+'28.253010','83.938553',5,139
+PROMED: Tuberculosis\/HIV co-epidemic
+
+ai.php?2186234&trto=en&trfr=en&pid139
+null
+null
+null
+1
+2186234
+
+16
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Oct 1994', '<a href=\\"..\\/ai.php?2186233&trto=en&trfr=en&pid20\\" class=\\"fbox\\">PROMED: Epidemic neuropathy - Cuba (2)<\\/a>', 'Enterovirus', '<a href=\\"javascript:sc(\'21.621170\',\'-79.036346\',5,20);\\">Cuba<\\/a>', 'null', 'null', 'null']
+1
+2186233
+
+ProMED Mail
+24 Oct 1994
+Enterovirus
+Cuba
+'21.621170','-79.036346',5,20
+PROMED: Epidemic neuropathy - Cuba (2)
+
+ai.php?2186233&trto=en&trfr=en&pid20
+null
+null
+null
+1
+2186233
+
+17
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Oct 1994', '<a href=\\"..\\/ai.php?2186232&trto=en&trfr=en&pid20\\" class=\\"fbox\\">PROMED: Epidemic neuropathy - Cuba<\\/a>', 'Herpes', '<a href=\\"javascript:sc(\'21.621170\',\'-79.036346\',5,20);\\">Cuba<\\/a>', 'null', 'null', 'null']
+1
+2186232
+
+ProMED Mail
+24 Oct 1994
+Herpes
+Cuba
+'21.621170','-79.036346',5,20
+PROMED: Epidemic neuropathy - Cuba
+
+ai.php?2186232&trto=en&trfr=en&pid20
+null
+null
+null
+1
+2186232
+
+18
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Oct 1994', '<a href=\\"..\\/ai.php?2186232&trto=en&trfr=en&pid20\\" class=\\"fbox\\">PROMED: Epidemic neuropathy - Cuba<\\/a>', 'Other Animal Disease', '<a href=\\"javascript:sc(\'21.621170\',\'-79.036346\',5,20);\\">Cuba<\\/a>', 'null', 'null', 'null']
+1
+2186232
+
+ProMED Mail
+24 Oct 1994
+Other Animal Disease
+Cuba
+'21.621170','-79.036346',5,20
+PROMED: Epidemic neuropathy - Cuba
+
+ai.php?2186232&trto=en&trfr=en&pid20
+null
+null
+null
+1
+2186232
+
+19
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Oct 1994', '<a href=\\"..\\/ai.php?2186231&trto=en&trfr=en&pid142\\" class=\\"fbox\\">PROMED: Plague - India: Update<\\/a>', 'Plague', '<a href=\\"javascript:sc(\'22.883480\',\'79.616203\',5,142);\\">India<\\/a>', 'null', 'null', 'null']
+3
+2186231
+
+ProMED Mail
+24 Oct 1994
+Plague
+India
+'22.883480','79.616203',5,142
+PROMED: Plague - India: Update
+
+ai.php?2186231&trto=en&trfr=en&pid142
+null
+null
+null
+3
+2186231
+
+20
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '21 Oct 1994', '<a href=\\"..\\/ai.php?2186230&trto=en&trfr=en&pid20\\" class=\\"fbox\\">PROMED: Epidemic neuropathy - Cuba<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'21.621170\',\'-79.036346\',5,20);\\">Cuba<\\/a>', 'null', 'null', 'null']
+1
+2186230
+
+ProMED Mail
+21 Oct 1994
+Not Yet Classified
+Cuba
+'21.621170','-79.036346',5,20
+PROMED: Epidemic neuropathy - Cuba
+
+ai.php?2186230&trto=en&trfr=en&pid20
+null
+null
+null
+1
+2186230
+
+21
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '20 Oct 1994', '<a href=\\"..\\/ai.php?2186229&trto=en&trfr=en&pid48\\" class=\\"fbox\\">PROMED: Rift Valley Fever Virus - Emergence<\\/a>', 'Rift Valley Fever', '<a href=\\"javascript:sc(\'14.366970\',\'-14.467650\',5,48);\\">Senegal<\\/a>', 'null', 'null', 'null']
+3
+2186229
+
+ProMED Mail
+20 Oct 1994
+Rift Valley Fever
+Senegal
+'14.366970','-14.467650',5,48
+PROMED: Rift Valley Fever Virus - Emergence
+
+ai.php?2186229&trto=en&trfr=en&pid48
+null
+null
+null
+3
+2186229
+
+22
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '20 Oct 1994', '<a href=\\"..\\/ai.php?2186229&trto=en&trfr=en&pid100\\" class=\\"fbox\\">PROMED: Rift Valley Fever Virus - Emergence<\\/a>', 'Rift Valley Fever', '<a href=\\"javascript:sc(\'46.564499\',\'2.551950\',5,100);\\">France<\\/a>', 'null', 'null', 'null']
+3
+2186229
+
+ProMED Mail
+20 Oct 1994
+Rift Valley Fever
+France
+'46.564499','2.551950',5,100
+PROMED: Rift Valley Fever Virus - Emergence
+
+ai.php?2186229&trto=en&trfr=en&pid100
+null
+null
+null
+3
+2186229
+
+23
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '20 Oct 1994', '<a href=\\"..\\/ai.php?2186229&trto=en&trfr=en&pid51\\" class=\\"fbox\\">PROMED: Rift Valley Fever Virus - Emergence<\\/a>', 'Rift Valley Fever', '<a href=\\"javascript:sc(\'20.259850\',\'-10.332300\',5,51);\\">Mauritania<\\/a>', 'null', 'null', 'null']
+3
+2186229
+
+ProMED Mail
+20 Oct 1994
+Rift Valley Fever
+Mauritania
+'20.259850','-10.332300',5,51
+PROMED: Rift Valley Fever Virus - Emergence
+
+ai.php?2186229&trto=en&trfr=en&pid51
+null
+null
+null
+3
+2186229
+
+24
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '20 Oct 1994', '<a href=\\"..\\/ai.php?2186228&trto=en&trfr=en&pid106\\" class=\\"fbox\\">PROMED: New publication<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'39.966930\',\'-97.556099\',4,106);\\">United States<\\/a>', 'null', 'null', 'null']
+1
+2186228
+
+ProMED Mail
+20 Oct 1994
+Not Yet Classified
+United States
+'39.966930','-97.556099',4,106
+PROMED: New publication
+
+ai.php?2186228&trto=en&trfr=en&pid106
+null
+null
+null
+1
+2186228
+
+25
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '18 Oct 1994', '<a href=\\"..\\/ai.php?2186227&trto=en&trfr=en&pid354\\" class=\\"fbox\\">PROMED: Ice cream salmonella epidemic<\\/a>', 'Salmonella', '<a href=\\"javascript:sc(\'46.225399\',\'-94.658302\',5,354);\\">Minnesota, United States<\\/a>', 'null', 'null', 'null']
+1
+2186227
+
+ProMED Mail
+18 Oct 1994
+Salmonella
+Minnesota, United States
+'46.225399','-94.658302',5,354
+PROMED: Ice cream salmonella epidemic
+
+ai.php?2186227&trto=en&trfr=en&pid354
+null
+null
+null
+1
+2186227
+
+26
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '18 Oct 1994', '<a href=\\"..\\/ai.php?2186227&trto=en&trfr=en&pid243\\" class=\\"fbox\\">PROMED: Ice cream salmonella epidemic<\\/a>', 'Salmonella', '<a href=\\"javascript:sc(\'44.496498\',\'-100.239304\',5,243);\\">South Dakota, United States<\\/a>', 'null', 'null', 'null']
+1
+2186227
+
+ProMED Mail
+18 Oct 1994
+Salmonella
+South Dakota, United States
+'44.496498','-100.239304',5,243
+PROMED: Ice cream salmonella epidemic
+
+ai.php?2186227&trto=en&trfr=en&pid243
+null
+null
+null
+1
+2186227
+
+27
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '18 Oct 1994', '<a href=\\"..\\/ai.php?2186227&trto=en&trfr=en&pid250\\" class=\\"fbox\\">PROMED: Ice cream salmonella epidemic<\\/a>', 'Salmonella', '<a href=\\"javascript:sc(\'44.496498\',\'-90.000000\',5,250);\\">Wisconsin, United States<\\/a>', 'null', 'null', 'null']
+1
+2186227
+
+ProMED Mail
+18 Oct 1994
+Salmonella
+Wisconsin, United States
+'44.496498','-90.000000',5,250
+PROMED: Ice cream salmonella epidemic
+
+ai.php?2186227&trto=en&trfr=en&pid250
+null
+null
+null
+1
+2186227
+
+28
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '17 Oct 1994', '<a href=\\"..\\/ai.php?2186226&trto=en&trfr=en&pid108\\" class=\\"fbox\\">PROMED: re: VHS of fish - threat to man? (fwd)<\\/a>', 'Other Animal Disease', '<a href=\\"javascript:sc(\'62.789902\',\'16.739750\',5,108);\\">Sweden<\\/a>', 'null', 'null', 'null']
+1
+2186226
+
+ProMED Mail
+17 Oct 1994
+Other Animal Disease
+Sweden
+'62.789902','16.739750',5,108
+PROMED: re: VHS of fish - threat to man? (fwd)
+
+ai.php?2186226&trto=en&trfr=en&pid108
+null
+null
+null
+1
+2186226
+
+29
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '17 Oct 1994', '<a href=\\"..\\/ai.php?2186226&trto=en&trfr=en&pid108\\" class=\\"fbox\\">PROMED: re: VHS of fish - threat to man? (fwd)<\\/a>', 'Foodborne Illness', '<a href=\\"javascript:sc(\'62.789902\',\'16.739750\',5,108);\\">Sweden<\\/a>', 'null', 'null', 'null']
+1
+2186226
+
+ProMED Mail
+17 Oct 1994
+Foodborne Illness
+Sweden
+'62.789902','16.739750',5,108
+PROMED: re: VHS of fish - threat to man? (fwd)
+
+ai.php?2186226&trto=en&trfr=en&pid108
+null
+null
+null
+1
+2186226
+
+30
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '17 Oct 1994', '<a href=\\"..\\/ai.php?2186225&trto=en&trfr=en&pid108\\" class=\\"fbox\\">PROMED: Orienteers\' disease - Sweden<\\/a>', 'Lyme Disease', '<a href=\\"javascript:sc(\'62.789902\',\'16.739750\',5,108);\\">Sweden<\\/a>', 'null', 'null', 'null']
+1
+2186225
+
+ProMED Mail
+17 Oct 1994
+Lyme Disease
+Sweden
+'62.789902','16.739750',5,108
+PROMED: Orienteers' disease - Sweden
+
+ai.php?2186225&trto=en&trfr=en&pid108
+null
+null
+null
+1
+2186225
+
+31
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '17 Oct 1994', '<a href=\\"..\\/ai.php?2186224&trto=en&trfr=en&pid204\\" class=\\"fbox\\">PROMED: VHS of fish - threat to man? (fwd)<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'37.250198\',\'-119.750298\',5,204);\\">California, United States<\\/a>', 'null', 'null', 'null']
+1
+2186224
+
+ProMED Mail
+17 Oct 1994
+Not Yet Classified
+California, United States
+'37.250198','-119.750298',5,204
+PROMED: VHS of fish - threat to man? (fwd)
+
+ai.php?2186224&trto=en&trfr=en&pid204
+null
+null
+null
+1
+2186224
+
+32
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Oct 1994', '<a href=\\"..\\/ai.php?2186223&trto=en&trfr=en&pid204\\" class=\\"fbox\\">PROMED: Electronic congratulations<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'37.250198\',\'-119.750298\',5,204);\\">California, United States<\\/a>', 'null', 'null', 'null']
+1
+2186223
+
+ProMED Mail
+13 Oct 1994
+Not Yet Classified
+California, United States
+'37.250198','-119.750298',5,204
+PROMED: Electronic congratulations
+
+ai.php?2186223&trto=en&trfr=en&pid204
+null
+null
+null
+1
+2186223
+
+33
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '7 Oct 1994', '<a href=\\"..\\/ai.php?2186222&trto=en&trfr=en&pid204\\" class=\\"fbox\\">PROMED: Hantavirus update<\\/a>', 'Hantavirus', '<a href=\\"javascript:sc(\'37.250198\',\'-119.750298\',5,204);\\">California, United States<\\/a>', 'null', 'null', 'null']
+3
+2186222
+
+ProMED Mail
+7 Oct 1994
+Hantavirus
+California, United States
+'37.250198','-119.750298',5,204
+PROMED: Hantavirus update
+
+ai.php?2186222&trto=en&trfr=en&pid204
+null
+null
+null
+3
+2186222
+
+34
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '7 Oct 1994', '<a href=\\"..\\/ai.php?2186220&trto=en&trfr=en&pid164\\" class=\\"fbox\\">PROMED: Re: Mystery horse virus (fwd) -Reply (fwd)<\\/a>', 'Equine Herpes Virus', '<a href=\\"javascript:sc(\'-42.423489\',\'172.659393\',5,164);\\">New Zealand<\\/a>', 'null', 'null', 'null']
+3
+2186220
+
+ProMED Mail
+7 Oct 1994
+Equine Herpes Virus
+New Zealand
+'-42.423489','172.659393',5,164
+PROMED: Re: Mystery horse virus (fwd) -Reply (fwd)
+
+ai.php?2186220&trto=en&trfr=en&pid164
+null
+null
+null
+3
+2186220
+
+35
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '7 Oct 1994', '<a href=\\"..\\/ai.php?2186219&trto=en&trfr=en&pid288\\" class=\\"fbox\\">PROMED: Re: Mystery horse virus (fwd) -Reply<\\/a>', 'Equine Herpes Virus', '<a href=\\"javascript:sc(\'-36.985100\',\'145.019501\',5,288);\\">Victoria, Australia<\\/a>', 'null', 'null', 'null']
+3
+2186219
+
+ProMED Mail
+7 Oct 1994
+Equine Herpes Virus
+Victoria, Australia
+'-36.985100','145.019501',5,288
+PROMED: Re: Mystery horse virus (fwd) -Reply
+
+ai.php?2186219&trto=en&trfr=en&pid288
+null
+null
+null
+3
+2186219
+
+36
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '7 Oct 1994', '<a href=\\"..\\/ai.php?2186219&trto=en&trfr=en&pid164\\" class=\\"fbox\\">PROMED: Re: Mystery horse virus (fwd) -Reply<\\/a>', 'Equine Herpes Virus', '<a href=\\"javascript:sc(\'-42.423489\',\'172.659393\',5,164);\\">New Zealand<\\/a>', 'null', 'null', 'null']
+3
+2186219
+
+ProMED Mail
+7 Oct 1994
+Equine Herpes Virus
+New Zealand
+'-42.423489','172.659393',5,164
+PROMED: Re: Mystery horse virus (fwd) -Reply
+
+ai.php?2186219&trto=en&trfr=en&pid164
+null
+null
+null
+3
+2186219
+
+37
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '5 Oct 1994', '<a href=\\"..\\/ai.php?2186218&trto=en&trfr=en&pid186\\" class=\\"fbox\\">PROMED: Mystery horse virus - Australia (2)<\\/a>', 'Equine Herpes Virus', '<a href=\\"javascript:sc(\'-25.734970\',\'134.489563\',4,186);\\">Australia<\\/a>', 'null', 'null', 'null']
+3
+2186218
+
+ProMED Mail
+5 Oct 1994
+Equine Herpes Virus
+Australia
+'-25.734970','134.489563',4,186
+PROMED: Mystery horse virus - Australia (2)
+
+ai.php?2186218&trto=en&trfr=en&pid186
+null
+null
+null
+3
+2186218
+
+38
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '5 Oct 1994', '<a href=\\"..\\/ai.php?2186217&trto=en&trfr=en&pid186\\" class=\\"fbox\\">PROMED: Emerging infections<\\/a>', 'Babesiosis', '<a href=\\"javascript:sc(\'-25.734970\',\'134.489563\',4,186);\\">Australia<\\/a>', 'null', 'null', 'null']
+1
+2186217
+
+ProMED Mail
+5 Oct 1994
+Babesiosis
+Australia
+'-25.734970','134.489563',4,186
+PROMED: Emerging infections
+
+ai.php?2186217&trto=en&trfr=en&pid186
+null
+null
+null
+1
+2186217
+
+39
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '5 Oct 1994', '<a href=\\"..\\/ai.php?2186216&trto=en&trfr=en&pid186\\" class=\\"fbox\\">PROMED: Mystery horse virus - Australia<\\/a>', 'Equine Herpes Virus', '<a href=\\"javascript:sc(\'-25.734970\',\'134.489563\',4,186);\\">Australia<\\/a>', 'null', 'null', 'null']
+3
+2186216
+
+ProMED Mail
+5 Oct 1994
+Equine Herpes Virus
+Australia
+'-25.734970','134.489563',4,186
+PROMED: Mystery horse virus - Australia
+
+ai.php?2186216&trto=en&trfr=en&pid186
+null
+null
+null
+3
+2186216
+
+40
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Oct 1994', '<a href=\\"..\\/ai.php?2186215&trto=en&trfr=en&pid171\\" class=\\"fbox\\">PROMED: Plague<\\/a>', 'Plague', '<a href=\\"javascript:sc(\'-19.000099\',\'29.871840\',6,171);\\">Zimbabwe<\\/a>', 'null', 'null', 'null']
+3
+2186215
+
+ProMED Mail
+3 Oct 1994
+Plague
+Zimbabwe
+'-19.000099','29.871840',6,171
+PROMED: Plague
+
+ai.php?2186215&trto=en&trfr=en&pid171
+null
+null
+null
+3
+2186215
+
+41
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Oct 1994', '<a href=\\"..\\/ai.php?2186215&trto=en&trfr=en&pid252\\" class=\\"fbox\\">PROMED: Plague<\\/a>', 'Plague', '<a href=\\"javascript:sc(\'40.713902\',\'-74.003998\',5,252);\\">New York City, New York State, United States<\\/a>', 'null', 'null', 'null']
+3
+2186215
+
+ProMED Mail
+3 Oct 1994
+Plague
+New York City, New York State, United States
+'40.713902','-74.003998',5,252
+PROMED: Plague
+
+ai.php?2186215&trto=en&trfr=en&pid252
+null
+null
+null
+3
+2186215
+
+42
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Oct 1994', '<a href=\\"..\\/ai.php?2186214&trto=en&trfr=en&pid105\\" class=\\"fbox\\">PROMED: Emerging diseases 1993-94<\\/a>', 'Plague', '<a href=\\"javascript:sc(\'46.802502\',\'8.234390\',5,105);\\">Switzerland<\\/a>', 'null', 'null', 'null']
+3
+2186214
+
+ProMED Mail
+3 Oct 1994
+Plague
+Switzerland
+'46.802502','8.234390',5,105
+PROMED: Emerging diseases 1993-94
+
+ai.php?2186214&trto=en&trfr=en&pid105
+null
+null
+null
+3
+2186214
+
+43
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Oct 1994', '<a href=\\"..\\/ai.php?2186214&trto=en&trfr=en&pid142\\" class=\\"fbox\\">PROMED: Emerging diseases 1993-94<\\/a>', 'Equine Herpes Virus', '<a href=\\"javascript:sc(\'22.883480\',\'79.616203\',5,142);\\">India<\\/a>', 'null', 'null', 'null']
+3
+2186214
+
+ProMED Mail
+3 Oct 1994
+Equine Herpes Virus
+India
+'22.883480','79.616203',5,142
+PROMED: Emerging diseases 1993-94
+
+ai.php?2186214&trto=en&trfr=en&pid142
+null
+null
+null
+3
+2186214
+
+44
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Oct 1994', '<a href=\\"..\\/ai.php?2186214&trto=en&trfr=en&pid72\\" class=\\"fbox\\">PROMED: Emerging diseases 1993-94<\\/a>', 'Brucellosis', '<a href=\\"javascript:sc(\'41.142288\',\'20.068380\',5,72);\\">Albania<\\/a>', 'null', 'null', 'null']
+3
+2186214
+
+ProMED Mail
+3 Oct 1994
+Brucellosis
+Albania
+'41.142288','20.068380',5,72
+PROMED: Emerging diseases 1993-94
+
+ai.php?2186214&trto=en&trfr=en&pid72
+null
+null
+null
+3
+2186214
+
+45
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Oct 1994', '<a href=\\"..\\/ai.php?2186214&trto=en&trfr=en&pid173\\" class=\\"fbox\\">PROMED: Emerging diseases 1993-94<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'-1.997890\',\'29.917650\',5,173);\\">Rwanda<\\/a>', 'null', 'null', 'null']
+3
+2186214
+
+ProMED Mail
+3 Oct 1994
+Cholera
+Rwanda
+'-1.997890','29.917650',5,173
+PROMED: Emerging diseases 1993-94
+
+ai.php?2186214&trto=en&trfr=en&pid173
+null
+null
+null
+3
+2186214
+
+46
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Oct 1994', '<a href=\\"..\\/ai.php?2186214&trto=en&trfr=en&pid153\\" class=\\"fbox\\">PROMED: Emerging diseases 1993-94<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'23.843229\',\'90.268501\',5,153);\\">Bangladesh<\\/a>', 'null', 'null', 'null']
+3
+2186214
+
+ProMED Mail
+3 Oct 1994
+Dengue
+Bangladesh
+'23.843229','90.268501',5,153
+PROMED: Emerging diseases 1993-94
+
+ai.php?2186214&trto=en&trfr=en&pid153
+null
+null
+null
+3
+2186214
+
+47
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Oct 1994', '<a href=\\"..\\/ai.php?2186214&trto=en&trfr=en&pid155\\" class=\\"fbox\\">PROMED: Emerging diseases 1993-94<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'36.519981\',\'103.891769\',4,155);\\">China<\\/a>', 'null', 'null', 'null']
+3
+2186214
+
+ProMED Mail
+3 Oct 1994
+Dengue
+China
+'36.519981','103.891769',4,155
+PROMED: Emerging diseases 1993-94
+
+ai.php?2186214&trto=en&trfr=en&pid155
+null
+null
+null
+3
+2186214
+
+48
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Oct 1994', '<a href=\\"..\\/ai.php?2186214&trto=en&trfr=en&pid147\\" class=\\"fbox\\">PROMED: Emerging diseases 1993-94<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'2.574600\',\'113.191803\',5,147);\\">Malaysia<\\/a>', 'null', 'null', 'null']
+3
+2186214
+
+ProMED Mail
+3 Oct 1994
+Dengue
+Malaysia
+'2.574600','113.191803',5,147
+PROMED: Emerging diseases 1993-94
+
+ai.php?2186214&trto=en&trfr=en&pid147
+null
+null
+null
+3
+2186214
+
+49
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Oct 1994', '<a href=\\"..\\/ai.php?2186214&trto=en&trfr=en&pid139\\" class=\\"fbox\\">PROMED: Emerging diseases 1993-94<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'28.253010\',\'83.938553\',5,139);\\">Nepal<\\/a>', 'null', 'null', 'null']
+3
+2186214
+
+ProMED Mail
+3 Oct 1994
+Dengue
+Nepal
+'28.253010','83.938553',5,139
+PROMED: Emerging diseases 1993-94
+
+ai.php?2186214&trto=en&trfr=en&pid139
+null
+null
+null
+3
+2186214
+
+50
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Oct 1994', '<a href=\\"..\\/ai.php?2186214&trto=en&trfr=en&pid140\\" class=\\"fbox\\">PROMED: Emerging diseases 1993-94<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'29.967020\',\'69.385971\',5,140);\\">Pakistan<\\/a>', 'null', 'null', 'null']
+3
+2186214
+
+ProMED Mail
+3 Oct 1994
+Dengue
+Pakistan
+'29.967020','69.385971',5,140
+PROMED: Emerging diseases 1993-94
+
+ai.php?2186214&trto=en&trfr=en&pid140
+null
+null
+null
+3
+2186214
+
+51
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Oct 1994', '<a href=\\"..\\/ai.php?2186214&trto=en&trfr=en&pid144\\" class=\\"fbox\\">PROMED: Emerging diseases 1993-94<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'7.608090\',\'80.704727\',5,144);\\">Sri Lanka<\\/a>', 'null', 'null', 'null']
+3
+2186214
+
+ProMED Mail
+3 Oct 1994
+Dengue
+Sri Lanka
+'7.608090','80.704727',5,144
+PROMED: Emerging diseases 1993-94
+
+ai.php?2186214&trto=en&trfr=en&pid144
+null
+null
+null
+3
+2186214
+
+52
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Oct 1994', '<a href=\\"..\\/ai.php?2186214&trto=en&trfr=en&pid17\\" class=\\"fbox\\">PROMED: Emerging diseases 1993-94<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'9.970200\',\'-84.187943\',5,17);\\">Costa Rica<\\/a>', 'null', 'null', 'null']
+3
+2186214
+
+ProMED Mail
+3 Oct 1994
+Dengue
+Costa Rica
+'9.970200','-84.187943',5,17
+PROMED: Emerging diseases 1993-94
+
+ai.php?2186214&trto=en&trfr=en&pid17
+null
+null
+null
+3
+2186214
+
+53
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Oct 1994', '<a href=\\"..\\/ai.php?2186214&trto=en&trfr=en&pid18\\" class=\\"fbox\\">PROMED: Emerging diseases 1993-94<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'8.507190\',\'-80.102661\',5,18);\\">Panama<\\/a>', 'null', 'null', 'null']
+3
+2186214
+
+ProMED Mail
+3 Oct 1994
+Dengue
+Panama
+'8.507190','-80.102661',5,18
+PROMED: Emerging diseases 1993-94
+
+ai.php?2186214&trto=en&trfr=en&pid18
+null
+null
+null
+3
+2186214
+
+54
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Oct 1994', '<a href=\\"..\\/ai.php?2186213&trto=en&trfr=en&pid186\\" class=\\"fbox\\">PROMED: Mystery horse virus - Australia<\\/a>', 'Equine Herpes Virus', '<a href=\\"javascript:sc(\'-25.734970\',\'134.489563\',4,186);\\">Australia<\\/a>', 'null', 'null', 'null']
+3
+2186213
+
+ProMED Mail
+3 Oct 1994
+Equine Herpes Virus
+Australia
+'-25.734970','134.489563',4,186
+PROMED: Mystery horse virus - Australia
+
+ai.php?2186213&trto=en&trfr=en&pid186
+null
+null
+null
+3
+2186213
+

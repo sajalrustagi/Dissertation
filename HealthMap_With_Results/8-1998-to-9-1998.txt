@@ -1,0 +1,1800 @@
+1
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '11 Aug 1998', '<a href=\\"..\\/ai.php?2215447&trto=en&trfr=pt&pid6\\" class=\\"fbox\\">PRO> Violencia, causa de obito - Brasil (Rio de Janeiro)(02)<\\/a>', 'Malaria', '<a href=\\"javascript:sc(\'-10.773110\',\'-53.089821\',4,6);\\">Brazil<\\/a>', 'null', 'null', 'null']
+3
+2215447
+
+2
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '7 Aug 1998', '<a href=\\"..\\/ai.php?2215446&trto=en&trfr=pt&pid6\\" class=\\"fbox\\">PRO> Violencia, causa de obito - Brasil (Rio de Janeiro)<\\/a>', 'Malaria', '<a href=\\"javascript:sc(\'-10.773110\',\'-53.089821\',4,6);\\">Brazil<\\/a>', 'null', 'null', 'null']
+3
+2215446
+
+3
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2215440&trto=en&trfr=pt&pid100\\" class=\\"fbox\\">PRO> Variola e variola dos macacos<\\/a>', 'Monkeypox', '<a href=\\"javascript:sc(\'46.564499\',\'2.551950\',5,100);\\">France<\\/a>', 'null', 'null', 'null']
+3
+2215440
+
+4
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '25 Aug 1998', '<a href=\\"..\\/ai.php?2215431&trto=en&trfr=pt&pid139\\" class=\\"fbox\\">PRO> Tuberculose e outras micobacterioses, pedido de informacao<\\/a>', 'Tuberculosis', '<a href=\\"javascript:sc(\'28.253010\',\'83.938553\',5,139);\\">Nepal<\\/a>', 'null', 'null', 'null']
+1
+2215431
+
+5
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '21 Aug 1998', '<a href=\\"..\\/ai.php?2215421&trto=en&trfr=pt&pid100\\" class=\\"fbox\\">PRO> Triquinelose - Franca<\\/a>', 'Ebola', '<a href=\\"javascript:sc(\'46.564499\',\'2.551950\',5,100);\\">France<\\/a>', 'null', 'null', 'null']
+3
+2215421
+
+6
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '14 Aug 1998', '<a href=\\"..\\/ai.php?2215411&trto=en&trfr=pt&pid16\\" class=\\"fbox\\">PRO> Tipificacion de leptospiras: pregunta<\\/a>', 'Typhus', '<a href=\\"javascript:sc(\'3.901160\',\'-73.073372\',5,16);\\">Colombia<\\/a>', 'null', 'null', 'null']
+1
+2215411
+
+7
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '18 Aug 1998', '<a href=\\"..\\/ai.php?2215393&trto=en&trfr=pt&pid279\\" class=\\"fbox\\">PRO> Shiguelose, surto - Inglaterra (West Sussex) (02)<\\/a>', 'Dysentery', '<a href=\\"javascript:sc(\'53.034599\',\'-0.560400\',5,279);\\">England, United Kingdom<\\/a>', 'null', 'null', 'null']
+3
+2215393
+
+8
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '17 Aug 1998', '<a href=\\"..\\/ai.php?2215392&trto=en&trfr=pt&pid279\\" class=\\"fbox\\">PRO> Shiguelose, surto - Inglaterra (West Sussex)<\\/a>', 'Dysentery', '<a href=\\"javascript:sc(\'53.034599\',\'-0.560400\',5,279);\\">England, United Kingdom<\\/a>', 'null', 'null', 'null']
+3
+2215392
+
+9
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '1 Sep 1998', '<a href=\\"..\\/ai.php?2215389&trto=en&trfr=pt&pid48\\" class=\\"fbox\\">PRO> Senegal, busca-se contato<\\/a>', 'Measles', '<a href=\\"javascript:sc(\'14.366970\',\'-14.467650\',5,48);\\">Senegal<\\/a>', 'null', 'null', 'null']
+3
+2215389
+
+10
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '7 Aug 1998', '<a href=\\"..\\/ai.php?2215384&trto=en&trfr=pt&pid171\\" class=\\"fbox\\">PRO> Sarampo, mortes apos imunizacao - Zimbabwe<\\/a>', 'Measles', '<a href=\\"javascript:sc(\'-19.000099\',\'29.871840\',6,171);\\">Zimbabwe<\\/a>', 'null', 'null', 'null']
+3
+2215384
+
+11
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '10 Aug 1998', '<a href=\\"..\\/ai.php?2215352&trto=en&trfr=pt&pid6\\" class=\\"fbox\\">PRO> Parvovirose, surto - Brasil (Santa Catarina)<\\/a>', 'River Blindness', '<a href=\\"javascript:sc(\'-10.773110\',\'-53.089821\',4,6);\\">Brazil<\\/a>', 'null', 'null', 'null']
+3
+2215352
+
+12
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '31 Aug 1998', '<a href=\\"..\\/ai.php?2215310&trto=en&trfr=pt&pid40\\" class=\\"fbox\\">PRO> Leite, duvidas sobre a seguranca - Reino Unido<\\/a>', 'Mycobacteria, non-TB', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+1
+2215310
+
+13
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '18 Aug 1998', '<a href=\\"..\\/ai.php?2215294&trto=en&trfr=pt&pid250\\" class=\\"fbox\\">PRO> Influenza A, fator de virulencia<\\/a>', 'Pneumonia', '<a href=\\"javascript:sc(\'44.496498\',\'-90.000000\',5,250);\\">Wisconsin, United States<\\/a>', 'null', 'null', 'null']
+1
+2215294
+
+14
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '18 Aug 1998', '<a href=\\"..\\/ai.php?2215294&trto=en&trfr=pt&pid198\\" class=\\"fbox\\">PRO> Influenza A, fator de virulencia<\\/a>', 'Pneumonia', '<a href=\\"javascript:sc(\'22.284000\',\'114.150002\',5,198);\\">Hong Kong<\\/a>', 'null', 'null', 'null']
+1
+2215294
+
+15
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '31 Aug 1998', '<a href=\\"..\\/ai.php?2215243&trto=en&trfr=pt&pid6\\" class=\\"fbox\\">PRO> Febre amarela silvestre - Brasil (1998) (02)<\\/a>', 'Yellow Fever', '<a href=\\"javascript:sc(\'-10.773110\',\'-53.089821\',4,6);\\">Brazil<\\/a>', 'null', 'null', 'null']
+3
+2215243
+
+16
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '15 Aug 1998', '<a href=\\"..\\/ai.php?2215222&trto=en&trfr=pt&pid155\\" class=\\"fbox\\">PRO> Enterovirus 71, atualizacao - China (Hong Kong) (02)<\\/a>', 'Enterovirus', '<a href=\\"javascript:sc(\'36.519981\',\'103.891769\',4,155);\\">China<\\/a>', 'null', 'null', 'null']
+1
+2215222
+
+17
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '15 Aug 1998', '<a href=\\"..\\/ai.php?2215222&trto=en&trfr=pt&pid198\\" class=\\"fbox\\">PRO> Enterovirus 71, atualizacao - China (Hong Kong) (02)<\\/a>', 'Enterovirus', '<a href=\\"javascript:sc(\'22.284000\',\'114.150002\',5,198);\\">Hong Kong<\\/a>', 'null', 'null', 'null']
+1
+2215222
+
+18
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '7 Aug 1998', '<a href=\\"..\\/ai.php?2215214&trto=en&trfr=pt&pid155\\" class=\\"fbox\\">PRO> Encefalite japonesa - China<\\/a>', 'Encephalitis', '<a href=\\"javascript:sc(\'36.519981\',\'103.891769\',4,155);\\">China<\\/a>', 'null', 'null', 'null']
+3
+2215214
+
+19
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2215201&trto=en&trfr=pt&pid18\\" class=\\"fbox\\">PRO> Doencas de notificacao compulsoria - Panama (Semana 32)<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'8.507190\',\'-80.102661\',5,18);\\">Panama<\\/a>', 'null', 'null', 'null']
+3
+2215201
+
+20
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2215201&trto=en&trfr=pt&pid18\\" class=\\"fbox\\">PRO> Doencas de notificacao compulsoria - Panama (Semana 32)<\\/a>', 'Diphtheria', '<a href=\\"javascript:sc(\'8.507190\',\'-80.102661\',5,18);\\">Panama<\\/a>', 'null', 'null', 'null']
+3
+2215201
+
+21
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2215201&trto=en&trfr=pt&pid18\\" class=\\"fbox\\">PRO> Doencas de notificacao compulsoria - Panama (Semana 32)<\\/a>', 'Syphilis', '<a href=\\"javascript:sc(\'8.507190\',\'-80.102661\',5,18);\\">Panama<\\/a>', 'null', 'null', 'null']
+1
+2215201
+
+22
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2215201&trto=en&trfr=pt&pid18\\" class=\\"fbox\\">PRO> Doencas de notificacao compulsoria - Panama (Semana 32)<\\/a>', 'HIV\\/AIDS', '<a href=\\"javascript:sc(\'8.507190\',\'-80.102661\',5,18);\\">Panama<\\/a>', 'null', 'null', 'null']
+1
+2215201
+
+23
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2215201&trto=en&trfr=pt&pid18\\" class=\\"fbox\\">PRO> Doencas de notificacao compulsoria - Panama (Semana 32)<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'8.507190\',\'-80.102661\',5,18);\\">Panama<\\/a>', 'null', 'null', 'null']
+3
+2215201
+
+24
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2215201&trto=en&trfr=pt&pid18\\" class=\\"fbox\\">PRO> Doencas de notificacao compulsoria - Panama (Semana 32)<\\/a>', 'Malaria', '<a href=\\"javascript:sc(\'8.507190\',\'-80.102661\',5,18);\\">Panama<\\/a>', 'null', 'null', 'null']
+3
+2215201
+
+25
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '24 Aug 1998', '<a href=\\"..\\/ai.php?2215190&trto=en&trfr=pt&pid165\\" class=\\"fbox\\">PRO> Doenca meningococica - Angola (02)<\\/a>', 'Meningitis', '<a href=\\"javascript:sc(\'-12.295290\',\'17.544680\',5,165);\\">Angola<\\/a>', 'null', 'null', 'null']
+3
+2215190
+
+26
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '7 Aug 1998', '<a href=\\"..\\/ai.php?2215189&trto=en&trfr=pt&pid165\\" class=\\"fbox\\">PRO> Doenca meningococica - Angola<\\/a>', 'Meningitis', '<a href=\\"javascript:sc(\'-12.295290\',\'17.544680\',5,165);\\">Angola<\\/a>', 'null', 'null', 'null']
+3
+2215189
+
+27
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '17 Aug 1998', '<a href=\\"..\\/ai.php?2215185&trto=en&trfr=pt&pid280\\" class=\\"fbox\\">PRO> Doenca de Crohn da boca e bebidas - Escocia<\\/a>', 'BSE', '<a href=\\"javascript:sc(\'56.500000\',\'-4.000000\',5,280);\\">Scotland, United Kingdom<\\/a>', 'null', 'null', 'null']
+3
+2215185
+
+28
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2215181&trto=en&trfr=pt&pid40\\" class=\\"fbox\\">PRO> Doenca de Creutzfeldt-Jakob, atualizacao - Reino Unido<\\/a>', 'Chagas', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+1
+2215181
+
+29
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '15 Aug 1998', '<a href=\\"..\\/ai.php?2215167&trto=en&trfr=pt&pid192\\" class=\\"fbox\\">PRO> Dengue, epidemia - Porto Rico<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'18.251301\',\'-66.501404\',6,192);\\">Puerto Rico<\\/a>', 'null', 'null', 'null']
+3
+2215167
+
+30
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '15 Aug 1998', '<a href=\\"..\\/ai.php?2215148&trto=en&trfr=pt&pid6\\" class=\\"fbox\\">PRO> Dengue - Brasil: pergunta (02)<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'-10.773110\',\'-53.089821\',4,6);\\">Brazil<\\/a>', 'null', 'null', 'null']
+3
+2215148
+
+31
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '10 Aug 1998', '<a href=\\"..\\/ai.php?2215147&trto=en&trfr=pt&pid6\\" class=\\"fbox\\">PRO> Dengue - Brasil: pergunta<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'-10.773110\',\'-53.089821\',4,6);\\">Brazil<\\/a>', 'null', 'null', 'null']
+3
+2215147
+
+32
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '15 Aug 1998', '<a href=\\"..\\/ai.php?2215114&trto=en&trfr=pt&pid6\\" class=\\"fbox\\">PRO> Curso de geoprocessamento e epidemiologia - Brasil (Rio de ...<\\/a>', 'Diarrhea', '<a href=\\"javascript:sc(\'-10.773110\',\'-53.089821\',4,6);\\">Brazil<\\/a>', 'null', 'null', 'null']
+3
+2215114
+
+33
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '15 Aug 1998', '<a href=\\"..\\/ai.php?2215079&trto=en&trfr=pt&pid177\\" class=\\"fbox\\">PRO> Colera - Mocambique (13)<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'-17.260059\',\'35.552200\',5,177);\\">Mozambique<\\/a>', 'null', 'null', 'null']
+3
+2215079
+
+34
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '24 Aug 1998', '<a href=\\"..\\/ai.php?2215046&trto=en&trfr=pt&pid137\\" class=\\"fbox\\">PRO> Colera - Afeganistao (02)<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'33.838810\',\'66.026466\',5,137);\\">Afghanistan<\\/a>', 'null', 'null', 'null']
+3
+2215046
+
+35
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '21 Aug 1998', '<a href=\\"..\\/ai.php?2215045&trto=en&trfr=pt&pid137\\" class=\\"fbox\\">PRO> Colera - Afeganistao<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'33.838810\',\'66.026466\',5,137);\\">Afghanistan<\\/a>', 'null', 'null', 'null']
+3
+2215045
+
+36
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Portugu\\u00eas\\" alt=\\"ProMED Portugu\\u00eas\\" \\/>', '11 Aug 1998', '<a href=\\"..\\/ai.php?2215004&trto=en&trfr=pt&pid6\\" class=\\"fbox\\">PRO> AIDS, Consultas via Internet - Brasil<\\/a>', 'HIV\\/AIDS', '<a href=\\"javascript:sc(\'-10.773110\',\'-53.089821\',4,6);\\">Brazil<\\/a>', 'null', 'null', 'null']
+1
+2215004
+
+37
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '31 Aug 1998', '<a href=\\"..\\/ai.php?2194167&trto=en&trfr=en&pid331\\" class=\\"fbox\\">PRO\\/EDR> Shigellosis - West Bank (Nablus)<\\/a>', 'Shigellosis', '<a href=\\"javascript:sc(\'31.975401\',\'35.260601\',5,331);\\">West Bank, Palestinian Territory<\\/a>', 'null', 'null', 'null']
+3
+2194167
+
+38
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '31 Aug 1998', '<a href=\\"..\\/ai.php?2194166&trto=en&trfr=en&pid221\\" class=\\"fbox\\">PRO\\/AH\\/EDR> St. Louis encephalitis - USA (Louisiana) (02)<\\/a>', 'Encephalitis', '<a href=\\"javascript:sc(\'31.015200\',\'-92.021500\',5,221);\\">Louisiana, United States<\\/a>', 'null', 'null', 'null']
+3
+2194166
+
+39
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '31 Aug 1998', '<a href=\\"..\\/ai.php?2194165&trto=en&trfr=en&pid284\\" class=\\"fbox\\">PRO\\/AH> Oysters, mortality - Australia (New South Wales) (05)<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'-33.000000\',\'146.000000\',5,284);\\">New South Wales, Australia<\\/a>', 'null', 'null', 'null']
+1
+2194165
+
+40
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '31 Aug 1998', '<a href=\\"..\\/ai.php?2194164&trto=en&trfr=en&pid139\\" class=\\"fbox\\">PRO> Japanese encephalitis - Nepal (05)<\\/a>', 'Japanese Encephalitis', '<a href=\\"javascript:sc(\'28.253010\',\'83.938553\',5,139);\\">Nepal<\\/a>', 'null', 'null', 'null']
+3
+2194164
+
+41
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '31 Aug 1998', '<a href=\\"..\\/ai.php?2194163&trto=en&trfr=en&pid140\\" class=\\"fbox\\">PRO\\/EDR> Cholera - Pakistan (Murree, Swat)<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'29.967020\',\'69.385971\',5,140);\\">Pakistan<\\/a>', 'null', 'null', 'null']
+3
+2194163
+
+42
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '30 Aug 1998', '<a href=\\"..\\/ai.php?2194162&trto=en&trfr=en&pid137\\" class=\\"fbox\\">PRO\\/EDR> Cholera - Afghanistan (03)<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'33.838810\',\'66.026466\',5,137);\\">Afghanistan<\\/a>', 'null', 'null', 'null']
+3
+2194162
+
+43
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '30 Aug 1998', '<a href=\\"..\\/ai.php?2194161&trto=en&trfr=en&pid154\\" class=\\"fbox\\">PRO> Cholera - Bhutan (02)<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'27.415409\',\'90.429428\',5,154);\\">Bhutan<\\/a>', 'null', 'null', 'null']
+3
+2194161
+
+44
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '30 Aug 1998', '<a href=\\"..\\/ai.php?2194160&trto=en&trfr=en&pid283\\" class=\\"fbox\\">PRO> Mosquitoes, underground - UK (London)<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'51.500000\',\'-0.116700\',5,283);\\">London, England, United Kingdom<\\/a>', 'null', 'null', 'null']
+1
+2194160
+
+45
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '30 Aug 1998', '<a href=\\"..\\/ai.php?2194159&trto=en&trfr=en&pid212\\" class=\\"fbox\\">PRO\\/AH\\/EDR> Vibrio vulnificus - USA (Florida)<\\/a>', 'Vibrio vulnificus', '<a href=\\"javascript:sc(\'28.149500\',\'-81.650398\',5,212);\\">Florida, United States<\\/a>', 'null', 'null', 'null']
+3
+2194159
+
+46
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '30 Aug 1998', '<a href=\\"..\\/ai.php?2194158&trto=en&trfr=en&pid296\\" class=\\"fbox\\">PRO\\/AH> Giardia, water supply - Australia (Sydney) (11)<\\/a>', 'Giardiasis', '<a href=\\"javascript:sc(\'-33.870499\',\'151.215805\',5,296);\\">Sydney, New South Wales, Australia<\\/a>', 'null', 'null', 'null']
+1
+2194158
+
+47
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '30 Aug 1998', '<a href=\\"..\\/ai.php?2194157&trto=en&trfr=en&pid139\\" class=\\"fbox\\">PRO> Japanese encephalitis - Nepal (04)<\\/a>', 'Japanese Encephalitis', '<a href=\\"javascript:sc(\'28.253010\',\'83.938553\',5,139);\\">Nepal<\\/a>', 'null', 'null', 'null']
+3
+2194157
+
+48
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '30 Aug 1998', '<a href=\\"..\\/ai.php?2194156&trto=en&trfr=en&pid54\\" class=\\"fbox\\">PRO> Yellow fever - Liberia (02)<\\/a>', 'Yellow Fever', '<a href=\\"javascript:sc(\'6.448090\',\'-9.307910\',5,54);\\">Liberia<\\/a>', 'null', 'null', 'null']
+3
+2194156
+
+49
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '30 Aug 1998', '<a href=\\"..\\/ai.php?2194155&trto=en&trfr=en&pid476\\" class=\\"fbox\\">PRO> Rheumatic fever & viral syndrome - Niue (02)<\\/a>', 'Rheumatic Fever', '<a href=\\"javascript:sc(\'-19.033400\',\'-169.866699\',5,476);\\">Niue<\\/a>', 'null', 'null', 'null']
+1
+2194155
+
+50
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '30 Aug 1998', '<a href=\\"..\\/ai.php?2194154&trto=en&trfr=en&pid573\\" class=\\"fbox\\">PRO\\/EDR> Dengue alert - Wallis & Fortuna<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'-13.768750\',\'-177.156097\',6,573);\\">Collectivit\\u00e9 d\'outre-mer de Wallis and Futuna, France<\\/a>', 'null', 'null', 'null']
+3
+2194154
+
+51
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '30 Aug 1998', '<a href=\\"..\\/ai.php?2194153&trto=en&trfr=en&pid161\\" class=\\"fbox\\">PRO\\/EDR> Dengue alert - Fed. States of Micronesia (Kosrae)<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'6.492380\',\'159.404221\',5,161);\\">Micronesia<\\/a>', 'null', 'null', 'null']
+3
+2194153
+
+52
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '30 Aug 1998', '<a href=\\"..\\/ai.php?2194152&trto=en&trfr=en&pid107\\" class=\\"fbox\\">PRO> Cholera, imported - Norway ex Pakistan: Correction<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'60.716099\',\'8.745100\',5,107);\\">Norway<\\/a>', 'null', 'null', 'null']
+3
+2194152
+
+53
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '30 Aug 1998', '<a href=\\"..\\/ai.php?2194152&trto=en&trfr=en&pid140\\" class=\\"fbox\\">PRO> Cholera, imported - Norway ex Pakistan: Correction<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'29.967020\',\'69.385971\',5,140);\\">Pakistan<\\/a>', 'null', 'null', 'null']
+3
+2194152
+
+54
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '30 Aug 1998', '<a href=\\"..\\/ai.php?2194151&trto=en&trfr=en&pid54\\" class=\\"fbox\\">PRO\\/EDR> Yellow fever - Liberia<\\/a>', 'Yellow Fever', '<a href=\\"javascript:sc(\'6.448090\',\'-9.307910\',5,54);\\">Liberia<\\/a>', 'null', 'null', 'null']
+3
+2194151
+
+55
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '30 Aug 1998', '<a href=\\"..\\/ai.php?2194150&trto=en&trfr=en&pid154\\" class=\\"fbox\\">PRO\\/EDR> Cholera - Bhutan<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'27.415409\',\'90.429428\',5,154);\\">Bhutan<\\/a>', 'null', 'null', 'null']
+3
+2194150
+
+56
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '29 Aug 1998', '<a href=\\"..\\/ai.php?2194149&trto=en&trfr=en&pid139\\" class=\\"fbox\\">PRO\\/EDR> Kala-azar - Nepal (04)<\\/a>', 'Leishmaniasis', '<a href=\\"javascript:sc(\'28.253010\',\'83.938553\',5,139);\\">Nepal<\\/a>', 'null', 'null', 'null']
+3
+2194149
+
+57
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '29 Aug 1998', '<a href=\\"..\\/ai.php?2194147&trto=en&trfr=en&pid296\\" class=\\"fbox\\">PRO\\/AH> Giardia, water supply - Australia (Sydney) (10)<\\/a>', 'Giardiasis', '<a href=\\"javascript:sc(\'-33.870499\',\'151.215805\',5,296);\\">Sydney, New South Wales, Australia<\\/a>', 'null', 'null', 'null']
+1
+2194147
+
+58
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '29 Aug 1998', '<a href=\\"..\\/ai.php?2194146&trto=en&trfr=en&pid106\\" class=\\"fbox\\">PRO\\/AH> CJD & blood supply, removal of leucocytes - USA<\\/a>', 'CJD', '<a href=\\"javascript:sc(\'39.966930\',\'-97.556099\',4,106);\\">United States<\\/a>', 'null', 'null', 'null']
+3
+2194146
+
+59
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '29 Aug 1998', '<a href=\\"..\\/ai.php?2194145&trto=en&trfr=en&pid40\\" class=\\"fbox\\">PRO\\/AH> CJD (new var.), tissue survey - UK (02)<\\/a>', 'CJD', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+3
+2194145
+
+60
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '29 Aug 1998', '<a href=\\"..\\/ai.php?2194144&trto=en&trfr=en&pid284\\" class=\\"fbox\\">PRO\\/AH> Oysters, mortality - Australia (New South Wales) (04)<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'-33.000000\',\'146.000000\',5,284);\\">New South Wales, Australia<\\/a>', 'null', 'null', 'null']
+1
+2194144
+
+61
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '29 Aug 1998', '<a href=\\"..\\/ai.php?2194143&trto=en&trfr=en&pid204\\" class=\\"fbox\\">PRO\\/AH> Typhus, endemic - USA (California) (02)<\\/a>', 'Typhus', '<a href=\\"javascript:sc(\'37.250198\',\'-119.750298\',5,204);\\">California, United States<\\/a>', 'null', 'null', 'null']
+1
+2194143
+
+62
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '29 Aug 1998', '<a href=\\"..\\/ai.php?2194142&trto=en&trfr=en&pid139\\" class=\\"fbox\\">PRO\\/EDR> Japanese encephalitis - Nepal (03)<\\/a>', 'Japanese Encephalitis', '<a href=\\"javascript:sc(\'28.253010\',\'83.938553\',5,139);\\">Nepal<\\/a>', 'null', 'null', 'null']
+3
+2194142
+
+63
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '29 Aug 1998', '<a href=\\"..\\/ai.php?2194141&trto=en&trfr=en&pid111\\" class=\\"fbox\\">PRO\\/AH\\/EDR> Rabies, sheep - Denmark<\\/a>', 'Rabies', '<a href=\\"javascript:sc(\'55.963402\',\'10.046300\',5,111);\\">Denmark<\\/a>', 'null', 'null', 'null']
+1
+2194141
+
+64
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '29 Aug 1998', '<a href=\\"..\\/ai.php?2194140&trto=en&trfr=en&pid463\\" class=\\"fbox\\">PRO\\/AH\\/EDR> Rinderpest - Russia (Amur)<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'53.930199\',\'127.485298\',5,463);\\">Amur Oblast<\\/a>', 'null', 'null', 'null']
+1
+2194140
+
+65
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '29 Aug 1998', '<a href=\\"..\\/ai.php?2194139&trto=en&trfr=en&pid156\\" class=\\"fbox\\">PRO> Cholera, imported - Japan (02)<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'36.098541\',\'138.478607\',5,156);\\">Japan<\\/a>', 'null', 'null', 'null']
+3
+2194139
+
+66
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2194138&trto=en&trfr=en&pid156\\" class=\\"fbox\\">PRO\\/EDR> Cholera, imported - Japan<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'36.098541\',\'138.478607\',5,156);\\">Japan<\\/a>', 'null', 'null', 'null']
+3
+2194138
+
+67
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2194136&trto=en&trfr=en&pid204\\" class=\\"fbox\\">PRO\\/AH> Typhus, endemic - USA (California)<\\/a>', 'Typhus', '<a href=\\"javascript:sc(\'37.250198\',\'-119.750298\',5,204);\\">California, United States<\\/a>', 'null', 'null', 'null']
+1
+2194136
+
+68
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2194135&trto=en&trfr=en&pid296\\" class=\\"fbox\\">PRO\\/AH> Giardia, water supply - Australia (Sydney) (09)<\\/a>', 'Giardiasis', '<a href=\\"javascript:sc(\'-33.870499\',\'151.215805\',5,296);\\">Sydney, New South Wales, Australia<\\/a>', 'null', 'null', 'null']
+1
+2194135
+
+69
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2194134&trto=en&trfr=en&pid40\\" class=\\"fbox\\">PRO\\/AH> CJD (new var.), tissue survey - UK<\\/a>', 'CJD', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+3
+2194134
+
+70
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2194133&trto=en&trfr=en&pid207\\" class=\\"fbox\\">PRO\\/AH> Hantaviruses in old bones: RFI<\\/a>', 'Hantavirus', '<a href=\\"javascript:sc(\'34.500198\',\'-111.500298\',5,207);\\">Arizona, United States<\\/a>', 'null', 'null', 'null']
+3
+2194133
+
+71
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2194132&trto=en&trfr=en&pid193\\" class=\\"fbox\\">PRO\\/EDR> Dengue, indigenous - Taiwan<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'23.873001\',\'121.016998\',6,193);\\">Taiwan<\\/a>', 'null', 'null', 'null']
+3
+2194132
+
+72
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2194131&trto=en&trfr=en&pid221\\" class=\\"fbox\\">PRO\\/EDR> St. Louis encephalitis (possible) - USA (Louisiana)<\\/a>', 'Encephalitis', '<a href=\\"javascript:sc(\'31.015200\',\'-92.021500\',5,221);\\">Louisiana, United States<\\/a>', 'null', 'null', 'null']
+3
+2194131
+
+73
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2194130&trto=en&trfr=en&pid193\\" class=\\"fbox\\">PRO\\/EDR> Dengue\\/DHF, imported - Taiwan ex Thailand<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'23.873001\',\'121.016998\',6,193);\\">Taiwan<\\/a>', 'null', 'null', 'null']
+3
+2194130
+
+74
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2194130&trto=en&trfr=en&pid151\\" class=\\"fbox\\">PRO\\/EDR> Dengue\\/DHF, imported - Taiwan ex Thailand<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'15.127040\',\'101.017357\',5,151);\\">Thailand<\\/a>', 'null', 'null', 'null']
+3
+2194130
+
+75
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2194129&trto=en&trfr=en&pid225\\" class=\\"fbox\\">PRO> Amebic meningoencephalitis, primary - USA (Michigan)<\\/a>', 'Meningitis', '<a href=\\"javascript:sc(\'43.580299\',\'-84.462898\',5,225);\\">Michigan, United States<\\/a>', 'null', 'null', 'null']
+3
+2194129
+
+76
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2194129&trto=en&trfr=en&pid225\\" class=\\"fbox\\">PRO> Amebic meningoencephalitis, primary - USA (Michigan)<\\/a>', 'Classical Swine Fever', '<a href=\\"javascript:sc(\'43.580299\',\'-84.462898\',5,225);\\">Michigan, United States<\\/a>', 'null', 'null', 'null']
+3
+2194129
+
+77
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2194128&trto=en&trfr=en&pid139\\" class=\\"fbox\\">PRO> Japanese encephalitis - Nepal (02)<\\/a>', 'Japanese Encephalitis', '<a href=\\"javascript:sc(\'28.253010\',\'83.938553\',5,139);\\">Nepal<\\/a>', 'null', 'null', 'null']
+3
+2194128
+
+78
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2194127&trto=en&trfr=en&pid284\\" class=\\"fbox\\">PRO\\/AH> Oysters, mortality - Australia (New South Wales) (03)<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'-33.000000\',\'146.000000\',5,284);\\">New South Wales, Australia<\\/a>', 'null', 'null', 'null']
+1
+2194127
+
+79
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2194126&trto=en&trfr=en&pid40\\" class=\\"fbox\\">PRO> Retrovirus, porcine endogenous: xenotransplant risk?<\\/a>', 'Hospital-Related Infection', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+3
+2194126
+
+80
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2194125&trto=en&trfr=en&pid106\\" class=\\"fbox\\">PRO> Pertussis in adults, current trends - USA (02)<\\/a>', 'Whooping Cough', '<a href=\\"javascript:sc(\'39.966930\',\'-97.556099\',4,106);\\">United States<\\/a>', 'null', 'null', 'null']
+3
+2194125
+
+81
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2194124&trto=en&trfr=en&pid486\\" class=\\"fbox\\">PRO> Enterobacter infections, fatal - Mexico (Tijuana) (02)<\\/a>', 'Hospital-Related Infection', '<a href=\\"javascript:sc(\'30.002501\',\'-115.004898\',5,486);\\">Estado de Baja California, Mexico<\\/a>', 'null', 'null', 'null']
+3
+2194124
+
+82
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '28 Aug 1998', '<a href=\\"..\\/ai.php?2194123&trto=en&trfr=en&pid151\\" class=\\"fbox\\">PRO\\/AH> Rabies vaccination, boosters (03)<\\/a>', 'Rabies', '<a href=\\"javascript:sc(\'15.127040\',\'101.017357\',5,151);\\">Thailand<\\/a>', 'null', 'null', 'null']
+1
+2194123
+
+83
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '27 Aug 1998', '<a href=\\"..\\/ai.php?2194122&trto=en&trfr=en&pid83\\" class=\\"fbox\\">PRO\\/AH> Sheep pox - Greece (Evros)<\\/a>', 'Sheep\\/Goat Pox', '<a href=\\"javascript:sc(\'39.068539\',\'22.959740\',6,83);\\">Greece<\\/a>', 'null', 'null', 'null']
+1
+2194122
+
+84
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '27 Aug 1998', '<a href=\\"..\\/ai.php?2194121&trto=en&trfr=en&pid209\\" class=\\"fbox\\">PRO\\/AH> Vesicular stomatitis, horses - USA (Colorado) (04)<\\/a>', 'Vesicular Stomatitis', '<a href=\\"javascript:sc(\'38.993500\',\'-105.512703\',5,209);\\">Colorado, United States<\\/a>', 'null', 'null', 'null']
+3
+2194121
+
+85
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '27 Aug 1998', '<a href=\\"..\\/ai.php?2194120&trto=en&trfr=en&pid104\\" class=\\"fbox\\">PRO\\/AH> BSE - Netherlands: third case<\\/a>', 'BSE', '<a href=\\"javascript:sc(\'52.249260\',\'5.603420\',6,104);\\">Netherlands<\\/a>', 'null', 'null', 'null']
+3
+2194120
+
+86
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '27 Aug 1998', '<a href=\\"..\\/ai.php?2194119&trto=en&trfr=en&pid216\\" class=\\"fbox\\">PRO\\/AH> Leptospirosis - USA (Illinois & Wisconsin)(12)<\\/a>', 'Leptospirosis', '<a href=\\"javascript:sc(\'40.010700\',\'-89.252998\',5,216);\\">Illinois, United States<\\/a>', 'null', 'null', 'null']
+3
+2194119
+
+87
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '27 Aug 1998', '<a href=\\"..\\/ai.php?2194119&trto=en&trfr=en&pid250\\" class=\\"fbox\\">PRO\\/AH> Leptospirosis - USA (Illinois & Wisconsin)(12)<\\/a>', 'Leptospirosis', '<a href=\\"javascript:sc(\'44.496498\',\'-90.000000\',5,250);\\">Wisconsin, United States<\\/a>', 'null', 'null', 'null']
+3
+2194119
+
+88
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '27 Aug 1998', '<a href=\\"..\\/ai.php?2194118&trto=en&trfr=en&pid186\\" class=\\"fbox\\">PRO\\/AH> PrP genotypes, sheep - Australia & New Zealand<\\/a>', 'Scrapie', '<a href=\\"javascript:sc(\'-25.734970\',\'134.489563\',4,186);\\">Australia<\\/a>', 'null', 'null', 'null']
+3
+2194118
+
+89
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '27 Aug 1998', '<a href=\\"..\\/ai.php?2194118&trto=en&trfr=en&pid164\\" class=\\"fbox\\">PRO\\/AH> PrP genotypes, sheep - Australia & New Zealand<\\/a>', 'Scrapie', '<a href=\\"javascript:sc(\'-42.423489\',\'172.659393\',5,164);\\">New Zealand<\\/a>', 'null', 'null', 'null']
+3
+2194118
+
+90
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '27 Aug 1998', '<a href=\\"..\\/ai.php?2194117&trto=en&trfr=en&pid139\\" class=\\"fbox\\">PRO> Japanese encephalitis - Nepal<\\/a>', 'Japanese Encephalitis', '<a href=\\"javascript:sc(\'28.253010\',\'83.938553\',5,139);\\">Nepal<\\/a>', 'null', 'null', 'null']
+3
+2194117
+
+91
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '27 Aug 1998', '<a href=\\"..\\/ai.php?2194116&trto=en&trfr=en&pid18\\" class=\\"fbox\\">PRO\\/AH\\/EDR> Equine encephalitis - Panama (Darien)<\\/a>', 'Encephalitis', '<a href=\\"javascript:sc(\'8.507190\',\'-80.102661\',5,18);\\">Panama<\\/a>', 'null', 'null', 'null']
+3
+2194116
+
+92
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '27 Aug 1998', '<a href=\\"..\\/ai.php?2194115&trto=en&trfr=en&pid106\\" class=\\"fbox\\">PRO> Pertussis in adults, current trends - USA<\\/a>', 'Whooping Cough', '<a href=\\"javascript:sc(\'39.966930\',\'-97.556099\',4,106);\\">United States<\\/a>', 'null', 'null', 'null']
+3
+2194115
+
+93
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '27 Aug 1998', '<a href=\\"..\\/ai.php?2194114&trto=en&trfr=en&pid284\\" class=\\"fbox\\">PRO\\/AH> Oysters, mortality - Australia (New South Wales) (02)<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'-33.000000\',\'146.000000\',5,284);\\">New South Wales, Australia<\\/a>', 'null', 'null', 'null']
+1
+2194114
+
+94
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '27 Aug 1998', '<a href=\\"..\\/ai.php?2194113&trto=en&trfr=en&pid6\\" class=\\"fbox\\">PRO\\/AH> Rabies vaccination, boosters (02)<\\/a>', 'Rabies', '<a href=\\"javascript:sc(\'-10.773110\',\'-53.089821\',4,6);\\">Brazil<\\/a>', 'null', 'null', 'null']
+1
+2194113
+
+95
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '27 Aug 1998', '<a href=\\"..\\/ai.php?2194112&trto=en&trfr=en&pid486\\" class=\\"fbox\\">PRO\\/EDR> Enterobacter infections, fatal - Mexico (Tijuana)<\\/a>', 'Hospital-Related Infection', '<a href=\\"javascript:sc(\'30.002501\',\'-115.004898\',5,486);\\">Estado de Baja California, Mexico<\\/a>', 'null', 'null', 'null']
+3
+2194112
+
+96
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '27 Aug 1998', '<a href=\\"..\\/ai.php?2194111&trto=en&trfr=en&pid14\\" class=\\"fbox\\">PRO\\/EDR> Amebic meningoencephalitis, primary - Mexico<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'23.950460\',\'-102.532890\',5,14);\\">Mexico<\\/a>', 'null', 'null', 'null']
+1
+2194111
+
+97
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '26 Aug 1998', '<a href=\\"..\\/ai.php?2194110&trto=en&trfr=en&pid125\\" class=\\"fbox\\">PRO> Aflatoxin - Somalia (02)<\\/a>', 'Poisoning', '<a href=\\"javascript:sc(\'6.063720\',\'47.862591\',5,125);\\">Somalia<\\/a>', 'null', 'null', 'null']
+1
+2194110
+
+98
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '26 Aug 1998', '<a href=\\"..\\/ai.php?2194109&trto=en&trfr=en&pid6\\" class=\\"fbox\\">PRO\\/AH> Rabies vaccination, boosters<\\/a>', 'Rabies', '<a href=\\"javascript:sc(\'-10.773110\',\'-53.089821\',4,6);\\">Brazil<\\/a>', 'null', 'null', 'null']
+1
+2194109
+
+99
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '26 Aug 1998', '<a href=\\"..\\/ai.php?2194108&trto=en&trfr=en&pid192\\" class=\\"fbox\\">PRO\\/EDR> Dengue\\/DHF - Puerto Rico (02)<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'18.251301\',\'-66.501404\',6,192);\\">Puerto Rico<\\/a>', 'null', 'null', 'null']
+3
+2194108
+
+100
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '26 Aug 1998', '<a href=\\"..\\/ai.php?2194107&trto=en&trfr=en&pid6\\" class=\\"fbox\\">PRO\\/EDR> Yellow fever - Brazil (02)<\\/a>', 'Yellow Fever', '<a href=\\"javascript:sc(\'-10.773110\',\'-53.089821\',4,6);\\">Brazil<\\/a>', 'null', 'null', 'null']
+3
+2194107
+
+101
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '25 Aug 1998', '<a href=\\"..\\/ai.php?2194106&trto=en&trfr=en&pid354\\" class=\\"fbox\\">PRO\\/EDR> Shigellosis - USA (Minnesota)<\\/a>', 'Shigellosis', '<a href=\\"javascript:sc(\'46.225399\',\'-94.658302\',5,354);\\">Minnesota, United States<\\/a>', 'null', 'null', 'null']
+3
+2194106
+
+102
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '25 Aug 1998', '<a href=\\"..\\/ai.php?2194105&trto=en&trfr=en&pid101\\" class=\\"fbox\\">PRO> Borna disease virus & schizophrenia: association?<\\/a>', 'Chronic\\/Non-Infectious Disease', '<a href=\\"javascript:sc(\'51.106560\',\'10.393650\',5,101);\\">Germany<\\/a>', 'null', 'null', 'null']
+1
+2194105
+
+103
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '25 Aug 1998', '<a href=\\"..\\/ai.php?2194104&trto=en&trfr=en&pid40\\" class=\\"fbox\\">PRO> Diphtheria, cutaneous - UK ex Africa<\\/a>', 'Diphtheria', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+3
+2194104
+
+104
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '25 Aug 1998', '<a href=\\"..\\/ai.php?2194103&trto=en&trfr=en&pid4\\" class=\\"fbox\\">PRO\\/PL> Citrus black spot - Argentina<\\/a>', 'Other Plant Disease', '<a href=\\"javascript:sc(\'-35.376438\',\'-64.167732\',5,4);\\">Argentina<\\/a>', 'null', 'null', 'null']
+1
+2194103
+
+105
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Aug 1998', '<a href=\\"..\\/ai.php?2194102&trto=en&trfr=en&pid284\\" class=\\"fbox\\">PRO\\/AH> Oysters, mortality - Australia (New South Wales)<\\/a>', 'Undiagnosed', '<a href=\\"javascript:sc(\'-33.000000\',\'146.000000\',5,284);\\">New South Wales, Australia<\\/a>', 'null', 'null', 'null']
+3
+2194102
+
+106
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Aug 1998', '<a href=\\"..\\/ai.php?2194101&trto=en&trfr=en&pid152\\" class=\\"fbox\\">PRO\\/EDR> Dengue\\/DHF - Vietnam (07)<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'14.944700\',\'108.457001\',5,152);\\">Vietnam<\\/a>', 'null', 'null', 'null']
+3
+2194101
+
+107
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Aug 1998', '<a href=\\"..\\/ai.php?2194100&trto=en&trfr=en&pid145\\" class=\\"fbox\\">PRO\\/EDR> Dengue\\/DHF - Cambodia (02)<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'12.716430\',\'104.923981\',5,145);\\">Cambodia<\\/a>', 'null', 'null', 'null']
+3
+2194100
+
+108
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Aug 1998', '<a href=\\"..\\/ai.php?2194099&trto=en&trfr=en&pid245\\" class=\\"fbox\\">PRO\\/AH> Rabies statistics - USA (Texas): June, 1998<\\/a>', 'Rabies', '<a href=\\"javascript:sc(\'31.240900\',\'-99.228600\',5,245);\\">Texas, United States<\\/a>', 'null', 'null', 'null']
+1
+2194099
+
+109
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Aug 1998', '<a href=\\"..\\/ai.php?2194098&trto=en&trfr=en&pid84\\" class=\\"fbox\\">PRO> Liver disease, bacterial? (02)<\\/a>', 'Gastroenteritis', '<a href=\\"javascript:sc(\'41.926311\',\'43.517448\',6,84);\\">Republic of Georgia<\\/a>', 'null', 'null', 'null']
+3
+2194098
+
+110
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Aug 1998', '<a href=\\"..\\/ai.php?2194098&trto=en&trfr=en&pid213\\" class=\\"fbox\\">PRO> Liver disease, bacterial? (02)<\\/a>', 'Amebiasis', '<a href=\\"javascript:sc(\'32.731800\',\'-83.496101\',5,213);\\">Georgia, United States<\\/a>', 'null', 'null', 'null']
+1
+2194098
+
+111
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Aug 1998', '<a href=\\"..\\/ai.php?2194097&trto=en&trfr=en&pid42\\" class=\\"fbox\\">PRO\\/AH> Typhus, murine - Portugal (Madeira)<\\/a>', 'Typhus', '<a href=\\"javascript:sc(\'39.600990\',\'-8.062740\',5,42);\\">Portugal<\\/a>', 'null', 'null', 'null']
+1
+2194097
+
+112
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Aug 1998', '<a href=\\"..\\/ai.php?2194096&trto=en&trfr=en&pid206\\" class=\\"fbox\\">PRO> Influenza advisory - USA (Alaska) & Yukon<\\/a>', 'Influenza', '<a href=\\"javascript:sc(\'64.000198\',\'-150.000305\',5,206);\\">Alaska, United States<\\/a>', 'null', 'null', 'null']
+1
+2194096
+
+113
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Aug 1998', '<a href=\\"..\\/ai.php?2194096&trto=en&trfr=en&pid267\\" class=\\"fbox\\">PRO> Influenza advisory - USA (Alaska) & Yukon<\\/a>', 'Influenza', '<a href=\\"javascript:sc(\'63.292900\',\'-136.318405\',5,267);\\">Yukon Territory, Canada<\\/a>', 'null', 'null', 'null']
+1
+2194096
+
+114
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Aug 1998', '<a href=\\"..\\/ai.php?2194095&trto=en&trfr=en&pid90\\" class=\\"fbox\\">PRO> Mycobacterium simiae, human (02)<\\/a>', 'HIV\\/AIDS', '<a href=\\"javascript:sc(\'30.921000\',\'34.865101\',6,90);\\">Israel<\\/a>', 'null', 'null', 'null']
+1
+2194095
+
+115
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Aug 1998', '<a href=\\"..\\/ai.php?2194095&trto=en&trfr=en&pid106\\" class=\\"fbox\\">PRO> Mycobacterium simiae, human (02)<\\/a>', 'HIV\\/AIDS', '<a href=\\"javascript:sc(\'39.966930\',\'-97.556099\',4,106);\\">United States<\\/a>', 'null', 'null', 'null']
+1
+2194095
+
+116
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Aug 1998', '<a href=\\"..\\/ai.php?2194094&trto=en&trfr=en&pid139\\" class=\\"fbox\\">PRO\\/EDR> Encephalitis - Nepal<\\/a>', 'Encephalitis', '<a href=\\"javascript:sc(\'28.253010\',\'83.938553\',5,139);\\">Nepal<\\/a>', 'null', 'null', 'null']
+3
+2194094
+
+117
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Aug 1998', '<a href=\\"..\\/ai.php?2194093&trto=en&trfr=en&pid208\\" class=\\"fbox\\">PRO\\/AH> Exanthem & lymphangitis, beetle-derived? - USA (Arkansas)<\\/a>', 'Pests', '<a href=\\"javascript:sc(\'34.741600\',\'-92.504898\',5,208);\\">Arkansas, United States<\\/a>', 'null', 'null', 'null']
+1
+2194093
+
+118
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '23 Aug 1998', '<a href=\\"..\\/ai.php?2194092&trto=en&trfr=en&pid84\\" class=\\"fbox\\">PRO> Legionellosis, summary - Europe: 1997<\\/a>', "Legionnaires'", '<a href=\\"javascript:sc(\'41.926311\',\'43.517448\',6,84);\\">Republic of Georgia<\\/a>', 'null', 'null', 'null']
+3
+2194092
+
+119
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '23 Aug 1998', '<a href=\\"..\\/ai.php?2194091&trto=en&trfr=en&pid84\\" class=\\"fbox\\">PRO\\/EDR> Liver disease, bacterial? - Georgia (Tbilisi)<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'41.926311\',\'43.517448\',6,84);\\">Republic of Georgia<\\/a>', 'null', 'null', 'null']
+1
+2194091
+
+120
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '23 Aug 1998', '<a href=\\"..\\/ai.php?2194090&trto=en&trfr=en&pid155\\" class=\\"fbox\\">PRO\\/EDR> Infectious diseases, flood related - China<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'36.519981\',\'103.891769\',4,155);\\">China<\\/a>', 'null', 'null', 'null']
+3
+2194090
+
+121
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '23 Aug 1998', '<a href=\\"..\\/ai.php?2194090&trto=en&trfr=en&pid155\\" class=\\"fbox\\">PRO\\/EDR> Infectious diseases, flood related - China<\\/a>', 'Hepatitis', '<a href=\\"javascript:sc(\'36.519981\',\'103.891769\',4,155);\\">China<\\/a>', 'null', 'null', 'null']
+3
+2194090
+
+122
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '23 Aug 1998', '<a href=\\"..\\/ai.php?2194090&trto=en&trfr=en&pid155\\" class=\\"fbox\\">PRO\\/EDR> Infectious diseases, flood related - China<\\/a>', 'Dysentery', '<a href=\\"javascript:sc(\'36.519981\',\'103.891769\',4,155);\\">China<\\/a>', 'null', 'null', 'null']
+3
+2194090
+
+123
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '22 Aug 1998', '<a href=\\"..\\/ai.php?2194089&trto=en&trfr=en&pid198\\" class=\\"fbox\\">PRO\\/EDR> Cholera - China (Hong Kong) (06)<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'22.284000\',\'114.150002\',5,198);\\">Hong Kong<\\/a>', 'null', 'null', 'null']
+3
+2194089
+
+124
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '21 Aug 1998', '<a href=\\"..\\/ai.php?2194088&trto=en&trfr=en&pid137\\" class=\\"fbox\\">PRO\\/EDR> Cholera - Afghanistan (02)<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'33.838810\',\'66.026466\',5,137);\\">Afghanistan<\\/a>', 'null', 'null', 'null']
+3
+2194088
+
+125
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '21 Aug 1998', '<a href=\\"..\\/ai.php?2194087&trto=en&trfr=en&pid106\\" class=\\"fbox\\">PRO> Influenzavirus, virulence, 1918 pandemic strain (02)<\\/a>', 'Influenza', '<a href=\\"javascript:sc(\'39.966930\',\'-97.556099\',4,106);\\">United States<\\/a>', 'null', 'null', 'null']
+1
+2194087
+
+126
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '21 Aug 1998', '<a href=\\"..\\/ai.php?2194086&trto=en&trfr=en&pid40\\" class=\\"fbox\\">PRO\\/AH> BSE, and scrapie - UK<\\/a>', 'BSE', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+3
+2194086
+
+127
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '21 Aug 1998', '<a href=\\"..\\/ai.php?2194086&trto=en&trfr=en&pid40\\" class=\\"fbox\\">PRO\\/AH> BSE, and scrapie - UK<\\/a>', 'Scrapie', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+3
+2194086
+
+128
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '20 Aug 1998', '<a href=\\"..\\/ai.php?2194085&trto=en&trfr=en&pid106\\" class=\\"fbox\\">PRO\\/AH> Anthrax vaccination, military personnel - USA<\\/a>', 'Anthrax', '<a href=\\"javascript:sc(\'39.966930\',\'-97.556099\',4,106);\\">United States<\\/a>', 'null', 'null', 'null']
+3
+2194085
+
+129
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '20 Aug 1998', '<a href=\\"..\\/ai.php?2194084&trto=en&trfr=en&pid157\\" class=\\"fbox\\">PRO\\/AH> Red tide advisory - Brunei<\\/a>', 'Algae', '<a href=\\"javascript:sc(\'4.521450\',\'114.761101\',5,157);\\">Brunei<\\/a>', 'null', 'null', 'null']
+1
+2194084
+
+130
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '20 Aug 1998', '<a href=\\"..\\/ai.php?2194083&trto=en&trfr=en&pid213\\" class=\\"fbox\\">PRO> E. coli, hemolytic uremic syndrome - USA (Georgia)(04)<\\/a>', 'E. coli', '<a href=\\"javascript:sc(\'32.731800\',\'-83.496101\',5,213);\\">Georgia, United States<\\/a>', 'null', 'null', 'null']
+3
+2194083
+
+131
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '20 Aug 1998', '<a href=\\"..\\/ai.php?2194082&trto=en&trfr=en&pid23\\" class=\\"fbox\\">PRO\\/EDR> Food poisoning - Nicaragua (Bluefields)<\\/a>', 'Foodborne Illness', '<a href=\\"javascript:sc(\'12.839910\',\'-85.034782\',5,23);\\">Nicaragua<\\/a>', 'null', 'null', 'null']
+1
+2194082
+
+132
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '20 Aug 1998', '<a href=\\"..\\/ai.php?2194081&trto=en&trfr=en&pid22\\" class=\\"fbox\\">PRO\\/EDR> Dengue\\/DHF - Honduras (04)<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'14.819220\',\'-86.619141\',5,22);\\">Honduras<\\/a>', 'null', 'null', 'null']
+3
+2194081
+
+133
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '20 Aug 1998', '<a href=\\"..\\/ai.php?2194080&trto=en&trfr=en&pid354\\" class=\\"fbox\\">PRO\\/EDR> Aseptic meningitis - USA (Minnesota) (02)<\\/a>', 'Meningitis', '<a href=\\"javascript:sc(\'46.225399\',\'-94.658302\',5,354);\\">Minnesota, United States<\\/a>', 'null', 'null', 'null']
+3
+2194080
+
+134
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '20 Aug 1998', '<a href=\\"..\\/ai.php?2194079&trto=en&trfr=en&pid233\\" class=\\"fbox\\">PRO\\/AH\\/EDR> Anthrax, cattle - USA (New Mexico)<\\/a>', 'Anthrax', '<a href=\\"javascript:sc(\'34.488400\',\'-105.996101\',5,233);\\">New Mexico, United States<\\/a>', 'null', 'null', 'null']
+3
+2194079
+
+135
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '19 Aug 1998', '<a href=\\"..\\/ai.php?2194078&trto=en&trfr=en&pid297\\" class=\\"fbox\\">PRO\\/EDR> Gastroenteritis, fatal - India (Andhra)<\\/a>', 'Gastroenteritis', '<a href=\\"javascript:sc(\'16.000000\',\'79.000000\',5,297);\\">Andhra Pradesh State, India<\\/a>', 'null', 'null', 'null']
+3
+2194078
+
+136
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '19 Aug 1998', '<a href=\\"..\\/ai.php?2194076&trto=en&trfr=en&pid40\\" class=\\"fbox\\">PRO\\/AH> BSE, current status - UK<\\/a>', 'BSE', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+3
+2194076
+
+137
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '19 Aug 1998', '<a href=\\"..\\/ai.php?2194075&trto=en&trfr=en&pid192\\" class=\\"fbox\\">PRO> Dengue - Puerto Rico (04)<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'18.251301\',\'-66.501404\',6,192);\\">Puerto Rico<\\/a>', 'null', 'null', 'null']
+3
+2194075
+
+138
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '19 Aug 1998', '<a href=\\"..\\/ai.php?2194074&trto=en&trfr=en&pid164\\" class=\\"fbox\\">PRO> Vaccinia recombinants, risk management: RFI<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'-42.423489\',\'172.659393\',5,164);\\">New Zealand<\\/a>', 'null', 'null', 'null']
+1
+2194074
+
+139
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '19 Aug 1998', '<a href=\\"..\\/ai.php?2194073&trto=en&trfr=en&pid106\\" class=\\"fbox\\">PRO> Influenzavirus, virulence, 1918 pandemic strain<\\/a>', 'Influenza', '<a href=\\"javascript:sc(\'39.966930\',\'-97.556099\',4,106);\\">United States<\\/a>', 'null', 'null', 'null']
+1
+2194073
+
+140
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '19 Aug 1998', '<a href=\\"..\\/ai.php?2194072&trto=en&trfr=en&pid4\\" class=\\"fbox\\">PRO\\/PL> Certification for canker-free citrus<\\/a>', 'Other Plant Disease', '<a href=\\"javascript:sc(\'-35.376438\',\'-64.167732\',5,4);\\">Argentina<\\/a>', 'null', 'null', 'null']
+1
+2194072
+
+141
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '19 Aug 1998', '<a href=\\"..\\/ai.php?2194072&trto=en&trfr=en&pid259\\" class=\\"fbox\\">PRO\\/PL> Certification for canker-free citrus<\\/a>', 'Other Plant Disease', '<a href=\\"javascript:sc(\'38.895000\',\'-77.036697\',5,259);\\">Washington, DC, United States<\\/a>', 'null', 'null', 'null']
+1
+2194072
+
+142
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '19 Aug 1998', '<a href=\\"..\\/ai.php?2194071&trto=en&trfr=en&pid123\\" class=\\"fbox\\">PRO> Cholera threat - Ukraine<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'49.017090\',\'31.387110\',5,123);\\">Ukraine<\\/a>', 'null', 'null', 'null']
+3
+2194071
+
+143
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '19 Aug 1998', '<a href=\\"..\\/ai.php?2194070&trto=en&trfr=en&pid125\\" class=\\"fbox\\">PRO\\/AH> Mycobacterium simiae, human: RFI<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'6.063720\',\'47.862591\',5,125);\\">Somalia<\\/a>', 'null', 'null', 'null']
+1
+2194070
+
+144
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '19 Aug 1998', '<a href=\\"..\\/ai.php?2194069&trto=en&trfr=en&pid125\\" class=\\"fbox\\">PRO> Aflatoxin - Somalia: RFI<\\/a>', 'Poisoning', '<a href=\\"javascript:sc(\'6.063720\',\'47.862591\',5,125);\\">Somalia<\\/a>', 'null', 'null', 'null']
+1
+2194069
+
+145
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '19 Aug 1998', '<a href=\\"..\\/ai.php?2194068&trto=en&trfr=en&pid29\\" class=\\"fbox\\">PRO\\/EDR> Dengue\\/DHF - Venezuela (Aragua)<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'7.122450\',\'-66.169563\',5,29);\\">Venezuela<\\/a>', 'null', 'null', 'null']
+3
+2194068
+
+146
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '19 Aug 1998', '<a href=\\"..\\/ai.php?2194067&trto=en&trfr=en&pid137\\" class=\\"fbox\\">PRO\\/EDR> Cholera - Afghanistan<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'33.838810\',\'66.026466\',5,137);\\">Afghanistan<\\/a>', 'null', 'null', 'null']
+3
+2194067
+
+147
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '18 Aug 1998', '<a href=\\"..\\/ai.php?2194066&trto=en&trfr=en&pid218\\" class=\\"fbox\\">PRO> Aseptic meningitis - USA (Iowa)<\\/a>', 'Meningitis', '<a href=\\"javascript:sc(\'42.000301\',\'-93.515701\',5,218);\\">Iowa, United States<\\/a>', 'null', 'null', 'null']
+3
+2194066
+
+148
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '18 Aug 1998', '<a href=\\"..\\/ai.php?2194065&trto=en&trfr=en&pid212\\" class=\\"fbox\\">PRO\\/PL> Citrus canker - USA (Florida) (03)<\\/a>', 'Other Plant Disease', '<a href=\\"javascript:sc(\'28.149500\',\'-81.650398\',5,212);\\">Florida, United States<\\/a>', 'null', 'null', 'null']
+1
+2194065
+
+149
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '18 Aug 1998', '<a href=\\"..\\/ai.php?2194064&trto=en&trfr=en&pid330\\" class=\\"fbox\\">PRO> Dropsy, epidemic  - India (Delhi) (03)<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'28.671301\',\'77.211899\',5,330);\\">National Capital Territory of Delhi, India<\\/a>', 'null', 'null', 'null']
+1
+2194064
+
+150
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '18 Aug 1998', '<a href=\\"..\\/ai.php?2194063&trto=en&trfr=en&pid40\\" class=\\"fbox\\">PRO\\/AH> Mycobacterium bovis, badgers - UK<\\/a>', 'Tuberculosis', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+1
+2194063
+
+151
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '18 Aug 1998', '<a href=\\"..\\/ai.php?2194062&trto=en&trfr=en&pid75\\" class=\\"fbox\\">PRO\\/AH> Swine fever, classical - Italy (Parma)<\\/a>', 'Classical Swine Fever', '<a href=\\"javascript:sc(\'42.795780\',\'12.071740\',5,75);\\">Italy<\\/a>', 'null', 'null', 'null']
+3
+2194062
+
+152
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '18 Aug 1998', '<a href=\\"..\\/ai.php?2194061&trto=en&trfr=en&pid4\\" class=\\"fbox\\">PRO\\/AH> Horses, unidentified condition - Argentina (03)<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'-35.376438\',\'-64.167732\',5,4);\\">Argentina<\\/a>', 'null', 'null', 'null']
+1
+2194061
+
+153
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '18 Aug 1998', '<a href=\\"..\\/ai.php?2194060&trto=en&trfr=en&pid107\\" class=\\"fbox\\">PRO\\/AH> Avian infectious laryngotracheitis - Norway<\\/a>', 'Other Animal Disease', '<a href=\\"javascript:sc(\'60.716099\',\'8.745100\',5,107);\\">Norway<\\/a>', 'null', 'null', 'null']
+1
+2194060
+
+154
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '18 Aug 1998', '<a href=\\"..\\/ai.php?2194059&trto=en&trfr=en&pid299\\" class=\\"fbox\\">PRO\\/EDR> Japanese encephalitis - India (Assam)<\\/a>', 'Japanese Encephalitis', '<a href=\\"javascript:sc(\'25.997499\',\'93.010201\',5,299);\\">Assam State, India<\\/a>', 'null', 'null', 'null']
+3
+2194059
+
+155
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '18 Aug 1998', '<a href=\\"..\\/ai.php?2194058&trto=en&trfr=en&pid152\\" class=\\"fbox\\">PRO\\/EDR> Dengue - Vietnam (06)<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'14.944700\',\'108.457001\',5,152);\\">Vietnam<\\/a>', 'null', 'null', 'null']
+3
+2194058
+
+156
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '18 Aug 1998', '<a href=\\"..\\/ai.php?2194057&trto=en&trfr=en&pid40\\" class=\\"fbox\\">PRO\\/EDR> Cholera, imported - UK ex Tunisia, Pakistan<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+3
+2194057
+
+157
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '18 Aug 1998', '<a href=\\"..\\/ai.php?2194057&trto=en&trfr=en&pid71\\" class=\\"fbox\\">PRO\\/EDR> Cholera, imported - UK ex Tunisia, Pakistan<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'34.110859\',\'9.561340\',5,71);\\">Tunisia<\\/a>', 'null', 'null', 'null']
+3
+2194057
+
+158
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '18 Aug 1998', '<a href=\\"..\\/ai.php?2194057&trto=en&trfr=en&pid140\\" class=\\"fbox\\">PRO\\/EDR> Cholera, imported - UK ex Tunisia, Pakistan<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'29.967020\',\'69.385971\',5,140);\\">Pakistan<\\/a>', 'null', 'null', 'null']
+3
+2194057
+
+159
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '18 Aug 1998', '<a href=\\"..\\/ai.php?2194056&trto=en&trfr=en&pid363\\" class=\\"fbox\\">PRO\\/EDR> Cholera - Macau<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'22.166599\',\'113.550003\',5,363);\\">Macau<\\/a>', 'null', 'null', 'null']
+3
+2194056
+
+160
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '17 Aug 1998', '<a href=\\"..\\/ai.php?2194055&trto=en&trfr=en&pid354\\" class=\\"fbox\\">PRO> Aseptic meningitis<\\/a>', 'Meningitis', '<a href=\\"javascript:sc(\'46.225399\',\'-94.658302\',5,354);\\">Minnesota, United States<\\/a>', 'null', 'null', 'null']
+3
+2194055
+
+161
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '17 Aug 1998', '<a href=\\"..\\/ai.php?2194055&trto=en&trfr=en&pid243\\" class=\\"fbox\\">PRO> Aseptic meningitis<\\/a>', 'Meningitis', '<a href=\\"javascript:sc(\'44.496498\',\'-100.239304\',5,243);\\">South Dakota, United States<\\/a>', 'null', 'null', 'null']
+3
+2194055
+
+162
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '17 Aug 1998', '<a href=\\"..\\/ai.php?2194055&trto=en&trfr=en&pid259\\" class=\\"fbox\\">PRO> Aseptic meningitis<\\/a>', 'Meningitis', '<a href=\\"javascript:sc(\'38.895000\',\'-77.036697\',5,259);\\">Washington, DC, United States<\\/a>', 'null', 'null', 'null']
+3
+2194055
+
+163
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '17 Aug 1998', '<a href=\\"..\\/ai.php?2194055&trto=en&trfr=en&pid262\\" class=\\"fbox\\">PRO> Aseptic meningitis<\\/a>', 'Meningitis', '<a href=\\"javascript:sc(\'54.007702\',\'-105.996101\',5,262);\\">Saskatchewan Province, Canada<\\/a>', 'null', 'null', 'null']
+3
+2194055
+
+164
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '17 Aug 1998', '<a href=\\"..\\/ai.php?2194055&trto=en&trfr=en&pid227\\" class=\\"fbox\\">PRO> Aseptic meningitis<\\/a>', 'Meningitis', '<a href=\\"javascript:sc(\'38.238098\',\'-92.504898\',5,227);\\">Missouri, United States<\\/a>', 'null', 'null', 'null']
+3
+2194055
+
+165
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '17 Aug 1998', '<a href=\\"..\\/ai.php?2194055&trto=en&trfr=en&pid217\\" class=\\"fbox\\">PRO> Aseptic meningitis<\\/a>', 'Meningitis', '<a href=\\"javascript:sc(\'40.010700\',\'-86.264702\',5,217);\\">Indiana, United States<\\/a>', 'null', 'null', 'null']
+3
+2194055
+
+166
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '17 Aug 1998', '<a href=\\"..\\/ai.php?2194055&trto=en&trfr=en&pid273\\" class=\\"fbox\\">PRO> Aseptic meningitis<\\/a>', 'Meningitis', '<a href=\\"javascript:sc(\'51.050098\',\'-114.085297\',5,273);\\">Calgary, Alberta, Canada<\\/a>', 'null', 'null', 'null']
+3
+2194055
+
+167
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '17 Aug 1998', '<a href=\\"..\\/ai.php?2194054&trto=en&trfr=en&pid118\\" class=\\"fbox\\">PRO\\/AH> Myocarditis, rodent vector: concerns warranted? (03)<\\/a>', 'Hantavirus', '<a href=\\"javascript:sc(\'64.500420\',\'26.266371\',5,118);\\">Finland<\\/a>', 'null', 'null', 'null']
+3
+2194054
+
+168
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '17 Aug 1998', '<a href=\\"..\\/ai.php?2194053&trto=en&trfr=en&pid192\\" class=\\"fbox\\">PRO\\/EDR> Dengue - Puerto Rico (03)<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'18.251301\',\'-66.501404\',6,192);\\">Puerto Rico<\\/a>', 'null', 'null', 'null']
+3
+2194053
+
+169
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '17 Aug 1998', '<a href=\\"..\\/ai.php?2194052&trto=en&trfr=en&pid56\\" class=\\"fbox\\">PRO\\/AH\\/EDR> Anthrax, human & livestock - Kazakhstan (Kustani)<\\/a>', 'Anthrax', '<a href=\\"javascript:sc(\'48.015991\',\'66.657822\',5,56);\\">Kazakhstan<\\/a>', 'null', 'null', 'null']
+3
+2194052
+
+170
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '17 Aug 1998', '<a href=\\"..\\/ai.php?2194051&trto=en&trfr=en&pid296\\" class=\\"fbox\\">PRO\\/AH> Giardia, water supply - Australia (Sydney) (08)<\\/a>', 'Giardiasis', '<a href=\\"javascript:sc(\'-33.870499\',\'151.215805\',5,296);\\">Sydney, New South Wales, Australia<\\/a>', 'null', 'null', 'null']
+1
+2194051
+
+171
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '17 Aug 1998', '<a href=\\"..\\/ai.php?2194050&trto=en&trfr=en&pid164\\" class=\\"fbox\\">PRO\\/EDR> Diphtheria - New Zealand<\\/a>', 'Diphtheria', '<a href=\\"javascript:sc(\'-42.423489\',\'172.659393\',5,164);\\">New Zealand<\\/a>', 'null', 'null', 'null']
+3
+2194050
+
+172
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '16 Aug 1998', '<a href=\\"..\\/ai.php?2194049&trto=en&trfr=en&pid156\\" class=\\"fbox\\">PRO\\/EDR> Botulism, human - Japan (Tokyo)<\\/a>', 'Botulism', '<a href=\\"javascript:sc(\'36.098541\',\'138.478607\',5,156);\\">Japan<\\/a>', 'null', 'null', 'null']
+1
+2194049
+
+173
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '16 Aug 1998', '<a href=\\"..\\/ai.php?2194048&trto=en&trfr=en&pid40\\" class=\\"fbox\\">PRO\\/AH> Rabies - UK: possible quarantine changes (12)<\\/a>', 'Rabies', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+1
+2194048
+
+174
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '16 Aug 1998', '<a href=\\"..\\/ai.php?2194047&trto=en&trfr=en&pid198\\" class=\\"fbox\\">PRO\\/EDR> Dengue - China (Hong Kong)<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'22.284000\',\'114.150002\',5,198);\\">Hong Kong<\\/a>', 'null', 'null', 'null']
+3
+2194047
+
+175
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '16 Aug 1998', '<a href=\\"..\\/ai.php?2194046&trto=en&trfr=en&pid193\\" class=\\"fbox\\">PRO\\/EDR> Enterovirus 71 epidemic, children - Taiwan (24)<\\/a>', 'Enterovirus', '<a href=\\"javascript:sc(\'23.873001\',\'121.016998\',6,193);\\">Taiwan<\\/a>', 'null', 'null', 'null']
+1
+2194046
+
+176
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '15 Aug 1998', '<a href=\\"..\\/ai.php?2194045&trto=en&trfr=en&pid40\\" class=\\"fbox\\">PRO\\/AH> Mycobacterium paratuberculosis, milk survey - UK (03)<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+1
+2194045
+
+177
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '15 Aug 1998', '<a href=\\"..\\/ai.php?2194044&trto=en&trfr=en&pid296\\" class=\\"fbox\\">PRO> Giardia, water supply - Australia (Sydney) (07)<\\/a>', 'Giardiasis', '<a href=\\"javascript:sc(\'-33.870499\',\'151.215805\',5,296);\\">Sydney, New South Wales, Australia<\\/a>', 'null', 'null', 'null']
+1
+2194044
+
+178
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '15 Aug 1998', '<a href=\\"..\\/ai.php?2194043&trto=en&trfr=en&pid239\\" class=\\"fbox\\">PRO\\/AH> Vibrio parahaemolyticus, oysters - USA (Oregon)<\\/a>', 'Vibrio parahaemolyticus', '<a href=\\"javascript:sc(\'43.992802\',\'-120.498100\',5,239);\\">Oregon, United States<\\/a>', 'null', 'null', 'null']
+1
+2194043
+
+179
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '15 Aug 1998', '<a href=\\"..\\/ai.php?2194042&trto=en&trfr=en&pid12\\" class=\\"fbox\\">PRO> Smallpox, destruction of stocks (02)<\\/a>', 'Smallpox-Related', '<a href=\\"javascript:sc(\'55.429001\',\'-101.865303\',4,12);\\">Canada<\\/a>', 'null', 'null', 'null']
+3
+2194042
+
+180
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '15 Aug 1998', '<a href=\\"..\\/ai.php?2194041&trto=en&trfr=en&pid100\\" class=\\"fbox\\">PRO\\/EDR> Legionellosis - France (06)<\\/a>', "Legionnaires'", '<a href=\\"javascript:sc(\'46.564499\',\'2.551950\',5,100);\\">France<\\/a>', 'null', 'null', 'null']
+3
+2194041
+
+181
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '15 Aug 1998', '<a href=\\"..\\/ai.php?2194040&trto=en&trfr=en&pid413\\" class=\\"fbox\\">PRO\\/EDR> Shigellosis - Russia (Volgograd)<\\/a>', 'Shigellosis', '<a href=\\"javascript:sc(\'48.716301\',\'44.514500\',5,413);\\">Volgograd<\\/a>', 'null', 'null', 'null']
+3
+2194040
+
+182
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '15 Aug 1998', '<a href=\\"..\\/ai.php?2194039&trto=en&trfr=en&pid195\\" class=\\"fbox\\">PRO> Chlamydia & Alzheimer\'s disease (02)<\\/a>', 'Chlamydia', '<a href=\\"javascript:sc(\'36.615501\',\'127.726997\',6,195);\\">South Korea<\\/a>', 'null', 'null', 'null']
+1
+2194039
+
+183
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '15 Aug 1998', '<a href=\\"..\\/ai.php?2194039&trto=en&trfr=en&pid195\\" class=\\"fbox\\">PRO> Chlamydia & Alzheimer\'s disease (02)<\\/a>', 'Chronic\\/Non-Infectious Disease', '<a href=\\"javascript:sc(\'36.615501\',\'127.726997\',6,195);\\">South Korea<\\/a>', 'null', 'null', 'null']
+1
+2194039
+
+184
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '15 Aug 1998', '<a href=\\"..\\/ai.php?2194038&trto=en&trfr=en&pid195\\" class=\\"fbox\\">PRO> Malaria, military personnel - South Korea<\\/a>', 'Malaria', '<a href=\\"javascript:sc(\'36.615501\',\'127.726997\',6,195);\\">South Korea<\\/a>', 'null', 'null', 'null']
+3
+2194038
+
+185
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '15 Aug 1998', '<a href=\\"..\\/ai.php?2194037&trto=en&trfr=en&pid476\\" class=\\"fbox\\">PRO\\/EDR> Rheumatic fever & viral syndrome - Niue<\\/a>', 'Rheumatic Fever', '<a href=\\"javascript:sc(\'-19.033400\',\'-169.866699\',5,476);\\">Niue<\\/a>', 'null', 'null', 'null']
+1
+2194037
+
+186
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '15 Aug 1998', '<a href=\\"..\\/ai.php?2194036&trto=en&trfr=en&pid22\\" class=\\"fbox\\">PRO\\/AH\\/EDR> Venezuelan equine encephalitis - Honduras (02)<\\/a>', 'Venezuelan Equine Encephalitis', '<a href=\\"javascript:sc(\'14.819220\',\'-86.619141\',5,22);\\">Honduras<\\/a>', 'null', 'null', 'null']
+3
+2194036
+
+187
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '14 Aug 1998', '<a href=\\"..\\/ai.php?2194035&trto=en&trfr=en&pid514\\" class=\\"fbox\\">PRO\\/PL> Citrus: Plant Disease Notes<\\/a>', 'Other Plant Disease', '<a href=\\"javascript:sc(\'20.838200\',\'-88.989304\',5,514);\\">Estado de Yucat\\u00e1n, Mexico<\\/a>', 'null', 'null', 'null']
+1
+2194035
+
+188
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '14 Aug 1998', '<a href=\\"..\\/ai.php?2194034&trto=en&trfr=en&pid144\\" class=\\"fbox\\">PRO\\/EDR> Cholera - Sri Lanka (04)<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'7.608090\',\'80.704727\',5,144);\\">Sri Lanka<\\/a>', 'null', 'null', 'null']
+3
+2194034
+
+189
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '14 Aug 1998', '<a href=\\"..\\/ai.php?2194033&trto=en&trfr=en&pid104\\" class=\\"fbox\\">PRO> Parvovirus & pregnancy, increased risk - Netherlands<\\/a>', 'Parvovirus', '<a href=\\"javascript:sc(\'52.249260\',\'5.603420\',6,104);\\">Netherlands<\\/a>', 'null', 'null', 'null']
+3
+2194033
+
+190
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '14 Aug 1998', '<a href=\\"..\\/ai.php?2194032&trto=en&trfr=en&pid223\\" class=\\"fbox\\">PRO\\/AH> Pfiesteria toxins linked to cognitive deficits<\\/a>', 'Algae', '<a href=\\"javascript:sc(\'38.959400\',\'-76.376999\',5,223);\\">Maryland, United States<\\/a>', 'null', 'null', 'null']
+1
+2194032
+
+191
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '14 Aug 1998', '<a href=\\"..\\/ai.php?2194031&trto=en&trfr=en&pid268\\" class=\\"fbox\\">PRO\\/AH> Scrapie, eradication program - Canada (Quebec)<\\/a>', 'Scrapie', '<a href=\\"javascript:sc(\'51.069000\',\'-73.256897\',5,268);\\">Quebec Province, Canada<\\/a>', 'null', 'null', 'null']
+3
+2194031
+
+192
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '14 Aug 1998', '<a href=\\"..\\/ai.php?2194030&trto=en&trfr=en&pid195\\" class=\\"fbox\\">PRO\\/AH> Dogs, dead, restaurant food - South Korea (Seoul)<\\/a>', 'Rabies', '<a href=\\"javascript:sc(\'36.615501\',\'127.726997\',6,195);\\">South Korea<\\/a>', 'null', 'null', 'null']
+1
+2194030
+
+193
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194029&trto=en&trfr=en&pid217\\" class=\\"fbox\\">PRO> Aseptic meningitis - USA (Indiana)<\\/a>', 'Meningitis', '<a href=\\"javascript:sc(\'40.010700\',\'-86.264702\',5,217);\\">Indiana, United States<\\/a>', 'null', 'null', 'null']
+3
+2194029
+
+194
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194028&trto=en&trfr=en&pid22\\" class=\\"fbox\\">PRO\\/EDR> Dengue\\/DHF - Honduras (03)<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'14.819220\',\'-86.619141\',5,22);\\">Honduras<\\/a>', 'null', 'null', 'null']
+3
+2194028
+
+195
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194027&trto=en&trfr=en&pid151\\" class=\\"fbox\\">PRO\\/EDR> Dengue\\/DHF - Thailand (Phuket)<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'15.127040\',\'101.017357\',5,151);\\">Thailand<\\/a>', 'null', 'null', 'null']
+3
+2194027
+
+196
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194026&trto=en&trfr=en&pid139\\" class=\\"fbox\\">PRO> Dengue, absence of - Nepal<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'28.253010\',\'83.938553\',5,139);\\">Nepal<\\/a>', 'null', 'null', 'null']
+3
+2194026
+
+197
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194025&trto=en&trfr=en&pid227\\" class=\\"fbox\\">PRO\\/EDR> Aseptic meningitis - USA (Missouri)<\\/a>', 'Meningitis', '<a href=\\"javascript:sc(\'38.238098\',\'-92.504898\',5,227);\\">Missouri, United States<\\/a>', 'null', 'null', 'null']
+3
+2194025
+
+198
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194024&trto=en&trfr=en&pid152\\" class=\\"fbox\\">PRO\\/EDR> Dengue\\/DHF - Vietnam (06)<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'14.944700\',\'108.457001\',5,152);\\">Vietnam<\\/a>', 'null', 'null', 'null']
+3
+2194024
+
+199
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194023&trto=en&trfr=en&pid148\\" class=\\"fbox\\">PRO\\/EDR> Dengue - Myanmar (Burma)<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'21.154320\',\'96.506920\',5,148);\\">Myanmar<\\/a>', 'null', 'null', 'null']
+3
+2194023
+
+200
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194022&trto=en&trfr=en&pid145\\" class=\\"fbox\\">PRO\\/EDR> Dengue\\/DHF - Cambodia<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'12.716430\',\'104.923981\',5,145);\\">Cambodia<\\/a>', 'null', 'null', 'null']
+3
+2194022
+
+201
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194021&trto=en&trfr=en&pid111\\" class=\\"fbox\\">PRO\\/EDR> Shigellosis, imported food - Denmark<\\/a>', 'Shigellosis', '<a href=\\"javascript:sc(\'55.963402\',\'10.046300\',5,111);\\">Denmark<\\/a>', 'null', 'null', 'null']
+3
+2194021
+
+202
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194020&trto=en&trfr=en&pid107\\" class=\\"fbox\\">PRO> Cholera, imported - Norway ex Pakistan<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'60.716099\',\'8.745100\',5,107);\\">Norway<\\/a>', 'null', 'null', 'null']
+3
+2194020
+
+203
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194020&trto=en&trfr=en&pid140\\" class=\\"fbox\\">PRO> Cholera, imported - Norway ex Pakistan<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'29.967020\',\'69.385971\',5,140);\\">Pakistan<\\/a>', 'null', 'null', 'null']
+3
+2194020
+
+204
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194019&trto=en&trfr=en&pid198\\" class=\\"fbox\\">PRO\\/EDR> Cholera - China (Hong Kong) (05)<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'22.284000\',\'114.150002\',5,198);\\">Hong Kong<\\/a>', 'null', 'null', 'null']
+3
+2194019
+
+205
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194018&trto=en&trfr=en&pid87\\" class=\\"fbox\\">PRO> Aflatoxin, wheat supply - Turkey (Marmara) (02)<\\/a>', 'Poisoning', '<a href=\\"javascript:sc(\'39.060600\',\'35.179668\',5,87);\\">Turkey<\\/a>', 'null', 'null', 'null']
+1
+2194018
+
+206
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194017&trto=en&trfr=en&pid233\\" class=\\"fbox\\">PRO> Botulism, risk from packaged vegetables: RFI<\\/a>', 'Botulism', '<a href=\\"javascript:sc(\'34.488400\',\'-105.996101\',5,233);\\">New Mexico, United States<\\/a>', 'null', 'null', 'null']
+1
+2194017
+
+207
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194017&trto=en&trfr=en&pid204\\" class=\\"fbox\\">PRO> Botulism, risk from packaged vegetables: RFI<\\/a>', 'Botulism', '<a href=\\"javascript:sc(\'37.250198\',\'-119.750298\',5,204);\\">California, United States<\\/a>', 'null', 'null', 'null']
+1
+2194017
+
+208
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194016&trto=en&trfr=en&pid279\\" class=\\"fbox\\">PRO> E. coli, pathogenic, recommended references<\\/a>', 'E. coli', '<a href=\\"javascript:sc(\'53.034599\',\'-0.560400\',5,279);\\">England, United Kingdom<\\/a>', 'null', 'null', 'null']
+3
+2194016
+
+209
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194015&trto=en&trfr=en&pid250\\" class=\\"fbox\\">PRO> E. coli, role in colorectal cancer? (03)<\\/a>', 'E. coli', '<a href=\\"javascript:sc(\'44.496498\',\'-90.000000\',5,250);\\">Wisconsin, United States<\\/a>', 'null', 'null', 'null']
+3
+2194015
+
+210
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194015&trto=en&trfr=en&pid250\\" class=\\"fbox\\">PRO> E. coli, role in colorectal cancer? (03)<\\/a>', 'Chronic\\/Non-Infectious Disease', '<a href=\\"javascript:sc(\'44.496498\',\'-90.000000\',5,250);\\">Wisconsin, United States<\\/a>', 'null', 'null', 'null']
+1
+2194015
+
+211
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194014&trto=en&trfr=en&pid250\\" class=\\"fbox\\">PRO\\/PL> Plant Disease Notes<\\/a>', 'Other Plant Disease', '<a href=\\"javascript:sc(\'44.496498\',\'-90.000000\',5,250);\\">Wisconsin, United States<\\/a>', 'null', 'null', 'null']
+1
+2194014
+
+212
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194013&trto=en&trfr=en&pid216\\" class=\\"fbox\\">PRO\\/AH> Leptospirosis - USA (Illinois & Wisconsin)(11)<\\/a>', 'Leptospirosis', '<a href=\\"javascript:sc(\'40.010700\',\'-89.252998\',5,216);\\">Illinois, United States<\\/a>', 'null', 'null', 'null']
+3
+2194013
+
+213
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194013&trto=en&trfr=en&pid250\\" class=\\"fbox\\">PRO\\/AH> Leptospirosis - USA (Illinois & Wisconsin)(11)<\\/a>', 'Leptospirosis', '<a href=\\"javascript:sc(\'44.496498\',\'-90.000000\',5,250);\\">Wisconsin, United States<\\/a>', 'null', 'null', 'null']
+3
+2194013
+
+214
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194012&trto=en&trfr=en&pid259\\" class=\\"fbox\\">PRO\\/AH> Vibrio parahaemolyticus, oysters -USA(Washington)(02)<\\/a>', 'Vibrio parahaemolyticus', '<a href=\\"javascript:sc(\'38.895000\',\'-77.036697\',5,259);\\">Washington, DC, United States<\\/a>', 'null', 'null', 'null']
+1
+2194012
+
+215
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194011&trto=en&trfr=en&pid40\\" class=\\"fbox\\">PRO\\/AH> Mycobacterium paratuberculosis, milk survey - UK (02)<\\/a>', 'Foodborne Illness', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+1
+2194011
+
+216
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194010&trto=en&trfr=en&pid100\\" class=\\"fbox\\">PRO\\/AH> BSE - France (13)<\\/a>', 'BSE', '<a href=\\"javascript:sc(\'46.564499\',\'2.551950\',5,100);\\">France<\\/a>', 'null', 'null', 'null']
+3
+2194010
+
+217
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '13 Aug 1998', '<a href=\\"..\\/ai.php?2194009&trto=en&trfr=en&pid356\\" class=\\"fbox\\">PRO\\/EDR> Cholera - China (Inner Mongolia)<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'42.163399\',\'113.699997\',5,356);\\">Inner Mongolia Autonomous Region, China<\\/a>', 'null', 'null', 'null']
+3
+2194009
+
+218
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '12 Aug 1998', '<a href=\\"..\\/ai.php?2194008&trto=en&trfr=en&pid330\\" class=\\"fbox\\">PRO> Dropsy, epidemic  - India (Delhi) (02)<\\/a>', 'Bronchitis\\/Bronchiolitis', '<a href=\\"javascript:sc(\'28.671301\',\'77.211899\',5,330);\\">National Capital Territory of Delhi, India<\\/a>', 'null', 'null', 'null']
+1
+2194008
+
+219
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '12 Aug 1998', '<a href=\\"..\\/ai.php?2194008&trto=en&trfr=en&pid330\\" class=\\"fbox\\">PRO> Dropsy, epidemic  - India (Delhi) (02)<\\/a>', 'Chronic\\/Non-Infectious Disease', '<a href=\\"javascript:sc(\'28.671301\',\'77.211899\',5,330);\\">National Capital Territory of Delhi, India<\\/a>', 'null', 'null', 'null']
+1
+2194008
+
+220
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '12 Aug 1998', '<a href=\\"..\\/ai.php?2194007&trto=en&trfr=en&pid257\\" class=\\"fbox\\">PRO> Chlamydia & Alzheimer\'s disease<\\/a>', 'Chlamydia', '<a href=\\"javascript:sc(\'39.951801\',\'-75.163002\',5,257);\\">Philadelphia, Pennsylvania, United States<\\/a>', 'null', 'null', 'null']
+1
+2194007
+
+221
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '12 Aug 1998', '<a href=\\"..\\/ai.php?2194007&trto=en&trfr=en&pid225\\" class=\\"fbox\\">PRO> Chlamydia & Alzheimer\'s disease<\\/a>', 'Chronic\\/Non-Infectious Disease', '<a href=\\"javascript:sc(\'43.580299\',\'-84.462898\',5,225);\\">Michigan, United States<\\/a>', 'null', 'null', 'null']
+1
+2194007
+
+222
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '12 Aug 1998', '<a href=\\"..\\/ai.php?2194007&trto=en&trfr=en&pid223\\" class=\\"fbox\\">PRO> Chlamydia & Alzheimer\'s disease<\\/a>', 'Chronic\\/Non-Infectious Disease', '<a href=\\"javascript:sc(\'38.959400\',\'-76.376999\',5,223);\\">Maryland, United States<\\/a>', 'null', 'null', 'null']
+1
+2194007
+
+223
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '12 Aug 1998', '<a href=\\"..\\/ai.php?2194006&trto=en&trfr=en&pid410\\" class=\\"fbox\\">PRO\\/EDR> Shigellosis - Russia (Udmurtia)<\\/a>', 'Shigellosis', '<a href=\\"javascript:sc(\'56.992802\',\'52.998001\',5,410);\\">Udmurt Republic<\\/a>', 'null', 'null', 'null']
+3
+2194006
+
+224
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '12 Aug 1998', '<a href=\\"..\\/ai.php?2194004&trto=en&trfr=en&pid124\\" class=\\"fbox\\">PRO\\/PL> International Organization of Citrus Virologists<\\/a>', 'Other Plant Disease', '<a href=\\"javascript:sc(\'20.602289\',\'56.109840\',5,124);\\">Oman<\\/a>', 'null', 'null', 'null']
+1
+2194004
+
+225
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '12 Aug 1998', '<a href=\\"..\\/ai.php?2194004&trto=en&trfr=en&pid132\\" class=\\"fbox\\">PRO\\/PL> International Organization of Citrus Virologists<\\/a>', 'Other Plant Disease', '<a href=\\"javascript:sc(\'23.910931\',\'54.335159\',5,132);\\">United Arab Emirates<\\/a>', 'null', 'null', 'null']
+1
+2194004
+
+226
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '12 Aug 1998', '<a href=\\"..\\/ai.php?2194004&trto=en&trfr=en&pid6\\" class=\\"fbox\\">PRO\\/PL> International Organization of Citrus Virologists<\\/a>', 'Other Plant Disease', '<a href=\\"javascript:sc(\'-10.773110\',\'-53.089821\',4,6);\\">Brazil<\\/a>', 'null', 'null', 'null']
+1
+2194004
+
+227
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '12 Aug 1998', '<a href=\\"..\\/ai.php?2194004&trto=en&trfr=en&pid87\\" class=\\"fbox\\">PRO\\/PL> International Organization of Citrus Virologists<\\/a>', 'Other Plant Disease', '<a href=\\"javascript:sc(\'39.060600\',\'35.179668\',5,87);\\">Turkey<\\/a>', 'null', 'null', 'null']
+1
+2194004
+
+228
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '12 Aug 1998', '<a href=\\"..\\/ai.php?2194003&trto=en&trfr=en&pid259\\" class=\\"fbox\\">PRO\\/AH> Vibrio parahaemolyticus, oysters - USA (Washington)<\\/a>', 'Vibrio parahaemolyticus', '<a href=\\"javascript:sc(\'38.895000\',\'-77.036697\',5,259);\\">Washington, DC, United States<\\/a>', 'null', 'null', 'null']
+1
+2194003
+
+229
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '12 Aug 1998', '<a href=\\"..\\/ai.php?2194002&trto=en&trfr=en&pid205\\" class=\\"fbox\\">PRO\\/AH> Screwworm alert - USA (Alabama)<\\/a>', 'Myiasis', '<a href=\\"javascript:sc(\'32.731800\',\'-86.748100\',5,205);\\">Alabama, United States<\\/a>', 'null', 'null', 'null']
+1
+2194002
+
+230
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '12 Aug 1998', '<a href=\\"..\\/ai.php?2194001&trto=en&trfr=en&pid262\\" class=\\"fbox\\">PRO> Aseptic meningitis - Canada (Saskatchewan)<\\/a>', 'Meningitis', '<a href=\\"javascript:sc(\'54.007702\',\'-105.996101\',5,262);\\">Saskatchewan Province, Canada<\\/a>', 'null', 'null', 'null']
+3
+2194001
+
+231
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '12 Aug 1998', '<a href=\\"..\\/ai.php?2194000&trto=en&trfr=en&pid259\\" class=\\"fbox\\">PRO> Aseptic meningitis - USA (Washington)<\\/a>', 'Meningitis', '<a href=\\"javascript:sc(\'38.895000\',\'-77.036697\',5,259);\\">Washington, DC, United States<\\/a>', 'null', 'null', 'null']
+3
+2194000
+
+232
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '11 Aug 1998', '<a href=\\"..\\/ai.php?2193999&trto=en&trfr=en&pid140\\" class=\\"fbox\\">PRO> E. coli, role in colorectal cancer? (02)<\\/a>', 'E. coli', '<a href=\\"javascript:sc(\'29.967020\',\'69.385971\',5,140);\\">Pakistan<\\/a>', 'null', 'null', 'null']
+3
+2193999
+
+233
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '11 Aug 1998', '<a href=\\"..\\/ai.php?2193999&trto=en&trfr=en&pid140\\" class=\\"fbox\\">PRO> E. coli, role in colorectal cancer? (02)<\\/a>', 'Chronic\\/Non-Infectious Disease', '<a href=\\"javascript:sc(\'29.967020\',\'69.385971\',5,140);\\">Pakistan<\\/a>', 'null', 'null', 'null']
+1
+2193999
+
+234
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '11 Aug 1998', '<a href=\\"..\\/ai.php?2193998&trto=en&trfr=en&pid140\\" class=\\"fbox\\">PRO> Crimean-Congo HF, nosocomial - Pakistan, 1994<\\/a>', 'Crimean-Congo Hemorrhagic Fever', '<a href=\\"javascript:sc(\'29.967020\',\'69.385971\',5,140);\\">Pakistan<\\/a>', 'null', 'null', 'null']
+3
+2193998
+
+235
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '11 Aug 1998', '<a href=\\"..\\/ai.php?2193998&trto=en&trfr=en&pid140\\" class=\\"fbox\\">PRO> Crimean-Congo HF, nosocomial - Pakistan, 1994<\\/a>', 'Hospital-Related Infection', '<a href=\\"javascript:sc(\'29.967020\',\'69.385971\',5,140);\\">Pakistan<\\/a>', 'null', 'null', 'null']
+3
+2193998
+
+236
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '11 Aug 1998', '<a href=\\"..\\/ai.php?2193997&trto=en&trfr=en&pid40\\" class=\\"fbox\\">PRO\\/AH> Mycobacterium paratuberculosis, milk survey - UK<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+1
+2193997
+
+237
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '11 Aug 1998', '<a href=\\"..\\/ai.php?2193996&trto=en&trfr=en&pid245\\" class=\\"fbox\\">PRO\\/AH> Meningoencephalitis, Naegleria, dogs - USA (Texas)<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'31.240900\',\'-99.228600\',5,245);\\">Texas, United States<\\/a>', 'null', 'null', 'null']
+1
+2193996
+
+238
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '11 Aug 1998', '<a href=\\"..\\/ai.php?2193995&trto=en&trfr=en&pid216\\" class=\\"fbox\\">PRO\\/AH> Leptospirosis - USA (Illinois & Wisconsin)(10)<\\/a>', 'Leptospirosis', '<a href=\\"javascript:sc(\'40.010700\',\'-89.252998\',5,216);\\">Illinois, United States<\\/a>', 'null', 'null', 'null']
+3
+2193995
+
+239
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '11 Aug 1998', '<a href=\\"..\\/ai.php?2193995&trto=en&trfr=en&pid250\\" class=\\"fbox\\">PRO\\/AH> Leptospirosis - USA (Illinois & Wisconsin)(10)<\\/a>', 'Leptospirosis', '<a href=\\"javascript:sc(\'44.496498\',\'-90.000000\',5,250);\\">Wisconsin, United States<\\/a>', 'null', 'null', 'null']
+3
+2193995
+
+240
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '11 Aug 1998', '<a href=\\"..\\/ai.php?2193993&trto=en&trfr=en&pid38\\" class=\\"fbox\\">PRO\\/AH> Acute febrile disease, horses - Iceland (06)<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'64.997589\',\'-18.605471\',5,38);\\">Iceland<\\/a>', 'null', 'null', 'null']
+1
+2193993
+
+241
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '11 Aug 1998', '<a href=\\"..\\/ai.php?2193992&trto=en&trfr=en&pid147\\" class=\\"fbox\\">PRO\\/EDR> Dengue - Malaysia (Petaling Jaya)<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'2.574600\',\'113.191803\',5,147);\\">Malaysia<\\/a>', 'null', 'null', 'null']
+3
+2193992
+
+242
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '11 Aug 1998', '<a href=\\"..\\/ai.php?2193991&trto=en&trfr=en&pid330\\" class=\\"fbox\\">PRO> Dropsy, epidemic  - India (Delhi)<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'28.671301\',\'77.211899\',5,330);\\">National Capital Territory of Delhi, India<\\/a>', 'null', 'null', 'null']
+1
+2193991
+
+243
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '11 Aug 1998', '<a href=\\"..\\/ai.php?2193990&trto=en&trfr=en&pid22\\" class=\\"fbox\\">PRO\\/AH\\/EDR> Venezuelan equine encephalitis - Honduras<\\/a>', 'Venezuelan Equine Encephalitis', '<a href=\\"javascript:sc(\'14.819220\',\'-86.619141\',5,22);\\">Honduras<\\/a>', 'null', 'null', 'null']
+3
+2193990
+
+244
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '11 Aug 1998', '<a href=\\"..\\/ai.php?2193989&trto=en&trfr=en&pid138\\" class=\\"fbox\\">PRO\\/AH\\/EDR> Plague,  marmots - Kyrgyzstan (Dzhetyoguz)<\\/a>', 'Plague', '<a href=\\"javascript:sc(\'41.465050\',\'74.555603\',5,138);\\">Kyrgyzstan<\\/a>', 'null', 'null', 'null']
+3
+2193989
+
+245
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '11 Aug 1998', '<a href=\\"..\\/ai.php?2193988&trto=en&trfr=en&pid87\\" class=\\"fbox\\">PRO> Aflatoxin, wheat supply - Turkey (Marmara)<\\/a>', 'Poisoning', '<a href=\\"javascript:sc(\'39.060600\',\'35.179668\',5,87);\\">Turkey<\\/a>', 'null', 'null', 'null']
+1
+2193988
+
+246
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '11 Aug 1998', '<a href=\\"..\\/ai.php?2193987&trto=en&trfr=en&pid243\\" class=\\"fbox\\">PRO\\/EDR> Aseptic meningitis - USA (South Dakota)<\\/a>', 'Meningitis', '<a href=\\"javascript:sc(\'44.496498\',\'-100.239304\',5,243);\\">South Dakota, United States<\\/a>', 'null', 'null', 'null']
+3
+2193987
+
+247
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '10 Aug 1998', '<a href=\\"..\\/ai.php?2193985&trto=en&trfr=en&pid100\\" class=\\"fbox\\">PRO\\/AH> BSE - France (12)<\\/a>', 'BSE', '<a href=\\"javascript:sc(\'46.564499\',\'2.551950\',5,100);\\">France<\\/a>', 'null', 'null', 'null']
+3
+2193985
+
+248
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '10 Aug 1998', '<a href=\\"..\\/ai.php?2193984&trto=en&trfr=en&pid232\\" class=\\"fbox\\">PRO\\/AH> Undiagnosed illness, bat guano related - USA (NJ)(05)<\\/a>', 'Undiagnosed', '<a href=\\"javascript:sc(\'40.178799\',\'-74.355499\',5,232);\\">New Jersey, United States<\\/a>', 'null', 'null', 'null']
+3
+2193984
+
+249
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '10 Aug 1998', '<a href=\\"..\\/ai.php?2193983&trto=en&trfr=en&pid191\\" class=\\"fbox\\">PRO\\/EDR> Dengue\\/DHF - Vanuatu<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'-16.255051\',\'167.718155\',5,191);\\">Vanuatu<\\/a>', 'null', 'null', 'null']
+3
+2193983
+
+250
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '9 Aug 1998', '<a href=\\"..\\/ai.php?2193981&trto=en&trfr=en&pid192\\" class=\\"fbox\\">PRO> Dengue - Puerto Rico (02)<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'18.251301\',\'-66.501404\',6,192);\\">Puerto Rico<\\/a>', 'null', 'null', 'null']
+3
+2193981
+
+251
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '9 Aug 1998', '<a href=\\"..\\/ai.php?2193980&trto=en&trfr=en&pid216\\" class=\\"fbox\\">PRO\\/AH> Leptospirosis - USA (Illinois & Wisconsin) (09)<\\/a>', 'Leptospirosis', '<a href=\\"javascript:sc(\'40.010700\',\'-89.252998\',5,216);\\">Illinois, United States<\\/a>', 'null', 'null', 'null']
+3
+2193980
+
+252
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '9 Aug 1998', '<a href=\\"..\\/ai.php?2193980&trto=en&trfr=en&pid250\\" class=\\"fbox\\">PRO\\/AH> Leptospirosis - USA (Illinois & Wisconsin) (09)<\\/a>', 'Leptospirosis', '<a href=\\"javascript:sc(\'44.496498\',\'-90.000000\',5,250);\\">Wisconsin, United States<\\/a>', 'null', 'null', 'null']
+3
+2193980
+
+253
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '9 Aug 1998', '<a href=\\"..\\/ai.php?2193979&trto=en&trfr=en&pid16\\" class=\\"fbox\\">PRO\\/AH> Venezuelan equine encephalitis - Colombia: correction<\\/a>', 'Venezuelan Equine Encephalitis', '<a href=\\"javascript:sc(\'3.901160\',\'-73.073372\',5,16);\\">Colombia<\\/a>', 'null', 'null', 'null']
+3
+2193979
+
+254
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '9 Aug 1998', '<a href=\\"..\\/ai.php?2193978&trto=en&trfr=en&pid12\\" class=\\"fbox\\">PRO\\/AH> Tuberculosis, bovine, wood bison - Canada (WBNP)(02)<\\/a>', 'Tuberculosis', '<a href=\\"javascript:sc(\'55.429001\',\'-101.865303\',4,12);\\">Canada<\\/a>', 'null', 'null', 'null']
+1
+2193978
+
+255
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '9 Aug 1998', '<a href=\\"..\\/ai.php?2193977&trto=en&trfr=en&pid153\\" class=\\"fbox\\">PRO\\/EDR> Diarrhea\\/dysentery, post-flood - Bangladesh<\\/a>', 'Diarrhea', '<a href=\\"javascript:sc(\'23.843229\',\'90.268501\',5,153);\\">Bangladesh<\\/a>', 'null', 'null', 'null']
+3
+2193977
+
+256
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '9 Aug 1998', '<a href=\\"..\\/ai.php?2193977&trto=en&trfr=en&pid153\\" class=\\"fbox\\">PRO\\/EDR> Diarrhea\\/dysentery, post-flood - Bangladesh<\\/a>', 'Dysentery', '<a href=\\"javascript:sc(\'23.843229\',\'90.268501\',5,153);\\">Bangladesh<\\/a>', 'null', 'null', 'null']
+3
+2193977
+
+257
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '9 Aug 1998', '<a href=\\"..\\/ai.php?2193976&trto=en&trfr=en&pid192\\" class=\\"fbox\\">PRO\\/EDR> Dengue\\/DHF - Puerto Rico<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'18.251301\',\'-66.501404\',6,192);\\">Puerto Rico<\\/a>', 'null', 'null', 'null']
+3
+2193976
+
+258
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '8 Aug 1998', '<a href=\\"..\\/ai.php?2193975&trto=en&trfr=en&pid40\\" class=\\"fbox\\">PRO\\/AH> Bird feeders, lethal - UK<\\/a>', 'Salmonella', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+1
+2193975
+
+259
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '8 Aug 1998', '<a href=\\"..\\/ai.php?2193975&trto=en&trfr=en&pid40\\" class=\\"fbox\\">PRO\\/AH> Bird feeders, lethal - UK<\\/a>', 'E. coli', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+3
+2193975
+
+260
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '8 Aug 1998', '<a href=\\"..\\/ai.php?2193974&trto=en&trfr=en&pid212\\" class=\\"fbox\\">PRO\\/EDR> Amebic meningoencephalitis, primary - USA (Florida)<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'28.149500\',\'-81.650398\',5,212);\\">Florida, United States<\\/a>', 'null', 'null', 'null']
+1
+2193974
+
+261
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '8 Aug 1998', '<a href=\\"..\\/ai.php?2193973&trto=en&trfr=en&pid245\\" class=\\"fbox\\">PRO> Amebic meningoencephalitis, primary - USA(Texas)(03)<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'31.240900\',\'-99.228600\',5,245);\\">Texas, United States<\\/a>', 'null', 'null', 'null']
+1
+2193973
+
+262
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '8 Aug 1998', '<a href=\\"..\\/ai.php?2193972&trto=en&trfr=en&pid12\\" class=\\"fbox\\">PRO\\/AH> Botulism, avian, research - Canada & USA<\\/a>', 'Botulism', '<a href=\\"javascript:sc(\'55.429001\',\'-101.865303\',4,12);\\">Canada<\\/a>', 'null', 'null', 'null']
+1
+2193972
+
+263
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '8 Aug 1998', '<a href=\\"..\\/ai.php?2193972&trto=en&trfr=en&pid106\\" class=\\"fbox\\">PRO\\/AH> Botulism, avian, research - Canada & USA<\\/a>', 'Botulism', '<a href=\\"javascript:sc(\'39.966930\',\'-97.556099\',4,106);\\">United States<\\/a>', 'null', 'null', 'null']
+1
+2193972
+
+264
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '8 Aug 1998', '<a href=\\"..\\/ai.php?2193971&trto=en&trfr=en&pid260\\" class=\\"fbox\\">PRO\\/AH\\/EDR> Leptospirosis, trappers - Canada (Ontario) (02)<\\/a>', 'Leptospirosis', '<a href=\\"javascript:sc(\'51.727001\',\'-86.704201\',5,260);\\">Ontario Province, Canada<\\/a>', 'null', 'null', 'null']
+3
+2193971
+
+265
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '8 Aug 1998', '<a href=\\"..\\/ai.php?2193970&trto=en&trfr=en&pid216\\" class=\\"fbox\\">PRO\\/AH> Leptospirosis - USA (Illinois & Wisconsin) (08)<\\/a>', 'Leptospirosis', '<a href=\\"javascript:sc(\'40.010700\',\'-89.252998\',5,216);\\">Illinois, United States<\\/a>', 'null', 'null', 'null']
+3
+2193970
+
+266
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '8 Aug 1998', '<a href=\\"..\\/ai.php?2193970&trto=en&trfr=en&pid250\\" class=\\"fbox\\">PRO\\/AH> Leptospirosis - USA (Illinois & Wisconsin) (08)<\\/a>', 'Leptospirosis', '<a href=\\"javascript:sc(\'44.496498\',\'-90.000000\',5,250);\\">Wisconsin, United States<\\/a>', 'null', 'null', 'null']
+3
+2193970
+
+267
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '8 Aug 1998', '<a href=\\"..\\/ai.php?2193969&trto=en&trfr=en&pid106\\" class=\\"fbox\\">PRO> Aseptic meningitis - USA: RFI<\\/a>', 'Meningitis', '<a href=\\"javascript:sc(\'39.966930\',\'-97.556099\',4,106);\\">United States<\\/a>', 'null', 'null', 'null']
+3
+2193969
+
+268
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '8 Aug 1998', '<a href=\\"..\\/ai.php?2193968&trto=en&trfr=en&pid245\\" class=\\"fbox\\">PRO\\/EDR> Cryptosporidiosis - USA (Texas) (03)<\\/a>', 'Cryptosporidium', '<a href=\\"javascript:sc(\'31.240900\',\'-99.228600\',5,245);\\">Texas, United States<\\/a>', 'null', 'null', 'null']
+3
+2193968
+
+269
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '8 Aug 1998', '<a href=\\"..\\/ai.php?2193967&trto=en&trfr=en&pid100\\" class=\\"fbox\\">PRO\\/EDR> Legionellosis - France (05)<\\/a>', "Legionnaires'", '<a href=\\"javascript:sc(\'46.564499\',\'2.551950\',5,100);\\">France<\\/a>', 'null', 'null', 'null']
+3
+2193967
+
+270
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '8 Aug 1998', '<a href=\\"..\\/ai.php?2193966&trto=en&trfr=en&pid140\\" class=\\"fbox\\">PRO\\/EDR> Cholera - Pakistan (02)<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'29.967020\',\'69.385971\',5,140);\\">Pakistan<\\/a>', 'null', 'null', 'null']
+3
+2193966
+
+271
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '8 Aug 1998', '<a href=\\"..\\/ai.php?2193965&trto=en&trfr=en&pid99\\" class=\\"fbox\\">PRO\\/AH\\/EDR> Newcastle disease, pigeons - Belgium<\\/a>', 'Newcastle Disease', '<a href=\\"javascript:sc(\'50.642849\',\'4.663990\',5,99);\\">Belgium<\\/a>', 'null', 'null', 'null']
+3
+2193965
+
+272
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '8 Aug 1998', '<a href=\\"..\\/ai.php?2193964&trto=en&trfr=en&pid101\\" class=\\"fbox\\">PRO> E. coli, role in colorectal cancer?<\\/a>', 'E. coli', '<a href=\\"javascript:sc(\'51.106560\',\'10.393650\',5,101);\\">Germany<\\/a>', 'null', 'null', 'null']
+3
+2193964
+
+273
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '8 Aug 1998', '<a href=\\"..\\/ai.php?2193964&trto=en&trfr=en&pid101\\" class=\\"fbox\\">PRO> E. coli, role in colorectal cancer?<\\/a>', 'Chronic\\/Non-Infectious Disease', '<a href=\\"javascript:sc(\'51.106560\',\'10.393650\',5,101);\\">Germany<\\/a>', 'null', 'null', 'null']
+1
+2193964
+
+274
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '8 Aug 1998', '<a href=\\"..\\/ai.php?2193963&trto=en&trfr=en&pid285\\" class=\\"fbox\\">PRO\\/AH> Anthrax, human - Australia (Queensland) (02)<\\/a>', 'Anthrax', '<a href=\\"javascript:sc(\'-23.322100\',\'143.964798\',5,285);\\">Queensland, Australia<\\/a>', 'null', 'null', 'null']
+3
+2193963
+
+275
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '8 Aug 1998', '<a href=\\"..\\/ai.php?2193962&trto=en&trfr=en&pid147\\" class=\\"fbox\\">PRO> HFMD-related deaths, role of EV71 - Malaysia: revised<\\/a>', 'Hand, Foot and Mouth Disease', '<a href=\\"javascript:sc(\'2.574600\',\'113.191803\',5,147);\\">Malaysia<\\/a>', 'null', 'null', 'null']
+1
+2193962
+
+276
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '8 Aug 1998', '<a href=\\"..\\/ai.php?2193962&trto=en&trfr=en&pid147\\" class=\\"fbox\\">PRO> HFMD-related deaths, role of EV71 - Malaysia: revised<\\/a>', 'Enterovirus', '<a href=\\"javascript:sc(\'2.574600\',\'113.191803\',5,147);\\">Malaysia<\\/a>', 'null', 'null', 'null']
+1
+2193962
+
+277
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '7 Aug 1998', '<a href=\\"..\\/ai.php?2193961&trto=en&trfr=en&pid155\\" class=\\"fbox\\">PRO> Enterovirus 71 references<\\/a>', 'Enterovirus', '<a href=\\"javascript:sc(\'36.519981\',\'103.891769\',4,155);\\">China<\\/a>', 'null', 'null', 'null']
+1
+2193961
+
+278
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '7 Aug 1998', '<a href=\\"..\\/ai.php?2193960&trto=en&trfr=en&pid156\\" class=\\"fbox\\">PRO> Food poisoning, cyanide? - Japan (Wakayama) (03)<\\/a>', 'Foodborne Illness', '<a href=\\"javascript:sc(\'36.098541\',\'138.478607\',5,156);\\">Japan<\\/a>', 'null', 'null', 'null']
+1
+2193960
+
+279
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '7 Aug 1998', '<a href=\\"..\\/ai.php?2193959&trto=en&trfr=en&pid106\\" class=\\"fbox\\">PRO\\/AH> Antibiotic resistance, livestock - USA<\\/a>', 'E. coli', '<a href=\\"javascript:sc(\'39.966930\',\'-97.556099\',4,106);\\">United States<\\/a>', 'null', 'null', 'null']
+3
+2193959
+
+280
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '7 Aug 1998', '<a href=\\"..\\/ai.php?2193958&trto=en&trfr=en&pid264\\" class=\\"fbox\\">PRO\\/AH> Rabies, bats - Canada(Victoria, British Columbia)(03)<\\/a>', 'Rabies', '<a href=\\"javascript:sc(\'54.673801\',\'-124.936600\',5,264);\\">British Columbia Province, Canada<\\/a>', 'null', 'null', 'null']
+1
+2193958
+
+281
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '7 Aug 1998', '<a href=\\"..\\/ai.php?2193957&trto=en&trfr=en&pid285\\" class=\\"fbox\\">PRO\\/AH\\/EDR> Anthrax, human - Australia (Queensland)<\\/a>', 'Anthrax', '<a href=\\"javascript:sc(\'-23.322100\',\'143.964798\',5,285);\\">Queensland, Australia<\\/a>', 'null', 'null', 'null']
+3
+2193957
+
+282
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '7 Aug 1998', '<a href=\\"..\\/ai.php?2193956&trto=en&trfr=en&pid206\\" class=\\"fbox\\">PRO\\/EDR> Influenza A advisory - USA (Alaska), Canada (Yukon)<\\/a>', 'Influenza', '<a href=\\"javascript:sc(\'64.000198\',\'-150.000305\',5,206);\\">Alaska, United States<\\/a>', 'null', 'null', 'null']
+1
+2193956
+
+283
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '7 Aug 1998', '<a href=\\"..\\/ai.php?2193956&trto=en&trfr=en&pid267\\" class=\\"fbox\\">PRO\\/EDR> Influenza A advisory - USA (Alaska), Canada (Yukon)<\\/a>', 'Influenza', '<a href=\\"javascript:sc(\'63.292900\',\'-136.318405\',5,267);\\">Yukon Territory, Canada<\\/a>', 'null', 'null', 'null']
+1
+2193956
+
+284
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '7 Aug 1998', '<a href=\\"..\\/ai.php?2193955&trto=en&trfr=en&pid151\\" class=\\"fbox\\">PRO\\/EDR> Cholera - Thailand (04)<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'15.127040\',\'101.017357\',5,151);\\">Thailand<\\/a>', 'null', 'null', 'null']
+3
+2193955
+
+285
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '7 Aug 1998', '<a href=\\"..\\/ai.php?2193954&trto=en&trfr=en&pid198\\" class=\\"fbox\\">PRO> Enterovirus 71 epidemic - China (Hong Kong) (04)<\\/a>', 'Enterovirus', '<a href=\\"javascript:sc(\'22.284000\',\'114.150002\',5,198);\\">Hong Kong<\\/a>', 'null', 'null', 'null']
+1
+2193954
+
+286
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '7 Aug 1998', '<a href=\\"..\\/ai.php?2193953&trto=en&trfr=en&pid107\\" class=\\"fbox\\">PRO> Cholera, imported - Norway ex ?<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'60.716099\',\'8.745100\',5,107);\\">Norway<\\/a>', 'null', 'null', 'null']
+3
+2193953
+
+287
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '7 Aug 1998', '<a href=\\"..\\/ai.php?2193952&trto=en&trfr=en&pid193\\" class=\\"fbox\\">PRO> Enterovirus 71 epidemic, children - Taiwan (23)<\\/a>', 'Enterovirus', '<a href=\\"javascript:sc(\'23.873001\',\'121.016998\',6,193);\\">Taiwan<\\/a>', 'null', 'null', 'null']
+1
+2193952
+
+288
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '7 Aug 1998', '<a href=\\"..\\/ai.php?2193951&trto=en&trfr=en&pid16\\" class=\\"fbox\\">PRO\\/AH\\/EDR> Venezuelan equine encephalitis - Colombia (Casanare)<\\/a>', 'Venezuelan Equine Encephalitis', '<a href=\\"javascript:sc(\'3.901160\',\'-73.073372\',5,16);\\">Colombia<\\/a>', 'null', 'null', 'null']
+3
+2193951
+
+289
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '6 Aug 1998', '<a href=\\"..\\/ai.php?2193948&trto=en&trfr=en&pid205\\" class=\\"fbox\\">PRO\\/EDR> Salmonellosis - USA (Alabama)<\\/a>', 'Salmonella', '<a href=\\"javascript:sc(\'32.731800\',\'-86.748100\',5,205);\\">Alabama, United States<\\/a>', 'null', 'null', 'null']
+1
+2193948
+
+290
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '6 Aug 1998', '<a href=\\"..\\/ai.php?2193947&trto=en&trfr=en&pid108\\" class=\\"fbox\\">PRO> Myocarditis, rodent vector: concerns warranted? (02)<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'62.789902\',\'16.739750\',5,108);\\">Sweden<\\/a>', 'null', 'null', 'null']
+1
+2193947
+
+291
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '6 Aug 1998', '<a href=\\"..\\/ai.php?2193946&trto=en&trfr=en&pid40\\" class=\\"fbox\\">PRO\\/AH> CJD, surveillance update - UK (06)<\\/a>', 'CJD', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+3
+2193946
+
+292
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '6 Aug 1998', '<a href=\\"..\\/ai.php?2193945&trto=en&trfr=en&pid141\\" class=\\"fbox\\">PRO\\/AH\\/EDR> Anthrax, human - Tajikistan (02)<\\/a>', 'Anthrax', '<a href=\\"javascript:sc(\'38.528179\',\'71.042000\',5,141);\\">Tajikistan<\\/a>', 'null', 'null', 'null']
+3
+2193945
+
+293
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '6 Aug 1998', '<a href=\\"..\\/ai.php?2193944&trto=en&trfr=en&pid40\\" class=\\"fbox\\">PRO\\/AH> Greater horseshoe bat, disappearance - UK<\\/a>', 'Pests', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+1
+2193944
+
+294
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '6 Aug 1998', '<a href=\\"..\\/ai.php?2193943&trto=en&trfr=en&pid108\\" class=\\"fbox\\">PRO\\/PL> Feeding a hungrier world<\\/a>', 'Other Plant Disease', '<a href=\\"javascript:sc(\'62.789902\',\'16.739750\',5,108);\\">Sweden<\\/a>', 'null', 'null', 'null']
+1
+2193943
+
+295
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '6 Aug 1998', '<a href=\\"..\\/ai.php?2193942&trto=en&trfr=en&pid108\\" class=\\"fbox\\">PRO\\/AH> Giardia & Cryptosporidium, background - Sweden<\\/a>', 'Giardiasis', '<a href=\\"javascript:sc(\'62.789902\',\'16.739750\',5,108);\\">Sweden<\\/a>', 'null', 'null', 'null']
+1
+2193942
+
+296
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '6 Aug 1998', '<a href=\\"..\\/ai.php?2193942&trto=en&trfr=en&pid108\\" class=\\"fbox\\">PRO\\/AH> Giardia & Cryptosporidium, background - Sweden<\\/a>', 'Cryptosporidium', '<a href=\\"javascript:sc(\'62.789902\',\'16.739750\',5,108);\\">Sweden<\\/a>', 'null', 'null', 'null']
+3
+2193942
+
+297
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '6 Aug 1998', '<a href=\\"..\\/ai.php?2193941&trto=en&trfr=en&pid100\\" class=\\"fbox\\">PRO\\/AH\\/EDR> Rabies, canine, human exposure - France (Nimes)<\\/a>', 'Rabies', '<a href=\\"javascript:sc(\'46.564499\',\'2.551950\',5,100);\\">France<\\/a>', 'null', 'null', 'null']
+1
+2193941
+
+298
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '6 Aug 1998', '<a href=\\"..\\/ai.php?2193940&trto=en&trfr=en&pid216\\" class=\\"fbox\\">PRO\\/AH> Leptospirosis - USA (Illinois & Wisconsin) (07)<\\/a>', 'Leptospirosis', '<a href=\\"javascript:sc(\'40.010700\',\'-89.252998\',5,216);\\">Illinois, United States<\\/a>', 'null', 'null', 'null']
+3
+2193940
+
+299
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '6 Aug 1998', '<a href=\\"..\\/ai.php?2193940&trto=en&trfr=en&pid250\\" class=\\"fbox\\">PRO\\/AH> Leptospirosis - USA (Illinois & Wisconsin) (07)<\\/a>', 'Leptospirosis', '<a href=\\"javascript:sc(\'44.496498\',\'-90.000000\',5,250);\\">Wisconsin, United States<\\/a>', 'null', 'null', 'null']
+3
+2193940
+
+300
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '6 Aug 1998', '<a href=\\"..\\/ai.php?2193939&trto=en&trfr=en&pid260\\" class=\\"fbox\\">PRO\\/AH> Leptospirosis, trappers - Canada (Ontario)<\\/a>', 'Leptospirosis', '<a href=\\"javascript:sc(\'51.727001\',\'-86.704201\',5,260);\\">Ontario Province, Canada<\\/a>', 'null', 'null', 'null']
+3
+2193939
+
+301
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '6 Aug 1998', '<a href=\\"..\\/ai.php?2193938&trto=en&trfr=en&pid213\\" class=\\"fbox\\">PRO> Smallpox, destruction of stocks<\\/a>', 'Smallpox-Related', '<a href=\\"javascript:sc(\'32.731800\',\'-83.496101\',5,213);\\">Georgia, United States<\\/a>', 'null', 'null', 'null']
+3
+2193938
+
+302
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '6 Aug 1998', '<a href=\\"..\\/ai.php?2193938&trto=en&trfr=en&pid453\\" class=\\"fbox\\">PRO> Smallpox, destruction of stocks<\\/a>', 'Smallpox-Related', '<a href=\\"javascript:sc(\'55.227100\',\'80.068298\',5,453);\\">Novosibirsk Oblast<\\/a>', 'null', 'null', 'null']
+3
+2193938
+
+303
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '6 Aug 1998', '<a href=\\"..\\/ai.php?2193937&trto=en&trfr=en&pid245\\" class=\\"fbox\\">PRO\\/EDR> Amebic meningoencephalitis, primary - USA(Texas)(02)<\\/a>', 'Meningitis', '<a href=\\"javascript:sc(\'31.240900\',\'-99.228600\',5,245);\\">Texas, United States<\\/a>', 'null', 'null', 'null']
+3
+2193937
+
+304
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '6 Aug 1998', '<a href=\\"..\\/ai.php?2193937&trto=en&trfr=en&pid245\\" class=\\"fbox\\">PRO\\/EDR> Amebic meningoencephalitis, primary - USA(Texas)(02)<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'31.240900\',\'-99.228600\',5,245);\\">Texas, United States<\\/a>', 'null', 'null', 'null']
+1
+2193937
+
+305
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '6 Aug 1998', '<a href=\\"..\\/ai.php?2193936&trto=en&trfr=en&pid198\\" class=\\"fbox\\">PRO> Enterovirus 71 epidemic - China (Hong Kong) (03)<\\/a>', 'Enterovirus', '<a href=\\"javascript:sc(\'22.284000\',\'114.150002\',5,198);\\">Hong Kong<\\/a>', 'null', 'null', 'null']
+1
+2193936
+
+306
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '6 Aug 1998', '<a href=\\"..\\/ai.php?2193935&trto=en&trfr=en&pid158\\" class=\\"fbox\\">PRO\\/EDR> Dengue - Philippines (04)<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'11.741830\',\'122.878708\',5,158);\\">Philippines<\\/a>', 'null', 'null', 'null']
+3
+2193935
+
+307
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '6 Aug 1998', '<a href=\\"..\\/ai.php?2193934&trto=en&trfr=en&pid285\\" class=\\"fbox\\">PRO\\/EDR> Dengue - Australia (Queensland) (10)<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'-23.322100\',\'143.964798\',5,285);\\">Queensland, Australia<\\/a>', 'null', 'null', 'null']
+3
+2193934
+
+308
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '6 Aug 1998', '<a href=\\"..\\/ai.php?2193933&trto=en&trfr=en&pid259\\" class=\\"fbox\\">PRO\\/EDR> Hantavirus infection, human - USA (Washington)<\\/a>', 'Hantavirus', '<a href=\\"javascript:sc(\'38.895000\',\'-77.036697\',5,259);\\">Washington, DC, United States<\\/a>', 'null', 'null', 'null']
+3
+2193933
+
+309
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '6 Aug 1998', '<a href=\\"..\\/ai.php?2193932&trto=en&trfr=en&pid354\\" class=\\"fbox\\">PRO\\/EDR> Aseptic meningitis - USA (Minnesota)<\\/a>', 'Meningitis', '<a href=\\"javascript:sc(\'46.225399\',\'-94.658302\',5,354);\\">Minnesota, United States<\\/a>', 'null', 'null', 'null']
+3
+2193932
+
+310
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '6 Aug 1998', '<a href=\\"..\\/ai.php?2193931&trto=en&trfr=en&pid147\\" class=\\"fbox\\">PRO\\/EDR> Dengue - Malaysia (Sarawak) (02)<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'2.574600\',\'113.191803\',5,147);\\">Malaysia<\\/a>', 'null', 'null', 'null']
+3
+2193931
+
+311
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '5 Aug 1998', '<a href=\\"..\\/ai.php?2193930&trto=en&trfr=en&pid204\\" class=\\"fbox\\">PRO> Plague facts<\\/a>', 'Plague', '<a href=\\"javascript:sc(\'37.250198\',\'-119.750298\',5,204);\\">California, United States<\\/a>', 'null', 'null', 'null']
+3
+2193930
+
+312
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '5 Aug 1998', '<a href=\\"..\\/ai.php?2193929&trto=en&trfr=en&pid204\\" class=\\"fbox\\">PRO\\/PL> APS population\\/hunger resolution<\\/a>', 'Other Plant Disease', '<a href=\\"javascript:sc(\'37.250198\',\'-119.750298\',5,204);\\">California, United States<\\/a>', 'null', 'null', 'null']
+1
+2193929
+
+313
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '5 Aug 1998', '<a href=\\"..\\/ai.php?2193928&trto=en&trfr=en&pid204\\" class=\\"fbox\\">PRO\\/AH\\/EDR> Pelican deaths, ?botulism - USA (California)<\\/a>', 'Botulism', '<a href=\\"javascript:sc(\'37.250198\',\'-119.750298\',5,204);\\">California, United States<\\/a>', 'null', 'null', 'null']
+1
+2193928
+
+314
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '5 Aug 1998', '<a href=\\"..\\/ai.php?2193927&trto=en&trfr=en&pid264\\" class=\\"fbox\\">PRO\\/AH> Rabies, bats - Canada(Victoria, British Columbia)(02)<\\/a>', 'Rabies', '<a href=\\"javascript:sc(\'54.673801\',\'-124.936600\',5,264);\\">British Columbia Province, Canada<\\/a>', 'null', 'null', 'null']
+1
+2193927
+
+315
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '5 Aug 1998', '<a href=\\"..\\/ai.php?2193926&trto=en&trfr=en&pid106\\" class=\\"fbox\\">PRO\\/AH> Antibiotic resistance, livestock - USA<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'39.966930\',\'-97.556099\',4,106);\\">United States<\\/a>', 'null', 'null', 'null']
+1
+2193926
+
+316
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '5 Aug 1998', '<a href=\\"..\\/ai.php?2193925&trto=en&trfr=en&pid158\\" class=\\"fbox\\">PRO> Red tide advisory - Philippines (Manila) (02)<\\/a>', 'Algae', '<a href=\\"javascript:sc(\'11.741830\',\'122.878708\',5,158);\\">Philippines<\\/a>', 'null', 'null', 'null']
+1
+2193925
+
+317
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '5 Aug 1998', '<a href=\\"..\\/ai.php?2193924&trto=en&trfr=en&pid138\\" class=\\"fbox\\">PRO\\/AH\\/EDR> Anthrax, human - Kyrgyzstan<\\/a>', 'Anthrax', '<a href=\\"javascript:sc(\'41.465050\',\'74.555603\',5,138);\\">Kyrgyzstan<\\/a>', 'null', 'null', 'null']
+3
+2193924
+
+318
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '5 Aug 1998', '<a href=\\"..\\/ai.php?2193923&trto=en&trfr=en&pid416\\" class=\\"fbox\\">PRO\\/AH\\/EDR> Anthrax - Russia (Krasnodar) (04)<\\/a>', 'Anthrax', '<a href=\\"javascript:sc(\'45.690800\',\'39.830898\',5,416);\\">Krasnodar Krai<\\/a>', 'null', 'null', 'null']
+3
+2193923
+
+319
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '5 Aug 1998', '<a href=\\"..\\/ai.php?2193922&trto=en&trfr=en&pid141\\" class=\\"fbox\\">PRO\\/AH\\/EDR> Anthrax, human - Tajikistan<\\/a>', 'Anthrax', '<a href=\\"javascript:sc(\'38.528179\',\'71.042000\',5,141);\\">Tajikistan<\\/a>', 'null', 'null', 'null']
+3
+2193922
+
+320
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '5 Aug 1998', '<a href=\\"..\\/ai.php?2193921&trto=en&trfr=en&pid411\\" class=\\"fbox\\">PRO> Cholera - Russia (Moscow) (02)<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'55.752201\',\'37.615501\',5,411);\\">Moscow<\\/a>', 'null', 'null', 'null']
+3
+2193921
+
+321
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '5 Aug 1998', '<a href=\\"..\\/ai.php?2193920&trto=en&trfr=en&pid193\\" class=\\"fbox\\">PRO\\/EDR> Dengue, imported - Taiwan ex S.E. Asia<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'23.873001\',\'121.016998\',6,193);\\">Taiwan<\\/a>', 'null', 'null', 'null']
+3
+2193920
+
+322
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '5 Aug 1998', '<a href=\\"..\\/ai.php?2193919&trto=en&trfr=en&pid233\\" class=\\"fbox\\">PRO> Plague, bubonic - USA (New Mexico)<\\/a>', 'Plague', '<a href=\\"javascript:sc(\'34.488400\',\'-105.996101\',5,233);\\">New Mexico, United States<\\/a>', 'null', 'null', 'null']
+3
+2193919
+
+323
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '5 Aug 1998', '<a href=\\"..\\/ai.php?2193918&trto=en&trfr=en&pid120\\" class=\\"fbox\\">PRO\\/EDR> Salmonellosis - Lithuania<\\/a>', 'Salmonella', '<a href=\\"javascript:sc(\'55.335670\',\'23.898121\',5,120);\\">Lithuania<\\/a>', 'null', 'null', 'null']
+1
+2193918
+
+324
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '5 Aug 1998', '<a href=\\"..\\/ai.php?2193917&trto=en&trfr=en&pid100\\" class=\\"fbox\\">PRO\\/EDR> Macrophagic myofasciitis - Europe<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'46.564499\',\'2.551950\',5,100);\\">France<\\/a>', 'null', 'null', 'null']
+1
+2193917
+
+325
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '4 Aug 1998', '<a href=\\"..\\/ai.php?2193916&trto=en&trfr=en&pid209\\" class=\\"fbox\\">PRO\\/AH> Vesicular stomatitis, horses - USA (Colorado) (03)<\\/a>', 'Vesicular Stomatitis', '<a href=\\"javascript:sc(\'38.993500\',\'-105.512703\',5,209);\\">Colorado, United States<\\/a>', 'null', 'null', 'null']
+3
+2193916
+
+326
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '4 Aug 1998', '<a href=\\"..\\/ai.php?2193915&trto=en&trfr=en&pid261\\" class=\\"fbox\\">PRO\\/AH\\/EDR> Anthrax, zoo animals - Canada (Winnipeg)<\\/a>', 'Anthrax', '<a href=\\"javascript:sc(\'55.002800\',\'-96.987396\',5,261);\\">Manitoba Province, Canada<\\/a>', 'null', 'null', 'null']
+3
+2193915
+
+327
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '4 Aug 1998', '<a href=\\"..\\/ai.php?2193914&trto=en&trfr=en&pid40\\" class=\\"fbox\\">PRO> Body piercing, tattooing & infection (03)<\\/a>', 'Staph', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+1
+2193914
+
+328
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '4 Aug 1998', '<a href=\\"..\\/ai.php?2193913&trto=en&trfr=en&pid40\\" class=\\"fbox\\">PRO> Encephalitis lethargica returning? - UK<\\/a>', 'Encephalitis', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+3
+2193913
+
+329
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '4 Aug 1998', '<a href=\\"..\\/ai.php?2193912&trto=en&trfr=en&pid296\\" class=\\"fbox\\">PRO> Giardia, water supply - Australia (Sydney) (06)<\\/a>', 'Giardiasis', '<a href=\\"javascript:sc(\'-33.870499\',\'151.215805\',5,296);\\">Sydney, New South Wales, Australia<\\/a>', 'null', 'null', 'null']
+1
+2193912
+
+330
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '4 Aug 1998', '<a href=\\"..\\/ai.php?2193911&trto=en&trfr=en&pid100\\" class=\\"fbox\\">PRO\\/AH> BSE - France (11)<\\/a>', 'BSE', '<a href=\\"javascript:sc(\'46.564499\',\'2.551950\',5,100);\\">France<\\/a>', 'null', 'null', 'null']
+3
+2193911
+
+331
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '4 Aug 1998', '<a href=\\"..\\/ai.php?2193910&trto=en&trfr=en&pid106\\" class=\\"fbox\\">PRO\\/PL> American Phytopathological Society (APS)<\\/a>', 'Other Plant Disease', '<a href=\\"javascript:sc(\'39.966930\',\'-97.556099\',4,106);\\">United States<\\/a>', 'null', 'null', 'null']
+1
+2193910
+
+332
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '4 Aug 1998', '<a href=\\"..\\/ai.php?2193909&trto=en&trfr=en&pid233\\" class=\\"fbox\\">PRO\\/EDR> Botulism from peyote - USA (New Mexico)<\\/a>', 'Botulism', '<a href=\\"javascript:sc(\'34.488400\',\'-105.996101\',5,233);\\">New Mexico, United States<\\/a>', 'null', 'null', 'null']
+1
+2193909
+
+333
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '4 Aug 1998', '<a href=\\"..\\/ai.php?2193908&trto=en&trfr=en&pid158\\" class=\\"fbox\\">PRO> Red tide advisory - Philippines (Manila)<\\/a>', 'Algae', '<a href=\\"javascript:sc(\'11.741830\',\'122.878708\',5,158);\\">Philippines<\\/a>', 'null', 'null', 'null']
+1
+2193908
+
+334
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '4 Aug 1998', '<a href=\\"..\\/ai.php?2193907&trto=en&trfr=en&pid252\\" class=\\"fbox\\">PRO\\/AH> Tularemia - USA (New York City) (03)<\\/a>', 'Tularemia', '<a href=\\"javascript:sc(\'40.713902\',\'-74.003998\',5,252);\\">New York City, New York State, United States<\\/a>', 'null', 'null', 'null']
+1
+2193907
+
+335
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '4 Aug 1998', '<a href=\\"..\\/ai.php?2193906&trto=en&trfr=en&pid179\\" class=\\"fbox\\">PRO\\/EDR> Cholera - South Africa (Mpumalanga Province) (03)<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'-28.998529\',\'25.092541\',5,179);\\">South Africa<\\/a>', 'null', 'null', 'null']
+3
+2193906
+
+336
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Aug 1998', '<a href=\\"..\\/ai.php?2193903&trto=en&trfr=en&pid156\\" class=\\"fbox\\">PRO> Food poisoning, cyanide? - Japan (Wakayama) (02)<\\/a>', 'Foodborne Illness', '<a href=\\"javascript:sc(\'36.098541\',\'138.478607\',5,156);\\">Japan<\\/a>', 'null', 'null', 'null']
+1
+2193903
+
+337
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Aug 1998', '<a href=\\"..\\/ai.php?2193902&trto=en&trfr=en&pid23\\" class=\\"fbox\\">PRO\\/AH> Leptospirosis - Nicaragua: 1995 outbreak<\\/a>', 'Leptospirosis', '<a href=\\"javascript:sc(\'12.839910\',\'-85.034782\',5,23);\\">Nicaragua<\\/a>', 'null', 'null', 'null']
+3
+2193902
+
+338
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Aug 1998', '<a href=\\"..\\/ai.php?2193901&trto=en&trfr=en&pid40\\" class=\\"fbox\\">PRO\\/AH> BSE, unrecognized strain - UK<\\/a>', 'BSE', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+3
+2193901
+
+339
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Aug 1998', '<a href=\\"..\\/ai.php?2193900&trto=en&trfr=en&pid152\\" class=\\"fbox\\">PRO\\/EDR> Dengue - Vietnam (05)<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'14.944700\',\'108.457001\',5,152);\\">Vietnam<\\/a>', 'null', 'null', 'null']
+3
+2193900
+
+340
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Aug 1998', '<a href=\\"..\\/ai.php?2193899&trto=en&trfr=en&pid296\\" class=\\"fbox\\">PRO\\/AH> Giardia, water supply - Australia (Sydney) (05)<\\/a>', 'Giardiasis', '<a href=\\"javascript:sc(\'-33.870499\',\'151.215805\',5,296);\\">Sydney, New South Wales, Australia<\\/a>', 'null', 'null', 'null']
+1
+2193899
+
+341
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Aug 1998', '<a href=\\"..\\/ai.php?2193898&trto=en&trfr=en&pid40\\" class=\\"fbox\\">PRO\\/AH\\/EDR> Varroa mite, bees - UK<\\/a>', 'Pests', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+1
+2193898
+
+342
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Aug 1998', '<a href=\\"..\\/ai.php?2193897&trto=en&trfr=en&pid106\\" class=\\"fbox\\">PRO\\/AH> Dracunculiasis, imported case awareness<\\/a>', 'Guinea Worm', '<a href=\\"javascript:sc(\'39.966930\',\'-97.556099\',4,106);\\">United States<\\/a>', 'null', 'null', 'null']
+1
+2193897
+
+343
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Aug 1998', '<a href=\\"..\\/ai.php?2193897&trto=en&trfr=en&pid96\\" class=\\"fbox\\">PRO\\/AH> Dracunculiasis, imported case awareness<\\/a>', 'Guinea Worm', '<a href=\\"javascript:sc(\'13.831530\',\'30.049950\',5,96);\\">Sudan<\\/a>', 'null', 'null', 'null']
+1
+2193897
+
+344
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Aug 1998', '<a href=\\"..\\/ai.php?2193896&trto=en&trfr=en&pid54\\" class=\\"fbox\\">PRO\\/EDR> Cholera - Liberia<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'6.448090\',\'-9.307910\',5,54);\\">Liberia<\\/a>', 'null', 'null', 'null']
+3
+2193896
+
+345
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Aug 1998', '<a href=\\"..\\/ai.php?2193895&trto=en&trfr=en&pid108\\" class=\\"fbox\\">PRO\\/AH> Myocarditis, rodent vector: concerns warranted?<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'62.789902\',\'16.739750\',5,108);\\">Sweden<\\/a>', 'null', 'null', 'null']
+1
+2193895
+
+346
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '3 Aug 1998', '<a href=\\"..\\/ai.php?2193894&trto=en&trfr=en&pid230\\" class=\\"fbox\\">PRO\\/AH\\/EDR> Hantavirus infection, human - USA (Nevada)<\\/a>', 'Hantavirus', '<a href=\\"javascript:sc(\'39.266201\',\'-116.762703\',5,230);\\">Nevada, United States<\\/a>', 'null', 'null', 'null']
+3
+2193894
+
+347
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '2 Aug 1998', '<a href=\\"..\\/ai.php?2193893&trto=en&trfr=en&pid12\\" class=\\"fbox\\">PRO> Meningitis, meningococcal, consensus report - Canada<\\/a>', 'Meningitis', '<a href=\\"javascript:sc(\'55.429001\',\'-101.865303\',4,12);\\">Canada<\\/a>', 'null', 'null', 'null']
+3
+2193893
+
+348
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '2 Aug 1998', '<a href=\\"..\\/ai.php?2193892&trto=en&trfr=en&pid43\\" class=\\"fbox\\">PRO\\/AH> Anthrax, vaccine failure? - Spain: RFI<\\/a>', 'Anthrax', '<a href=\\"javascript:sc(\'40.226830\',\'-3.649570\',5,43);\\">Spain<\\/a>', 'null', 'null', 'null']
+3
+2193892
+
+349
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '2 Aug 1998', '<a href=\\"..\\/ai.php?2193891&trto=en&trfr=en&pid204\\" class=\\"fbox\\">PRO\\/EDR> E. coli, state prisons - USA (California)<\\/a>', 'E. coli', '<a href=\\"javascript:sc(\'37.250198\',\'-119.750298\',5,204);\\">California, United States<\\/a>', 'null', 'null', 'null']
+3
+2193891
+
+350
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '2 Aug 1998', '<a href=\\"..\\/ai.php?2193890&trto=en&trfr=en&pid296\\" class=\\"fbox\\">PRO> Giardia, water supply - Australia (Sydney) (04)<\\/a>', 'Giardiasis', '<a href=\\"javascript:sc(\'-33.870499\',\'151.215805\',5,296);\\">Sydney, New South Wales, Australia<\\/a>', 'null', 'null', 'null']
+1
+2193890
+
+351
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '2 Aug 1998', '<a href=\\"..\\/ai.php?2193889&trto=en&trfr=en&pid192\\" class=\\"fbox\\">PRO\\/EDR> Dengue - Puerto Rico<\\/a>', 'Dengue', '<a href=\\"javascript:sc(\'18.251301\',\'-66.501404\',6,192);\\">Puerto Rico<\\/a>', 'null', 'null', 'null']
+3
+2193889
+
+352
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '2 Aug 1998', '<a href=\\"..\\/ai.php?2193888&trto=en&trfr=en&pid40\\" class=\\"fbox\\">PRO> Salmonella typhimurium DT104, prevalence - UK (03)<\\/a>', 'Salmonella', '<a href=\\"javascript:sc(\'54.470001\',\'-2.021500\',5,40);\\">United Kingdom<\\/a>', 'null', 'null', 'null']
+1
+2193888
+
+353
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '2 Aug 1998', '<a href=\\"..\\/ai.php?2193887&trto=en&trfr=en&pid247\\" class=\\"fbox\\">PRO\\/EDR> Malaria - USA (Virginia)<\\/a>', 'Malaria', '<a href=\\"javascript:sc(\'37.648998\',\'-78.354500\',5,247);\\">Virginia, United States<\\/a>', 'null', 'null', 'null']
+3
+2193887
+
+354
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '2 Aug 1998', '<a href=\\"..\\/ai.php?2193886&trto=en&trfr=en&pid250\\" class=\\"fbox\\">PRO> Shigellosis, homeless shelter - USA (Wisconsin)(02)<\\/a>', 'Shigellosis', '<a href=\\"javascript:sc(\'44.496498\',\'-90.000000\',5,250);\\">Wisconsin, United States<\\/a>', 'null', 'null', 'null']
+3
+2193886
+
+355
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '1 Aug 1998', '<a href=\\"..\\/ai.php?2193885&trto=en&trfr=en&pid174\\" class=\\"fbox\\">PRO\\/EDR> Cholera - Kenya (Marsabit)<\\/a>', 'Cholera', '<a href=\\"javascript:sc(\'0.529860\',\'37.857880\',6,174);\\">Kenya<\\/a>', 'null', 'null', 'null']
+3
+2193885
+
+356
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '1 Aug 1998', '<a href=\\"..\\/ai.php?2193884&trto=en&trfr=en&pid232\\" class=\\"fbox\\">PRO\\/AH> Undiagnosed illness, bat guano related - USA (NJ)(04)<\\/a>', 'Undiagnosed', '<a href=\\"javascript:sc(\'40.178799\',\'-74.355499\',5,232);\\">New Jersey, United States<\\/a>', 'null', 'null', 'null']
+3
+2193884
+
+357
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '1 Aug 1998', '<a href=\\"..\\/ai.php?2193883&trto=en&trfr=en&pid296\\" class=\\"fbox\\">PRO\\/AH> Giardia, water supply - Australia (Sydney) (03)<\\/a>', 'Giardiasis', '<a href=\\"javascript:sc(\'-33.870499\',\'151.215805\',5,296);\\">Sydney, New South Wales, Australia<\\/a>', 'null', 'null', 'null']
+1
+2193883
+
+358
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '1 Aug 1998', '<a href=\\"..\\/ai.php?2193882&trto=en&trfr=en&pid250\\" class=\\"fbox\\">PRO\\/EDR> Shigellosis, homeless shelter - USA (Wisconsin)<\\/a>', 'Shigellosis', '<a href=\\"javascript:sc(\'44.496498\',\'-90.000000\',5,250);\\">Wisconsin, United States<\\/a>', 'null', 'null', 'null']
+3
+2193882
+
+359
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '1 Aug 1998', '<a href=\\"..\\/ai.php?2193881&trto=en&trfr=en&pid172\\" class=\\"fbox\\">PRO\\/EDR> Typhus, epidemic - Burundi (highland provinces)<\\/a>', 'Typhus', '<a href=\\"javascript:sc(\'-3.356170\',\'29.887150\',5,172);\\">Burundi<\\/a>', 'null', 'null', 'null']
+1
+2193881
+
+360
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '30 Aug 1998', '<a href=\\"..\\/ai.php?115&trto=en&trfr=en&pid106\\" class=\\"fbox\\">PRO> Influenzaviruses, porcine intermediation<\\/a>', 'Avian Influenza', '<a href=\\"javascript:sc(\'39.966930\',\'-97.556099\',4,106);\\">United States<\\/a>', 'Pigs', 'null', 'null']
+3
+115
+

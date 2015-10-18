@@ -1,0 +1,4 @@
+services.addons.mozilla.org:HSTS	0	16704	1474823129432,1,0
+browsec.com:HSTS	0	16704	1474823178123,1,0
+addons.cdn.mozilla.net:HSTS	0	16704	1474823102238,1,0
+addons.mozilla.org:HSTS	0	16704	1474823128040,1,0

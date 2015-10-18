@@ -1,0 +1,15 @@
+*.pyc
+.*.swp
+data/*
+dist/*
+log/*
+ms/*
+work/*
+work_*/*
+*.egg-info
+domain_architectures.zip
+doc/source/generated/*.inc
+doc/build
+gfam_*.cfg
+etc/logo/png/*
+etc/logo/pdf/*

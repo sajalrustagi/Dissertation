@@ -1,0 +1,209 @@
+1
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '25 Aug 1994', '<a href=\\"..\\/ai.php?2186124&trto=en&trfr=en&pid106\\" class=\\"fbox\\">PROMED: Arbovirus Infoexchange online?<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'39.966930\',\'-97.556099\',4,106);\\">United States<\\/a>', 'null', 'null', 'null']
+1
+2186124
+
+ProMED Mail
+25 Aug 1994
+Not Yet Classified
+United States
+'39.966930','-97.556099',4,106
+PROMED: Arbovirus Infoexchange online?
+
+ai.php?2186124&trto=en&trfr=en&pid106
+null
+null
+null
+1
+2186124
+
+2
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Aug 1994', '<a href=\\"..\\/ai.php?2186123&trto=en&trfr=en&pid186\\" class=\\"fbox\\">PROMED: Sabia virus -- Yale researcher<\\/a>', 'Arenavirus', '<a href=\\"javascript:sc(\'-25.734970\',\'134.489563\',4,186);\\">Australia<\\/a>', 'null', 'null', 'null']
+3
+2186123
+
+ProMED Mail
+24 Aug 1994
+Arenavirus
+Australia
+'-25.734970','134.489563',4,186
+PROMED: Sabia virus -- Yale researcher
+
+ai.php?2186123&trto=en&trfr=en&pid186
+null
+null
+null
+3
+2186123
+
+3
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Aug 1994', '<a href=\\"..\\/ai.php?2186123&trto=en&trfr=en&pid252\\" class=\\"fbox\\">PROMED: Sabia virus -- Yale researcher<\\/a>', 'Arenavirus', '<a href=\\"javascript:sc(\'40.713902\',\'-74.003998\',5,252);\\">New York City, New York State, United States<\\/a>', 'null', 'null', 'null']
+3
+2186123
+
+ProMED Mail
+24 Aug 1994
+Arenavirus
+New York City, New York State, United States
+'40.713902','-74.003998',5,252
+PROMED: Sabia virus -- Yale researcher
+
+ai.php?2186123&trto=en&trfr=en&pid252
+null
+null
+null
+3
+2186123
+
+4
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Aug 1994', '<a href=\\"..\\/ai.php?2186122&trto=en&trfr=en&pid106\\" class=\\"fbox\\">PROMED:  Tickborne: new disease - USA<\\/a>', 'Pests', '<a href=\\"javascript:sc(\'39.966930\',\'-97.556099\',4,106);\\">United States<\\/a>', 'null', 'null', 'null']
+1
+2186122
+
+ProMED Mail
+24 Aug 1994
+Pests
+United States
+'39.966930','-97.556099',4,106
+PROMED:  Tickborne: new disease - USA
+
+ai.php?2186122&trto=en&trfr=en&pid106
+null
+null
+null
+1
+2186122
+
+5
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Aug 1994', '<a href=\\"..\\/ai.php?2186122&trto=en&trfr=en&pid106\\" class=\\"fbox\\">PROMED:  Tickborne: new disease - USA<\\/a>', 'Gastroenteritis', '<a href=\\"javascript:sc(\'39.966930\',\'-97.556099\',4,106);\\">United States<\\/a>', 'null', 'null', 'null']
+3
+2186122
+
+ProMED Mail
+24 Aug 1994
+Gastroenteritis
+United States
+'39.966930','-97.556099',4,106
+PROMED:  Tickborne: new disease - USA
+
+ai.php?2186122&trto=en&trfr=en&pid106
+null
+null
+null
+3
+2186122
+
+6
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '24 Aug 1994', '<a href=\\"..\\/ai.php?2186122&trto=en&trfr=en&pid106\\" class=\\"fbox\\">PROMED:  Tickborne: new disease - USA<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'39.966930\',\'-97.556099\',4,106);\\">United States<\\/a>', 'null', 'null', 'null']
+1
+2186122
+
+ProMED Mail
+24 Aug 1994
+Not Yet Classified
+United States
+'39.966930','-97.556099',4,106
+PROMED:  Tickborne: new disease - USA
+
+ai.php?2186122&trto=en&trfr=en&pid106
+null
+null
+null
+1
+2186122
+
+7
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '22 Aug 1994', '<a href=\\"..\\/ai.php?2186108&trto=en&trfr=en&pid6\\" class=\\"fbox\\">PROMED: Sabia and other rodent-borne viruses<\\/a>', 'Yellow Fever', '<a href=\\"javascript:sc(\'-10.773110\',\'-53.089821\',4,6);\\">Brazil<\\/a>', 'null', 'null', 'null']
+3
+2186108
+
+ProMED Mail
+22 Aug 1994
+Yellow Fever
+Brazil
+'-10.773110','-53.089821',4,6
+PROMED: Sabia and other rodent-borne viruses
+
+ai.php?2186108&trto=en&trfr=en&pid6
+null
+null
+null
+3
+2186108
+
+8
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '22 Aug 1994', '<a href=\\"..\\/ai.php?2186108&trto=en&trfr=en&pid6\\" class=\\"fbox\\">PROMED: Sabia and other rodent-borne viruses<\\/a>', 'Chagas', '<a href=\\"javascript:sc(\'-10.773110\',\'-53.089821\',4,6);\\">Brazil<\\/a>', 'null', 'null', 'null']
+1
+2186108
+
+ProMED Mail
+22 Aug 1994
+Chagas
+Brazil
+'-10.773110','-53.089821',4,6
+PROMED: Sabia and other rodent-borne viruses
+
+ai.php?2186108&trto=en&trfr=en&pid6
+null
+null
+null
+1
+2186108
+
+9
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '22 Aug 1994', '<a href=\\"..\\/ai.php?2186108&trto=en&trfr=en&pid6\\" class=\\"fbox\\">PROMED: Sabia and other rodent-borne viruses<\\/a>', 'Arenavirus', '<a href=\\"javascript:sc(\'-10.773110\',\'-53.089821\',4,6);\\">Brazil<\\/a>', 'null', 'null', 'null']
+3
+2186108
+
+ProMED Mail
+22 Aug 1994
+Arenavirus
+Brazil
+'-10.773110','-53.089821',4,6
+PROMED: Sabia and other rodent-borne viruses
+
+ai.php?2186108&trto=en&trfr=en&pid6
+null
+null
+null
+3
+2186108
+
+10
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '19 Aug 1994', '<a href=\\"..\\/ai.php?2186077&trto=en&trfr=en&pid106\\" class=\\"fbox\\">PROMED: Emerging Infections<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'39.966930\',\'-97.556099\',4,106);\\">United States<\\/a>', 'null', 'null', 'null']
+1
+2186077
+
+ProMED Mail
+19 Aug 1994
+Not Yet Classified
+United States
+'39.966930','-97.556099',4,106
+PROMED: Emerging Infections
+
+ai.php?2186077&trto=en&trfr=en&pid106
+null
+null
+null
+1
+2186077
+
+11
+['<img class=\\"f\\" src=\\"..\\/p\\" title=\\"ProMED Mail\\" alt=\\"ProMED Mail\\" \\/>', '19 Aug 1994', '<a href=\\"..\\/ai.php?2186076&trto=en&trfr=en&pid106\\" class=\\"fbox\\">PROMED: Emerging Infections<\\/a>', 'Not Yet Classified', '<a href=\\"javascript:sc(\'39.966930\',\'-97.556099\',4,106);\\">United States<\\/a>', 'null', 'null', 'null']
+1
+2186076
+
+ProMED Mail
+19 Aug 1994
+Not Yet Classified
+United States
+'39.966930','-97.556099',4,106
+PROMED: Emerging Infections
+
+ai.php?2186076&trto=en&trfr=en&pid106
+null
+null
+null
+1
+2186076
+
