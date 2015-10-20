@@ -23,18 +23,18 @@ def stem_stop_token(index):
     # clean and tokenize document string
     raw = i.lower()
     tokens = tokenizer.tokenize(raw)
-    bigrams_zip = [b for b in zip(tokens[:-1], tokens[1:])]
-    bigrams=[]
-    for items in bigrams_zip :
-        if len(items[0])>1 and len(items[1])>1 :
-            bigrams=bigrams+[str(p_stemmer.stem(items[0]))+" "+str(p_stemmer.stem(items[1]))]
-    #print "tokenized ",index
-    # remove stop words from tokens
-#    stopped_tokens = [a for a in tokens if not a in en_stop]
-#    #print "stop_word removed ",index
-#    # stem tokens
-#    stemmed_tokens = [p_stemmer.stem(a) for a in stopped_tokens ]
-#    stemmed_big_tokens = [a for a in stemmed_tokens if len(a)>1]
+#    bigrams_zip = [b for b in zip(tokens[:-1], tokens[1:])]
+#    bigrams=[]
+#    for items in bigrams_zip :
+#        if len(items[0])>1 and len(items[1])>1 :
+#            bigrams=bigrams+[str(p_stemmer.stem(items[0]))+" "+str(p_stemmer.stem(items[1]))]
+#    print "tokenized ",index
+#     remove stop words from tokens
+    stopped_tokens = [a for a in tokens if not a in en_stop]
+    #print "stop_word removed ",index
+    # stem tokens
+    stemmed_tokens = [p_stemmer.stem(a) for a in stopped_tokens ]
+    stemmed_big_tokens = [a for a in stemmed_tokens if len(a)>1]
 #    update_sql="UPDATE Corpus_English SET Stemmed_Article=\""+ str(stemmed_big_tokens)[1:-1]+"\" where Article=\""+i+"\""
     #print update_sql
 #    try :
@@ -48,17 +48,17 @@ def stem_stop_token(index):
     #print "stemmed ",index
     # add tokens to list
     print index
-    time.sleep(0.5)
-#    return stemmed_big_tokens
-    print bigrams
-    return bigrams
+    time.sleep(0.1)
+    return stemmed_big_tokens
+#    print bigrams
+#    return bigrams
 #    return update_sql
 
 db = MySQLdb.connect(host="localhost", user='root', db="Disease_names",use_unicode=True, passwd='sajal',charset='utf8' )
 cursor = db.cursor()
 
 #sql="SELECT distinct Article FROM `Corpus_English` where Stemmed_Article=\"\""
-sql="SELECT distinct Article FROM `Corpus_English`"
+sql="SELECT distinct Article FROM `Articles_English_language_corpus`"
 doc_set=[]
 try :
     cursor.execute(sql)
@@ -123,7 +123,7 @@ for index in range(len(topics)) :
     x=topic.split(" + ")
     for items in x :
         items=items.split("*")
-        insert_query="INSERT INTO  `Disease_names`.`Bigrams_LDA_1000` (`Probability` ,`Word` ,`Topic_Num`)VALUES ("+str(items[0])+",\""+str(items[1])+"\","+str(index+1)+");"
+        insert_query="INSERT INTO  `Disease_names`.`Topics_LDA_1000_view` (`Probability` ,`Word` ,`Topic_Num`)VALUES ("+str(items[0])+",\""+str(items[1])+"\","+str(index+1)+");"
         try :
            cursor.execute(insert_query)
            db.commit()

@@ -73,8 +73,7 @@ except Exception,e :
         print "Not sql :",str(e)
 """
 langs=["punjabi"]
-#sources={'punjabi_sources':{"http://punjabi.jagran.com":["national","world","state"]}}
-sources={'punjabi_sources':{"http://punjabi.jagran.com":["state"]}}
+sources={'punjabi_sources':{"http://punjabi.jagran.com":["national","world","state"]}}\
 
 langs=["hindi"]
 sources={'hindi_sources':{"http://www.jagran.com":["national","world"]}}
